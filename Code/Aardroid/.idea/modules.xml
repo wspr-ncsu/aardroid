@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/amandroid.iml" filepath="$PROJECT_DIR$/.idea/modules/amandroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/amandroid-build.iml" filepath="$PROJECT_DIR$/.idea/modules/amandroid-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/argus-saf.iml" filepath="$PROJECT_DIR$/.idea/modules/argus-saf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/argus-saf-build.iml" filepath="$PROJECT_DIR$/.idea/modules/argus-saf-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jawa.iml" filepath="$PROJECT_DIR$/.idea/modules/jawa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jawa-build.iml" filepath="$PROJECT_DIR$/.idea/modules/jawa-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jnsaf.iml" filepath="$PROJECT_DIR$/.idea/modules/jnsaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jnsaf-build.iml" filepath="$PROJECT_DIR$/.idea/modules/jnsaf-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/saf-library.iml" filepath="$PROJECT_DIR$/.idea/modules/saf-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/saf-library-build.iml" filepath="$PROJECT_DIR$/.idea/modules/saf-library-build.iml" />
+    </modules>
+  </component>
+</project>

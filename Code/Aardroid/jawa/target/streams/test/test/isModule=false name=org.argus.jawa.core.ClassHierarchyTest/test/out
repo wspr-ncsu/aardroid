@@ -1,0 +1,37 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mClassHierarchyTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLoad android.app.Activity[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should resolve android.content.ContextWrapper in Hierarchy[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLoad android.app.Activity[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should let java.lang.Object getAllSubClassesOfIncluding have 5 results[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLoad android.app.Activity[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should let java.lang.Object getAllSubClassesOf have 4 subclasses[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mandroid.app.Activity[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have 5 superclasses including itself[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mandroid.app.Activity[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have 4 superclasses[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcom.ksu.fieldFlowSentivity.MainActivity[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have 5 superclasses and assignable to Activity[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLoad android.nfc.tech.TagTechnology[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should let java.lang.AutoCloseable get 3 subinterface including itself and assignable[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLoad android.nfc.tech.TagTechnology[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should let java.lang.AutoCloseable get 2 subinterface[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLoad com.ksu.fieldFlowSentivity.MainActivity and com.ksu.fieldFlowSentivity.FooActivity[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should let android.app.Activity have 3 subclasses including itself[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLoad com.ksu.fieldFlowSentivity.MainActivity and com.ksu.fieldFlowSentivity.FooActivity[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should let android.app.Activity have 2 subclasses[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLoad android.nfc.tech.TagTechnology[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should let java.lang.AutoCloseable get subinterface java.io.Closeable[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLoad com.ksu.fieldFlowSentivity.MainActivity[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should let android.view.LayoutInflater$Factory get implementer android.app.Activity[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcom.ksu.fieldFlowSentivity.MainActivity[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should recursively subclass of java.lang.Object[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcom.ksu.fieldFlowSentivity.MainActivity[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be subclass of android.app.Activity[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32monCreate[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be visible from com.ksu.fieldFlowSentivity.MainActivity[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcom.ksu.fieldFlowSentivity.MainActivity.isDestroyed[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be dispatched to android.app.Activity.isDestroyed[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mandroid.app.Activity with process[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be abstract dispatched to com.ksu.fieldFlowSentivity.FooActivity.process[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mreset[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should clear all[0m[0m

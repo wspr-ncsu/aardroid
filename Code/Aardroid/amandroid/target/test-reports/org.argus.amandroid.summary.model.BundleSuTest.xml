@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="Samins-MacBook-Pro.local" name="org.argus.amandroid.summary.model.BundleSuTest" tests="95" errors="0" failures="0" skipped="0" time="0.089" timestamp="2021-04-10T02:33:08">
+                     <properties>
+      <property name="os.detected.version" value="10.16"/><property name="jline.esc.timeout" value="0"/><property name="jna.platform.library.path" value="/usr/lib:/usr/lib"/><property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/><property name="sun.boot.library.path" value="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib"/><property name="java.vm.version" value="25.281-b09"/><property name="gopherProxySet" value="false"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="java.vendor.url" value="http://java.oracle.com/"/><property name="os.detected.version.minor" value="16"/><property name="path.separator" value=":"/><property name="jna.loaded" value="true"/><property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/><property name="file.encoding.pkg" value="sun.io"/><property name="user.country" value="US"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="sun.os.patch.level" value="unknown"/><property name="jna.nosys" value="true"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="user.dir" value="/Users/samin/Documents/Work/Amandroid/Aardroid/Argus-SAF"/><property name="java.runtime.version" value="1.8.0_281-b09"/><property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/><property name="java.endorsed.dirs" value="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/endorsed"/><property name="os.arch" value="x86_64"/><property name="java.io.tmpdir" value="/var/folders/y1/7pjj74j5413fsq77jjltwww00000gn/T/"/><property name="line.separator" value="
+"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="os.detected.version.major" value="10"/><property name="os.name" value="Mac OS X"/><property name="os.detected.classifier" value="osx-x86_64"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="jnidispatch.path" value="/var/folders/y1/7pjj74j5413fsq77jjltwww00000gn/T/jna-109202756/jna8237783155991491015.tmp"/><property name="java.library.path" value="/Users/samin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/><property name="os.detected.arch" value="x86_64"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.class.version" value="52.0"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="os.detected.name" value="osx"/><property name="os.version" value="10.16"/><property name="user.home" value="/Users/samin"/><property name="user.timezone" value="America/New_York"/><property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/><property name="file.encoding" value="UTF-8"/><property name="java.specification.version" value="1.8"/><property name="java.class.path" value="/Users/samin/Documents/Work/Amandroid/Aardroid/Argus-SAF/tools/bin/sbt-launch.jar"/><property name="user.name" value="samin"/><property name="jline.shutdownhook" value="false"/><property name="java.vm.specification.version" value="1.8"/><property name="sun.java.command" value="/Users/samin/Documents/Work/Amandroid/Aardroid/Argus-SAF/tools/bin/sbt-launch.jar clean compile test"/><property name="java.home" value="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home"/><property name="sun.arch.data.model" value="64"/><property name="user.language" value="en"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/><property name="java.vm.info" value="mixed mode"/><property name="java.version" value="1.8.0_281"/><property name="java.ext.dirs" value="/Users/samin/Library/Java/Extensions:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/><property name="sun.boot.class.path" value="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/resources.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/rt.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/sunrsasign.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/jsse.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/jce.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/charsets.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/jfr.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/classes"/><property name="java.vendor" value="Oracle Corporation"/><property name="file.separator" value="/"/><property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/><property name="sun.io.unicode.encoding" value="UnicodeBig"/><property name="sun.cpu.endian" value="little"/><property name="sun.cpu.isalist" value=""/>
+    </properties>
+                     <testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="&lt;clinit&gt;:()V should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="&lt;init&gt;:()V should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="&lt;init&gt;:(I)V should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="&lt;init&gt;:(Landroid/os/Bundle;)V should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="&lt;init&gt;:(Ljava/lang/ClassLoader;)V should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="clear:()V should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="clone:()Ljava/lang/Object; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="containsKey:(Ljava/lang/String;)Z should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="describeContents:()I should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="forPair:(Ljava/lang/String;Ljava/lang/String;)Landroid/os/Bundle; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="get:(Ljava/lang/String;)Ljava/lang/Object; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getBoolean:(Ljava/lang/String;)Z should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getBoolean:(Ljava/lang/String;Z)Z should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getBooleanArray:(Ljava/lang/String;)[Z should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getBundle:(Ljava/lang/String;)Landroid/os/Bundle; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getByte:(Ljava/lang/String;)B should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getByte:(Ljava/lang/String;B)Ljava/lang/Byte; should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getByteArray:(Ljava/lang/String;)[B should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getChar:(Ljava/lang/String;)C should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getChar:(Ljava/lang/String;C)C should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getCharArray:(Ljava/lang/String;)[C should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getCharSequence:(Ljava/lang/String;)Ljava/lang/CharSequence; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getCharSequence:(Ljava/lang/String;Ljava/lang/CharSequence;)Ljava/lang/CharSequence; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getCharSequenceArray:(Ljava/lang/String;)[Ljava/lang/CharSequence; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getCharSequenceArrayList:(Ljava/lang/String;)Ljava/util/ArrayList; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getClassLoader:()Ljava/lang/ClassLoader; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getDouble:(Ljava/lang/String;)D should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getDouble:(Ljava/lang/String;D)D should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getDoubleArray:(Ljava/lang/String;)[D should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getFloat:(Ljava/lang/String;)F should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getFloat:(Ljava/lang/String;F)F should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getFloatArray:(Ljava/lang/String;)[F should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getIBinder:(Ljava/lang/String;)Landroid/os/IBinder; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getInt:(Ljava/lang/String;)I should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getInt:(Ljava/lang/String;I)I should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getIntArray:(Ljava/lang/String;)[I should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getIntegerArrayList:(Ljava/lang/String;)Ljava/util/ArrayList; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getLong:(Ljava/lang/String;)J should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getLong:(Ljava/lang/String;J)J should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getLongArray:(Ljava/lang/String;)[J should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getParcelable:(Ljava/lang/String;)Landroid/os/Parcelable; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getParcelableArray:(Ljava/lang/String;)[Landroid/os/Parcelable; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getParcelableArrayList:(Ljava/lang/String;)Ljava/util/ArrayList; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getSerializable:(Ljava/lang/String;)Ljava/io/Serializable; should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getShort:(Ljava/lang/String;)S should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getShort:(Ljava/lang/String;S)S should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getShortArray:(Ljava/lang/String;)[S should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getSparseParcelableArray:(Ljava/lang/String;)Landroid/util/SparseArray; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getString:(Ljava/lang/String;)Ljava/lang/String; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getString:(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getStringArray:(Ljava/lang/String;)[Ljava/lang/String; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="getStringArrayList:(Ljava/lang/String;)Ljava/util/ArrayList; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="hasFileDescriptors:()Z should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="isEmpty:()Z should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="isParcelled:()Z should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="keySet:()Ljava/util/Set; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putAll:(Landroid/os/Bundle;)V should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putBoolean:(Ljava/lang/String;Z)V should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putBooleanArray:(Ljava/lang/String;[Z)V should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putBundle:(Ljava/lang/String;Landroid/os/Bundle;)V should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putByte:(Ljava/lang/String;B)V should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putByteArray:(Ljava/lang/String;[B)V should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putChar:(Ljava/lang/String;C)V should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putCharArray:(Ljava/lang/String;[C)V should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putCharSequence:(Ljava/lang/String;Ljava/lang/CharSequence;)V should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putCharSequenceArray:(Ljava/lang/String;[Ljava/lang/CharSequence;)V should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putCharSequenceArrayList:(Ljava/lang/String;Ljava/util/ArrayList;)V should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putDouble:(Ljava/lang/String;D)V should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putDoubleArray:(Ljava/lang/String;[D)V should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putFloat:(Ljava/lang/String;F)V should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putFloatArray:(Ljava/lang/String;[F)V should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putIBinder:(Ljava/lang/String;Landroid/os/IBinder;)V should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putInt:(Ljava/lang/String;I)V should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putIntArray:(Ljava/lang/String;[I)V should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putIntegerArrayList:(Ljava/lang/String;Ljava/util/ArrayList;)V should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putLong:(Ljava/lang/String;J)V should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putLongArray:(Ljava/lang/String;[J)V should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putParcelable:(Ljava/lang/String;Landroid/os/Parcelable;)V should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putParcelableArray:(Ljava/lang/String;[Landroid/os/Parcelable;)V should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putParcelableArrayList:(Ljava/lang/String;Ljava/util/ArrayList;)V should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putSerializable:(Ljava/lang/String;Ljava/io/Serializable;)V should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putShort:(Ljava/lang/String;S)V should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putShortArray:(Ljava/lang/String;[S)V should produce as expected" time="0.004">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putSparseParcelableArray:(Ljava/lang/String;Landroid/util/SparseArray;)V should produce as expected" time="0.006">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putString:(Ljava/lang/String;Ljava/lang/String;)V should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putStringArray:(Ljava/lang/String;[Ljava/lang/String;)V should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="putStringArrayList:(Ljava/lang/String;Ljava/util/ArrayList;)V should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="readFromParcel:(Landroid/os/Parcel;)V should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="remove:(Ljava/lang/String;)V should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="setAllowFds:(Z)Z should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="setClassLoader:(Ljava/lang/ClassLoader;)V should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="size:()I should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="toString:()Ljava/lang/String; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="unparcel:()V should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.amandroid.summary.model.BundleSuTest" name="writeToParcel:(Landroid/os/Parcel;I)V should produce as expected" time="0.0">
+                                                 
+                                               </testcase>
+                     <system-out><![CDATA[]]></system-out>
+                     <system-err><![CDATA[]]></system-err>
+                   </testsuite>

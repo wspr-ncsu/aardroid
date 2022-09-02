@@ -1,0 +1,21 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTaintWuTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/taint/TaintTest.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for LTaintTest;.singleFunc:()V[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/taint/TaintTest.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for LTaintTest;.singleFunc2:()V[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/taint/TaintTest.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for LTaintTest;.caller:()V[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/taint/TaintTest.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for LTaintTest;.caller2:()V[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/taint/TaintTest.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for LTaintTest;.caller3:()V[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/taint/TaintTest.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for LTaintTest;.caller4:()V[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/taint/TaintTest.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for LTaintTest;.caller5:()V[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/taint/TaintTest.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for LTaintTest;.caller6:()V[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/taint/TaintTest.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for LTaintTest;.caller7:()V[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/taint/TaintTest.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for LTaintTest;.caller8:()V[0m[0m

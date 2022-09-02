@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/amandroid" />
+            <option value="$PROJECT_DIR$/amandroid/project" />
+            <option value="$PROJECT_DIR$/jawa" />
+            <option value="$PROJECT_DIR$/jawa/project" />
+            <option value="$PROJECT_DIR$/jnsaf" />
+            <option value="$PROJECT_DIR$/jnsaf/project" />
+            <option value="$PROJECT_DIR$/project" />
+            <option value="$PROJECT_DIR$/saf.library" />
+            <option value="$PROJECT_DIR$/saf.library/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.2.4" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

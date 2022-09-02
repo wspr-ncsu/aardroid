@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mElapsedTimeReplacerTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mnew Progress(5, 0, 0)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should format to '0ms'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mnew Progress(5, 2, 200)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should format to '200ms'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mnew Progress(5, 3, 3000)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should format to '3s'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mnew Progress(5, 5, 200)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should format to '200ms'[0m[0m

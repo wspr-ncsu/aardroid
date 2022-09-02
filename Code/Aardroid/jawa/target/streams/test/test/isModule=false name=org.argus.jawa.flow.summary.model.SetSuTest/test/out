@@ -1,0 +1,17 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mSetSuTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLjava/util/Set;.add:(Ljava/lang/Object;)Z[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce as expected[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLjava/util/Set;.clear:()V[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce as expected[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLjava/util/Set;.clone:()Ljava/lang/Object;[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce as expected[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLjava/util/Set;.contains:(Ljava/lang/Object;)Z[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce as expected[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLjava/util/Set;.isEmpty:()Z[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce as expected[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLjava/util/Set;.iterator:()Ljava/util/Iterator;[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce as expected[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLjava/util/Set;.remove:(Ljava/lang/Object;)Z[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce as expected[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLjava/util/Set;.size:()I[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce as expected[0m[0m

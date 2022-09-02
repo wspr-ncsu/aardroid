@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.app"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        tools:node="replace"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.App">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".DummyActivity1"></activity>
+
+        <activity android:name=".DummyActivity2"></activity>
+
+        <activity android:name=".DummyActivity3"></activity>
+
+        <activity android:name=".DummyActivity4"></activity>
+
+        <activity android:name=".DummyActivity5"></activity>
+
+        <activity android:name=".DummyActivity6"></activity>
+
+        <activity android:name=".DummyActivity7"></activity>
+
+        <activity android:name=".DummyActivity8"></activity>
+
+        <activity android:name=".DummyActivity9"></activity>
+
+        <activity android:name=".DummyActivity10"></activity>
+
+        <activity android:name=".DummyActivity11"></activity>
+
+        <activity android:name=".DummyActivity12"></activity>
+
+        <activity android:name=".DummyActivity13"></activity>
+
+        <activity android:name=".DummyActivity14"></activity>
+
+        <activity android:name=".DummyActivity15"></activity>
+
+        <activity android:name=".DummyActivity16"></activity>
+
+        <activity android:name=".DummyActivity17"></activity>
+
+        <activity android:name=".DummyActivity18"></activity>
+
+        <activity android:name=".DummyActivity19"></activity>
+
+        <activity android:name=".DummyActivity20"></activity>
+
+        <activity android:name=".DummyActivity21"></activity>
+
+        <activity android:name=".DummyActivity22"></activity>
+
+        <activity android:name=".DummyActivity23"></activity>
+
+        <activity android:name=".DummyActivity24"></activity>
+
+        <activity android:name=".DummyActivity25"></activity>
+
+        <activity android:name=".DummyActivity26"></activity>
+
+        <activity android:name=".DummyActivity27"></activity>
+
+        <activity android:name=".DummyActivity28"></activity>
+
+        <activity android:name=".DummyActivity29"></activity>
+
+        <activity android:name=".DummyActivity30"></activity>
+
+        <activity android:name=".DummyActivity31"></activity>
+
+        <activity android:name=".DummyActivity32"></activity>
+
+        <activity android:name=".DummyActivity33"></activity>
+
+        <activity android:name=".DummyActivity34"></activity>
+
+        <activity android:name=".DummyActivity35"></activity>
+
+        <activity android:name=".DummyActivity36"></activity>
+
+        <activity android:name=".DummyActivity37"></activity>
+
+        <activity android:name=".DummyActivity38"></activity>
+
+        <activity android:name=".DummyActivity39"></activity>
+
+        <activity android:name=".DummyActivity40"></activity>
+
+        <activity android:name=".DummyActivity41"></activity>
+
+        <activity android:name=".DummyActivity42"></activity>
+
+        <activity android:name=".DummyActivity43"></activity>
+
+        <activity android:name=".DummyActivity44"></activity>
+
+        <activity android:name=".DummyActivity45"></activity>
+
+        <activity android:name=".DummyActivity46"></activity>
+
+        <activity android:name=".DummyActivity47"></activity>
+
+        <activity android:name=".DummyActivity48"></activity>
+
+        <activity android:name=".DummyActivity49"></activity>
+
+        <activity android:name=".DummyActivity50"></activity>
+
+        <activity android:name=".DummyActivity51"></activity>
+
+        <activity android:name=".DummyActivity52"></activity>
+
+        <activity android:name=".DummyActivity53"></activity>
+
+        <activity android:name=".DummyActivity54"></activity>
+
+        <activity android:name=".DummyActivity55"></activity>
+
+        <activity android:name=".DummyActivity56"></activity>
+
+        <activity android:name=".DummyActivity57"></activity>
+
+        <activity android:name=".DummyActivity58"></activity>
+
+        <activity android:name=".DummyActivity59"></activity>
+
+        <activity android:name=".DummyActivity60"></activity>
+
+        <activity android:name=".DummyActivity61"></activity>
+
+        <activity android:name=".DummyActivity62"></activity>
+
+        <activity android:name=".DummyActivity63"></activity>
+
+        <activity android:name=".DummyActivity64"></activity>
+
+        <activity android:name=".DummyActivity65"></activity>
+
+        <activity android:name=".DummyActivity66"></activity>
+
+        <activity android:name=".DummyActivity67"></activity>
+
+        <activity android:name=".DummyActivity68"></activity>
+
+        <activity android:name=".DummyActivity69"></activity>
+
+        <activity android:name=".DummyActivity70"></activity>
+
+        <activity android:name=".DummyActivity71"></activity>
+
+        <activity android:name=".DummyActivity72"></activity>
+
+        <activity android:name=".DummyActivity73"></activity>
+
+        <activity android:name=".DummyActivity74"></activity>
+
+        <activity android:name=".DummyActivity75"></activity>
+
+        <activity android:name=".DummyActivity76"></activity>
+
+        <activity android:name=".DummyActivity77"></activity>
+
+        <activity android:name=".DummyActivity78"></activity>
+
+        <activity android:name=".DummyActivity79"></activity>
+
+        <activity android:name=".DummyActivity80"></activity>
+
+        <activity android:name=".DummyActivity81"></activity>
+
+        <activity android:name=".DummyActivity82"></activity>
+
+        <activity android:name=".DummyActivity83"></activity>
+
+        <activity android:name=".DummyActivity84"></activity>
+
+    </application>
+
+</manifest>

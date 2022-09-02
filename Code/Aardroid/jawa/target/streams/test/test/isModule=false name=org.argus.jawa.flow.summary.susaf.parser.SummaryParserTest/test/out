@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mSummaryParserTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSummaryParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw a parse exception on complete program[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSummaryParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should throw a parse exception on bad program[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSummaryParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should handle default type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSummaryParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have expected output[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSummaryParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get arg[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSummaryParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get field and ret[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSummaryParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get global and type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSummaryParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get nested field and array and map[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSummaryParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get ops[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSummaryParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should handle unknown[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSummaryParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should handle classOf[0m[0m

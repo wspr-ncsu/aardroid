@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
+	<info organisation="com.github.arguslab"
+		module="jnsaf_2.12"
+		revision="3.2.1-SNAPSHOT"
+		status="integration"
+		publication="20210411190358"
+	>
+		<license name="Apache-2.0" url="http://www.apache.org/licenses/" />
+		<description homepage="https://github.com/arguslab/Argus-SAF">
+		jnsaf
+		</description>
+	</info>
+	<configurations>
+		<conf name="compile" visibility="public" description=""/>
+		<conf name="runtime" visibility="public" description="" extends="compile"/>
+		<conf name="test" visibility="public" description="" extends="runtime"/>
+		<conf name="provided" visibility="public" description=""/>
+		<conf name="optional" visibility="public" description=""/>
+		<conf name="protobuf" visibility="public" description=""/>
+		<conf name="compile-internal" visibility="private" description="" extends="compile,optional,provided"/>
+		<conf name="runtime-internal" visibility="private" description="" extends="runtime,optional"/>
+		<conf name="test-internal" visibility="private" description="" extends="test,optional,provided"/>
+		<conf name="plugin" visibility="private" description=""/>
+		<conf name="pom" visibility="public" description=""/>
+		<conf name="scala-tool" visibility="private" description=""/>
+		<conf name="scoveragePlugin" visibility="private" description=""/>
+	</configurations>
+	<publications>
+		<artifact name="jnsaf_2.12" type="pom" ext="pom" conf="pom"/>
+		<artifact name="jnsaf_2.12" type="jar" ext="jar" conf="compile"/>
+		<artifact name="jnsaf_2.12" type="src" ext="jar" conf="compile" e:classifier="sources"/>
+		<artifact name="jnsaf_2.12" type="doc" ext="jar" conf="compile" e:classifier="javadoc"/>
+	</publications>
+	<dependencies>
+		<dependency org="org.scala-lang" name="scala-compiler" rev="2.12.7" conf="scala-tool->default,optional(default)"/>
+		<dependency org="org.scala-lang" name="scala-library" rev="2.12.7" conf="scala-tool->default,optional(default);compile->default(compile)"/>
+		<dependency org="com.github.arguslab" name="amandroid_2.12" rev="3.2.1-SNAPSHOT" conf="compile->default(compile)"/>
+		<dependency org="org.scalamock" name="scalamock_2.12" rev="4.1.0" conf="test->default(compile)"/>
+		<dependency org="org.scalatest" name="scalatest_2.12" rev="3.0.4" conf="test->default(compile)"/>
+		<dependency org="com.thesamet.scalapb" name="scalapb-runtime_2.12" rev="0.7.4" conf="compile->default(compile)"/>
+		<dependency org="org.ini4j" name="ini4j" rev="0.5.4" conf="compile->default(compile)"/>
+		<dependency org="org.json4s" name="json4s-native_2.12" rev="3.5.0" conf="compile->default(compile)"/>
+		<dependency org="org.json4s" name="json4s-ext_2.12" rev="3.5.0" conf="compile->default(compile)"/>
+		<dependency org="com.google.code.findbugs" name="jsr305" rev="3.0.2" conf="compile->default(compile)"/>
+		<dependency org="com.google.guava" name="guava" rev="20.0" conf="compile->default(compile)"/>
+		<dependency org="org.apache.commons" name="commons-lang3" rev="3.5" conf="compile->default(compile)"/>
+		<dependency org="org.antlr" name="antlr4-runtime" rev="4.7" conf="compile->default(compile)"/>
+		<dependency org="org.ow2.asm" name="asm-all" rev="5.2" conf="compile->default(compile)"/>
+		<dependency org="org.antlr" name="ST4" rev="4.0.8" conf="compile->default(compile)"/>
+		<dependency org="org.jgrapht" name="jgrapht-core" rev="1.0.1" conf="compile->default(compile)"/>
+		<dependency org="org.jgrapht" name="jgrapht-ext" rev="1.0.1" conf="compile->default(compile)"/>
+		<dependency org="com.github.javaparser" name="javaparser-core" rev="3.4.0" conf="compile->default(compile)"/>
+		<dependency org="io.grpc" name="grpc-netty" rev="1.11.0" conf="compile->default(compile)"/>
+		<dependency org="com.thesamet.scalapb" name="scalapb-runtime-grpc_2.12" rev="0.7.4" conf="compile->default(compile)"/>
+	</dependencies>
+</ivy-module>

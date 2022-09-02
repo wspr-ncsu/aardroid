@@ -1,0 +1,55 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mLocalTypeResolverTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on ArrayAccess1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on ArrayAccess2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on ArrayAccess3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on ArrayCopy[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on ArrayFill1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on ArrayFill2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on ArrayLength1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on Cmp1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on Cmp2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on ConstClass1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on ConstClass2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on DoubleLong1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on Exceptions1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on Exceptions2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on Exceptions3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should throw an exception on Exceptions4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on FieldAccess1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on FieldAccess2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on InstanceOf1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on InstanceOf2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on IfJump1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on IfJump2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on SwitchJump1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mResolve local type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get same result on SwitchJump2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDedex data.dex[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDedex comprehensive.dex[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDedex comprehensive.odex[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected code[0m[0m

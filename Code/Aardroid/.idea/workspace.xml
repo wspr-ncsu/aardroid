@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="argus-saf:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../../../GooglePlayScraper/GPScraper/src/com/benandow/googleplay/Scraper.java" description="bresp = this.mApis.getNext().categories();" line="361" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3abd7974-c5f0-49b0-9388-6c6a6dabc067" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/ScreenOverlayMisuse.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/SS/blank.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/SS/blank.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidapp/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/androidapp/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/DataEncryptionMisuse.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/DataEncryptionMisuse.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/DataPersistenceMisuse.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/DataPersistenceMisuse.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/IPCMisuse.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/IPCMisuse.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/InputValidationMisuse.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/InputValidationMisuse.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/LoggingMisuse.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/LoggingMisuse.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/ThirdPartyAPIMisuse.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/ThirdPartyAPIMisuse.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/WebViewMisuse.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/WebViewMisuse.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/org/argus/saf/cli/TaintAnalysis.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/org/argus/saf/cli/TaintAnalysis.scala" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <ignored path="$PROJECT_DIR$/saf.library/target/" />
+    <ignored path="$PROJECT_DIR$/amandroid/target/" />
+    <ignored path="$PROJECT_DIR$/jnsaf/target/" />
+    <ignored path="$PROJECT_DIR$/jawa/target/" />
+    <ignored path="$PROJECT_DIR$/amandroid/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/amandroid/project/target/" />
+    <ignored path="$PROJECT_DIR$/jawa/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/jawa/project/target/" />
+    <ignored path="$PROJECT_DIR$/jnsaf/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/jnsaf/project/target/" />
+    <ignored path="$PROJECT_DIR$/saf.library/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/saf.library/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/argus_saf$Runner.ic" NAME="Runner Coverage Results" MODIFIED="1642494115184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>aardroid.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="300077099">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="scala" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Scala" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="scala" value="260" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="260" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1053353390">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="32" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1144" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="3" />
+          <entry key="project.open.time.2" value="6" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.22" value="2" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="37" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="aar" value="3" />
+          <entry key="class" value="2" />
+          <entry key="java" value="12" />
+          <entry key="report" value="1" />
+          <entry key="scala" value="498" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="12" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Scala" value="498" />
+          <entry key="UNKNOWN" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="scala" value="16289" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="16289" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/LoggingMisuse.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
+              <folding>
+                <element signature="e#391#447#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/IPCMisuse.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="63" column="99" selection-start-line="63" selection-start-column="99" selection-end-line="63" selection-end-column="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/InputValidationMisuse.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1530">
+              <caret line="116" selection-start-line="116" selection-end-line="116" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/utils/ParameterSensitivityFinder.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3210">
+              <caret line="227" column="40" selection-start-line="227" selection-start-column="40" selection-end-line="227" selection-end-column="40" />
+              <folding>
+                <element signature="e#389#408#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/DataPersistenceMisuse.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="975">
+              <caret line="77" column="97" selection-start-line="77" selection-start-column="97" selection-end-line="77" selection-end-column="97" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/DataEncryptionMisuse.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1575">
+              <caret line="119" column="99" selection-start-line="119" selection-start-column="99" selection-end-line="119" selection-end-column="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/ScreenCaptureMisuse.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1035">
+              <caret line="83" column="3" selection-start-line="83" selection-start-column="3" selection-end-line="83" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/WebViewMisuse.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2565">
+              <caret line="185" column="25" selection-start-line="185" selection-start-column="25" selection-end-line="185" selection-end-column="25" />
+              <folding>
+                <element signature="e#389#430#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/ThirdPartyAPIMisuse.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="59" column="31" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+              <folding>
+                <element signature="e#391#410#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/core/dedex/JawaStyleCodeGenerator.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="510" column="10" selection-start-line="510" selection-start-column="10" selection-end-line="510" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>TaintAnalysisTa</find>
+      <find>jawas</find>
+      <find>interproceduralc</find>
+      <find>throw</find>
+      <find>for</find>
+      <find>jawast</find>
+      <find>tainttag</find>
+      <find>com.android.</find>
+      <find>reporter</find>
+      <find>getOutputDirUri</find>
+      <find>clear</find>
+      <find>mfp</find>
+      <find>manifest</find>
+      <find>sourceandsinkmanager</find>
+      <find>tainttags</find>
+      <find>static</find>
+      <find>Inside else</find>
+      <find>environ</find>
+      <find>jawasty</find>
+      <find>update site</find>
+      <find>Downloading amandroid</find>
+      <find>dummylayout</find>
+      <find>jawastyle</find>
+      <find>typetaintdescr</find>
+      <find>certificate pinned</find>
+      <find>jawastylec</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/jawa</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/plugin/apiMisuse/SSLTLSMisuse.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/checks/syntax/LoggingMisuse.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/utils/NamespaceFilter.scala" />
+        <option value="$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/plugin/dataInjection/IntentInjectionSourceAndSinkManager.scala" />
+        <option value="$PROJECT_DIR$/jawa/src/main/scala/org/argus/jawa/flow/dda/InterProceduralDataDependenceGraph.scala" />
+        <option value="$PROJECT_DIR$/jawa/src/main/scala/org/argus/jawa/flow/pta/rfa/ReachingFactsAnalysis.scala" />
+        <option value="$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/plugin/TaintAnalysisModules.scala" />
+        <option value="$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/core/dedex/JawaDeDex.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/argus/saf/Main.scala" />
+        <option value="$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/plugin/aardroid/LoggingMisuse.scala" />
+        <option value="$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/core/decompile/DecompilerSettings.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/Runner.scala" />
+        <option value="$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/plugin/report/DataflowChecker.scala" />
+        <option value="$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/core/ApkGlobal.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/utils/NamespaceFilter.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/LoggingMisuseDuplicate.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/LoggingMisuseDuplicate.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/ScrennshotCapture.scala" />
+        <option value="$PROJECT_DIR$/jawa/src/main/scala/org/argus/jawa/core/JawaClass.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/WipeMemory.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/scriptFile.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/DeviceAccessSecurityPolicy.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/ScreenLockMisue.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/ExternalStorageMisuse.scala" />
+        <option value="$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/plugin/DataflowChecker.scala" />
+        <option value="$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/plugin/MASVSChecker.scala" />
+        <option value="$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/core/parser/LayoutFileParser.scala" />
+        <option value="$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/alir/componentSummary/ApkYard.scala" />
+        <option value="$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/alir/taintAnalysis/AndroidSourceAndSinkManager.scala" />
+        <option value="$PROJECT_DIR$/jawa/src/main/scala/org/argus/jawa/flow/taintAnalysis/SourceAndSinkManager.scala" />
+        <option value="$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/core/AndroidGlobalConfig.scala" />
+        <option value="$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/core/dedex/JawaStyleCodeGenerator.scala" />
+        <option value="$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/alir/taintAnalysis/AndroidDataDependentTaintAnalysis.scala" />
+        <option value="$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/plugin/TaintAnalysisTask.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/WebView.scala" />
+        <option value="$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/core/parser/ManifestParser.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/manifest/ManifestAnalysis.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/ScreenCaptureMisuse.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/KeyStoreMisuse.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/CertificatePinningMisuse.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/utils/ParameterSensitivityFinder.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/layout/LayoutAnalysis.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/ScreenOverlayMisuse.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/argus/saf/cli/TaintAnalysis.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/WebViewMisuse.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/ThirdPartyAPIMisuse.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/LoggingMisuse.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/IPCMisuse.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/InputValidationMisuse.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/DataPersistenceMisuse.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/DataEncryptionMisuse.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="25" />
+    <option name="width" value="1440" />
+    <option name="height" value="875" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="argus-saf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aardroid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="argus-saf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aardroid" type="462c0819:PsiDirectoryNode" />
+              <item name="amandroid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="argus-saf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aardroid" type="462c0819:PsiDirectoryNode" />
+              <item name="amandroid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="argus-saf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aardroid" type="462c0819:PsiDirectoryNode" />
+              <item name="amandroid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="argus-saf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aardroid" type="462c0819:PsiDirectoryNode" />
+              <item name="amandroid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="argus-saf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aardroid" type="462c0819:PsiDirectoryNode" />
+              <item name="amandroid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="amandroid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="argus-saf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aardroid" type="462c0819:PsiDirectoryNode" />
+              <item name="jawa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="argus-saf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aardroid" type="462c0819:PsiDirectoryNode" />
+              <item name="jawa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="argus-saf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aardroid" type="462c0819:PsiDirectoryNode" />
+              <item name="jawa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="argus-saf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aardroid" type="462c0819:PsiDirectoryNode" />
+              <item name="jnsaf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="argus-saf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aardroid" type="462c0819:PsiDirectoryNode" />
+              <item name="jnsaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="argus-saf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aardroid" type="462c0819:PsiDirectoryNode" />
+              <item name="jnsaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="argus-saf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aardroid" type="462c0819:PsiDirectoryNode" />
+              <item name="jnsaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="argus-saf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aardroid" type="462c0819:PsiDirectoryNode" />
+              <item name="jnsaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="jnsaf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="argus-saf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aardroid" type="462c0819:PsiDirectoryNode" />
+              <item name="saf.library" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="argus-saf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aardroid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="argus-saf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aardroid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="argus-saf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aardroid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="argus-saf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aardroid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="aardroid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="argus-saf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aardroid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="aardroid" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="argus-saf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aardroid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="saf" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1643750244988" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.argus.amandroid.plugin" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="aardroid.plugins.dataflow" />
+      <recent name="aardroid.plugins.syntax" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/plugin/report" />
+      <recent name="$PROJECT_DIR$/src/main/scala/aardroid/plugins" />
+      <recent name="$PROJECT_DIR$/src/main/scala/com/sdk/lightweight" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Runner">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.argus.saf.Main" />
+      <module name="argus-saf" />
+      <option name="PROGRAM_PARAMETERS" value="t androidapp/app/build/outputs/apk/debug/app-debug.apk -a COMPONENT_BASED" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aardroid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="aardroid.Runner" />
+      <module name="argus-saf" />
+      <option name="PROGRAM_PARAMETERS" value="t TestData/APK/tranzzo.apk -l TestData/SS/tranzzo.txt -a AUTOMATIC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aardroid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Runner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="argus-saf" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="jawa [file:/Users/samin/Documents/Work/Amandroid/Aardroid/Aardroid/]" />
+                <option name="path" value="$PROJECT_DIR$/jawa" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="amandroid [file:/Users/samin/Documents/Work/Amandroid/Aardroid/Aardroid/]" />
+                <option name="path" value="$PROJECT_DIR$/amandroid" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="saf-library [file:/Users/samin/Documents/Work/Amandroid/Aardroid/Aardroid/]" />
+                <option name="path" value="$PROJECT_DIR$/saf.library" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="jnsaf [file:/Users/samin/Documents/Work/Amandroid/Aardroid/Aardroid/]" />
+                <option name="path" value="$PROJECT_DIR$/jnsaf" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="argus-saf [file:/Users/samin/Documents/Work/Amandroid/Aardroid/Aardroid/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="argus-saf-build [file:/Users/samin/Documents/Work/Amandroid/Aardroid/Aardroid/]" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="amandroid-build [file:/Users/samin/Documents/Work/Amandroid/Aardroid/Aardroid/]" />
+                <option name="path" value="$PROJECT_DIR$/amandroid/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="jawa-build [file:/Users/samin/Documents/Work/Amandroid/Aardroid/Aardroid/]" />
+                <option name="path" value="$PROJECT_DIR$/jawa/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="jnsaf-build [file:/Users/samin/Documents/Work/Amandroid/Aardroid/Aardroid/]" />
+                <option name="path" value="$PROJECT_DIR$/jnsaf/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="saf-library-build [file:/Users/samin/Documents/Work/Amandroid/Aardroid/Aardroid/]" />
+                <option name="path" value="$PROJECT_DIR$/saf.library/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9708216137000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="4256534750" />
+        <entry key="$PROJECT_DIR$/project/Common.scala" value="534606589" />
+        <entry key="$PROJECT_DIR$/project/Dependencies.scala" value="1276170682" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2428047534" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="31877004" />
+        <entry key="$PROJECT_DIR$/project/protoc.sbt" value="2236711139" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3abd7974-c5f0-49b0-9388-6c6a6dabc067" name="Default Changelist" comment="" />
+      <created>1618036084148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618036084148</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1440" height="875" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4977064" visible="true" weight="0.2639485" />
+      <window_info id="Structure" order="1" sideWeight="0.5022936" side_tool="true" weight="0.26180258" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3264996" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4990366" weight="0.3217503" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4990366" weight="0.2792793" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32963988" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5009634" side_tool="true" weight="0.41068447" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32963988" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32046333" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="12" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32953683" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="sbt" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.329559" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/aardroid/Runner.scala</url>
+          <line>187</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/core/dedex/JawaDeDex.scala</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/amandroid/src/test/scala/org/argus/amandroid/core/dedex/LocalTypeResolverTest.scala</url>
+          <line>444</line>
+          <properties />
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/jawa/src/main/scala/org/argus/jawa/flow/pta/BuildICFGFromExistingPTAResult.scala</url>
+          <line>117</line>
+          <properties />
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/core/dedex/JawaStyleCodeGenerator.scala</url>
+          <line>441</line>
+          <properties />
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/plugin/aardroid/LoggingMisuse.scala</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/jawa/src/main/scala/org/argus/jawa/flow/taintAnalysis/SourceAndSinkManager.scala</url>
+          <line>282</line>
+          <properties />
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/jawa/src/main/scala/org/argus/jawa/flow/taintAnalysis/SourceAndSinkManager.scala</url>
+          <line>287</line>
+          <properties />
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/plugin/TaintAnalysisTask.scala</url>
+          <line>117</line>
+          <properties />
+          <option name="timeStamp" value="319" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/ExternalStorageMisuse.scala</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="416" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/ExternalStorageMisuse.scala</url>
+          <line>101</line>
+          <properties />
+          <option name="timeStamp" value="417" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/core/parser/ManifestParser.scala</url>
+          <line>101</line>
+          <properties />
+          <option name="timeStamp" value="431" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/layout/LayoutAnalysis.scala</url>
+          <line>124</line>
+          <properties />
+          <option name="timeStamp" value="472" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/layout/LayoutAnalysis.scala</url>
+          <line>120</line>
+          <properties />
+          <option name="timeStamp" value="473" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/layout/LayoutAnalysis.scala</url>
+          <line>117</line>
+          <properties />
+          <option name="timeStamp" value="474" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/jawa/src/main/scala/org/argus/jawa/flow/taintAnalysis/SourceAndSinkManager.scala</url>
+          <line>276</line>
+          <properties />
+          <option name="timeStamp" value="488" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/alir/taintAnalysis/AndroidSourceAndSinkManager.scala</url>
+          <line>145</line>
+          <properties />
+          <option name="timeStamp" value="496" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/plugin/TaintAnalysisTask.scala</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="533" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/jawa/src/main/scala/org/argus/jawa/flow/dfa/InterProceduralDataFlowGraph.scala</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="552" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/WebViewMisuse.scala</url>
+          <line>149</line>
+          <properties />
+          <option name="timeStamp" value="600" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/LoggingMisuse.scala</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="670" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/LoggingMisuse.scala</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="671" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/utils/ParameterSensitivityFinder.scala</url>
+          <line>249</line>
+          <properties />
+          <option name="timeStamp" value="673" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/utils/ParameterSensitivityFinder.scala</url>
+          <line>250</line>
+          <properties />
+          <option name="timeStamp" value="679" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/org/argus/saf/cli/TaintAnalysis.scala</url>
+          <line>107</line>
+          <properties />
+          <option name="timeStamp" value="682" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/org/argus/saf/cli/TaintAnalysis.scala</url>
+          <line>114</line>
+          <properties />
+          <option name="timeStamp" value="683" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/ThirdPartyAPIMisuse.scala</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="684" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/layout/LayoutAnalysis.scala</url>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="685" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/layout/LayoutAnalysis.scala</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="686" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/ThirdPartyAPIMisuse.scala</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="687" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/ThirdPartyAPIMisuse.scala</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="688" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/ThirdPartyAPIMisuse.scala</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="689" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/ThirdPartyAPIMisuse.scala</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="690" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/core/dedex/JawaStyleCodeGenerator.scala</url>
+          <line>484</line>
+          <properties />
+          <option name="timeStamp" value="691" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/core/dedex/JawaStyleCodeGenerator.scala</url>
+          <line>509</line>
+          <properties />
+          <option name="timeStamp" value="692" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>snk</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/alir/componentSummary/ApkYard.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/core/ApkGlobal.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="146" column="6" selection-start-line="146" selection-start-column="6" selection-end-line="146" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/core/AmandroidSettings.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jawa/src/main/scala/org/argus/jawa/flow/cfg/InterProceduralControlFlowGraph.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="151" column="6" selection-start-line="151" selection-start-column="6" selection-end-line="151" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jawa/src/main/scala/org/argus/jawa/flow/dfa/InterProceduralDataFlowGraph.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jawa/src/main/scala/org/argus/jawa/flow/interprocedural/CallResolver.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-94">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jawa/src/main/scala/org/argus/jawa/flow/dfa/IngredientProviderImpl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/apparr/.report">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="174" column="21" selection-start-line="174" selection-start-column="21" selection-end-line="174" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/alir/componentSummary/ComponentBasedAnalysis.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/core/AndroidGlobalConfig.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jawa/src/main/scala/org/argus/jawa/flow/pta/rfa/ReachingFactsAnalysis.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jawa/src/main/scala/org/argus/jawa/flow/dfa/MonotoneDataFlowAnalysisFramework.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="67" column="6" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/core/codegen/AndroidEnvironmentGenerator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="24" column="68" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/core/appInfo/AppInfoCollector.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="145" column="21" selection-start-line="145" selection-start-column="21" selection-end-line="145" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jawa/src/main/scala/org/argus/jawa/core/codegen/MethodGenerator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3045">
+          <caret line="217" column="8" selection-start-line="217" selection-start-column="8" selection-end-line="217" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/alir/pta/reachingFactsAnalysis/AndroidReachingFactsAnalysis.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="93" column="11" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/alir/taintAnalysis/AndroidDataDependentTaintAnalysis.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="157" column="8" selection-start-line="157" selection-start-column="8" selection-end-line="157" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/core/parser/IntentFilterInfo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-715">
+          <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jawa/src/main/scala/org/argus/jawa/core/JawaClass.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="543" column="6" selection-start-line="543" selection-start-column="6" selection-end-line="543" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/core/parser/ManifestParser.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2007">
+          <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/core/decompile/DecompilerSettings.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="44" column="20" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/alir/taintAnalysis/AndroidSourceAndSinkManager.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jawa/src/main/scala/org/argus/jawa/flow/taintAnalysis/SourceAndSinkManager.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="103" column="75" selection-start-line="103" selection-start-column="75" selection-end-line="103" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jawa/src/main/scala/org/argus/jawa/flow/taintAnalysis/TaintAnalysisResult.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="29" column="61" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/plugin/TaintAnalysisTask.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="78" column="27" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
+          <folding>
+            <element signature="e#392#418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/utils/NamespaceFilter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="33" column="50" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/Runner.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="178" column="4" selection-start-line="178" selection-start-column="4" selection-end-line="178" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AAR/Obfuscation/Unobfuscated/datatrans.aar">
+      <provider selected="true" editor-type-id="apk-viewer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AAR/SDK/datatrans.aar">
+      <provider selected="true" editor-type-id="apk-viewer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AAR/SDK/paragon.aar">
+      <provider selected="true" editor-type-id="apk-viewer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/ExternalStorageMisuse.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="46" column="52" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/KeyStoreMisuse.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jawa/src/main/scala/org/argus/jawa/core/util/WorklistAlgorithm.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/manifest/ManifestAnalysis.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1605">
+          <caret line="122" column="89" selection-start-line="122" selection-start-column="47" selection-end-line="122" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/WipeMemory.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/layout/LayoutAnalysis.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="21" />
+          <folding>
+            <element signature="e#389#447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/CertificatePinningMisuse.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/plugin/MASVSChecker.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/ScreenLockMisue.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="52" column="95" selection-start-line="51" selection-start-column="12" selection-end-line="52" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/argus/saf/cli/TaintAnalysis.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+          <folding>
+            <element signature="e#383#434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/ScreenOverlayMisuse.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/LoggingMisuse.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#391#447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/IPCMisuse.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="63" column="99" selection-start-line="63" selection-start-column="99" selection-end-line="63" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/InputValidationMisuse.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/utils/ParameterSensitivityFinder.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3210">
+          <caret line="227" column="40" selection-start-line="227" selection-start-column="40" selection-end-line="227" selection-end-column="40" />
+          <folding>
+            <element signature="e#389#408#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/DataPersistenceMisuse.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="77" column="97" selection-start-line="77" selection-start-column="97" selection-end-line="77" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/DataEncryptionMisuse.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="119" column="99" selection-start-line="119" selection-start-column="99" selection-end-line="119" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/ScreenCaptureMisuse.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="83" column="3" selection-start-line="83" selection-start-column="3" selection-end-line="83" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/syntax/WebViewMisuse.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2565">
+          <caret line="185" column="25" selection-start-line="185" selection-start-column="25" selection-end-line="185" selection-end-column="25" />
+          <folding>
+            <element signature="e#389#430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/aardroid/plugins/dataflow/ThirdPartyAPIMisuse.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="59" column="31" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+          <folding>
+            <element signature="e#391#410#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amandroid/src/main/scala/org/argus/amandroid/core/dedex/JawaStyleCodeGenerator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="510" column="10" selection-start-line="510" selection-start-column="10" selection-end-line="510" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>argus-saf:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>amandroid</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sbt: com.github.javaparser:javaparser-core:3.4.0:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

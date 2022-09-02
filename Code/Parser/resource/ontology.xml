@@ -1,0 +1,1836 @@
+<ontology>
+	<node term="frequency of visitor to our service">
+	</node>
+	<node term="concept">
+	</node>
+	<node term="unclassified info">
+	</node>
+	<node term="address book">
+		<child term="nickname"></child>
+		<child term="information from your phone's address book"></child>
+	</node>
+	<node term="website address">
+		<child term="url"></child>
+	</node>
+	<node term="email open rate">
+	</node>
+	<node term="configuration">
+	</node>
+	<node term="text message">
+	</node>
+	<node term="content">
+		<child term="protocol"></child>
+		<child term="feedback"></child>
+		<child term="text"></child>
+		<child term="forum post"></child>
+		<child term="writing"></child>
+		<child term="blog"></child>
+		<child term="status submissions"></child>
+		<child term="geographical location"></child>
+		<child term="photo"></child>
+		<child term="video file"></child>
+		<child term="message board posting"></child>
+		<child term="email address"></child>
+		<child term="material"></child>
+		<child term="information about such statement"></child>
+		<child term="contact information"></child>
+		<child term="artwork"></child>
+		<child term="password"></child>
+		<child term="share photo"></child>
+		<child term="document"></child>
+		<child term="gender"></child>
+		<child term="page"></child>
+		<child term="user information"></child>
+		<child term="idea"></child>
+		<child term="competition"></child>
+		<child term="music video"></child>
+		<child term="video"></child>
+		<child term="event"></child>
+		<child term="set of question"></child>
+		<child term="movie"></child>
+		<child term="review"></child>
+		<child term="account information"></child>
+		<child term="special unsubscribe link in email"></child>
+		<child term="geocoding"></child>
+		<child term="friend list name"></child>
+		<child term="television show"></child>
+		<child term="video clip"></child>
+		<child term="article"></child>
+		<child term="post"></child>
+		<child term="news article"></child>
+		<child term="video gallery opinion"></child>
+		<child term="write content"></child>
+		<child term="hyperlink"></child>
+		<child term="contact on service"></child>
+		<child term="caption"></child>
+		<child term="place"></child>
+		<child term="tag photo"></child>
+		<child term="suggestion"></child>
+		<child term="blog url"></child>
+		<child term="contribution"></child>
+		<child term="software"></child>
+		<child term="comment"></child>
+		<child term="communication"></child>
+		<child term="selection of television show"></child>
+		<child term="player information"></child>
+		<child term="interaction information"></child>
+		<child term="news"></child>
+		<child term="message"></child>
+		<child term="education level"></child>
+		<child term="sport team information"></child>
+		<child term="pin"></child>
+		<child term="panorama"></child>
+		<child term="content deliver to mobile device"></child>
+		<child term="question"></child>
+		<child term="person name"></child>
+		<child term="music"></child>
+		<child term="username"></child>
+		<child term="posting"></child>
+		<child term="user submission"></child>
+		<child term="url"></child>
+		<child term="page you view"></child>
+		<child term="sound"></child>
+		<child term="graphic"></child>
+		<child term="product review"></child>
+		<child term="post information"></child>
+		<child term="voice"></child>
+		<child term="pii"></child>
+		<child term="clip"></child>
+		<child term="web content"></child>
+		<child term="file"></child>
+		<child term="web link"></child>
+		<child term="hostname"></child>
+		<child term="user video"></child>
+		<child term="animation"></child>
+		<child term="answer"></child>
+		<child term="computer graphic"></child>
+		<child term="user submissions"></child>
+		<child term="credential"></child>
+		<child term="description"></child>
+		<child term="screenshot"></child>
+		<child term="sharing of information"></child>
+		<child term="quote"></child>
+		<child term="ip address"></child>
+		<child term="letter"></child>
+		<child term="competition entry"></child>
+		<child term="port number"></child>
+		<child term="profile information"></child>
+		<child term="imagery"></child>
+		<child term="flipagram videos"></child>
+		<child term="alias"></child>
+		<child term="audio"></child>
+		<child term="drawing"></child>
+	</node>
+	<node term="financial account information">
+		<child term="payment history"></child>
+		<child term="credit score"></child>
+		<child term="person name"></child>
+		<child term="credit history"></child>
+		<child term="account balance information"></child>
+	</node>
+	<node term="email address">
+		<child term="billing relate email"></child>
+	</node>
+	<node term="such content">
+	</node>
+	<node term="bank account">
+	</node>
+	<node term="credit score">
+	</node>
+	<node term="billboard posting">
+	</node>
+	<node term="birth year">
+	</node>
+	<node term="log information">
+		<child term="operating system"></child>
+		<child term="language"></child>
+		<child term="application version"></child>
+		<child term="access date"></child>
+		<child term="internet protocol"></child>
+		<child term="ip address"></child>
+		<child term="geographical location"></child>
+		<child term="time"></child>
+		<child term="page visit"></child>
+		<child term="browser type"></child>
+		<child term="hardware type"></child>
+	</node>
+	<node term="share photo">
+	</node>
+	<node term="body mass index">
+	</node>
+	<node term="correspondence detail">
+	</node>
+	<node term="cell tower that">
+	</node>
+	<node term="school">
+	</node>
+	<node term="eye attribute">
+	</node>
+	<node term="bank account number">
+	</node>
+	<node term="telemetry information">
+		<child term="quality"></child>
+	</node>
+	<node term="account credential">
+	</node>
+	<node term="race">
+	</node>
+	<node term="session duration">
+	</node>
+	<node term="booking">
+	</node>
+	<node term="company size">
+	</node>
+	<node term="de-personalize information">
+	</node>
+	<node term="nail">
+	</node>
+	<node term="video">
+		<child term="comment"></child>
+		<child term="date"></child>
+	</node>
+	<node term="track use for background track">
+	</node>
+	<node term="banking detail">
+	</node>
+	<node term="version">
+		<child term="windows"></child>
+		<child term="android"></child>
+		<child term="ios"></child>
+	</node>
+	<node term="device sensor information">
+		<child term="altitude"></child>
+	</node>
+	<node term="movement">
+		<child term="geographical location"></child>
+	</node>
+	<node term="emergency contact information">
+	</node>
+	<node term="friend list name">
+	</node>
+	<node term="sensitive information">
+	</node>
+	<node term="security of login">
+	</node>
+	<node term="video clip">
+	</node>
+	<node term="path">
+	</node>
+	<node term="frequency of visitor to our website">
+	</node>
+	<node term="access time">
+	</node>
+	<node term="video gallery opinion">
+	</node>
+	<node term="license number">
+	</node>
+	<node term="write content">
+	</node>
+	<node term="forum">
+	</node>
+	<node term="zip code">
+	</node>
+	<node term="amount">
+	</node>
+	<node term="tag photo">
+	</node>
+	<node term="suggestion">
+		<child term="wellness"></child>
+	</node>
+	<node term="web page">
+	</node>
+	<node term="biometric information">
+		<child term="audio recording"></child>
+		<child term="identifier"></child>
+	</node>
+	<node term="home city">
+	</node>
+	<node term="internet connection">
+	</node>
+	<node term="time spend on">
+	</node>
+	<node term="shopping cart information">
+	</node>
+	<node term="page user access">
+	</node>
+	<node term="browser that you be use">
+	</node>
+	<node term="education level">
+	</node>
+	<node term="credit card payment information">
+	</node>
+	<node term="music">
+	</node>
+	<node term="passport">
+	</node>
+	<node term="news article">
+	</node>
+	<node term="type">
+	</node>
+	<node term="league ranking">
+	</node>
+	<node term="posting">
+		<child term="blog"></child>
+		<child term="forum"></child>
+		<child term="blog entry"></child>
+		<child term="message"></child>
+		<child term="billboard posting"></child>
+	</node>
+	<node term="page you view">
+	</node>
+	<node term="education information">
+	</node>
+	<node term="graphic">
+	</node>
+	<node term="self-report information">
+	</node>
+	<node term="product review">
+	</node>
+	<node term="passport number">
+	</node>
+	<node term="history">
+	</node>
+	<node term="router information">
+	</node>
+	<node term="movie time">
+	</node>
+	<node term="product information">
+	</node>
+	<node term="currency">
+	</node>
+	<node term="web content">
+	</node>
+	<node term="game play interest">
+	</node>
+	<node term="customer information">
+		<child term="pii"></child>
+		<child term="email address"></child>
+		<child term="postal address"></child>
+	</node>
+	<node term="biography">
+		<child term="person age"></child>
+		<child term="gender"></child>
+		<child term="geographical location"></child>
+	</node>
+	<node term="service provider">
+	</node>
+	<node term="information">
+		<child term="pii"></child>
+		<child term="payment card information"></child>
+		<child term="user information"></child>
+		<child term="vehicle information"></child>
+		<child term="registration information"></child>
+		<child term="government-issue identification information"></child>
+		<child term="credential"></child>
+		<child term="photo"></child>
+		<child term="financial account information"></child>
+		<child term="lifestyle information"></child>
+		<child term="photo metadata"></child>
+		<child term="video"></child>
+		<child term="interaction information"></child>
+		<child term="customer information"></child>
+		<child term="message"></child>
+		<child term="employment information"></child>
+		<child term="postal address"></child>
+		<child term="interest"></child>
+		<child term="story"></child>
+		<child term="testimonial"></child>
+		<child term="date of birth"></child>
+		<child term="account information"></child>
+		<child term="device identifier"></child>
+		<child term="network information"></child>
+		<child term="billing information"></child>
+		<child term="gameplay information"></child>
+		<child term="version"></child>
+		<child term="fitness activity information"></child>
+		<child term="geographical location"></child>
+		<child term="vehicle usage information"></child>
+		<child term="non-pii"></child>
+		<child term="username"></child>
+		<child term="browser information"></child>
+		<child term="address book"></child>
+		<child term="email address"></child>
+		<child term="demographic information"></child>
+		<child term="usage information"></child>
+		<child term="physical traits"></child>
+		<child term="payment instrument number"></child>
+		<child term="financial information"></child>
+		<child term="user submission"></child>
+		<child term="device type"></child>
+		<child term="application information"></child>
+		<child term="contact information"></child>
+		<child term="log information"></child>
+		<child term="operating system"></child>
+		<child term="password"></child>
+		<child term="information about you"></child>
+		<child term="profile information"></child>
+		<child term="device sensor information"></child>
+		<child term="device model"></child>
+		<child term="account number"></child>
+		<child term="mac address"></child>
+		<child term="posting"></child>
+		<child term="activity information"></child>
+		<child term="preference"></child>
+		<child term="purchase information"></child>
+		<child term="device setting"></child>
+		<child term="device information"></child>
+		<child term="credit information"></child>
+		<child term="suggestion"></child>
+		<child term="payment information"></child>
+		<child term="identifier"></child>
+		<child term="biometric information"></child>
+		<child term="clickstream information"></child>
+	</node>
+	<node term="payment method">
+		<child term="security code"></child>
+		<child term="expiration date"></child>
+	</node>
+	<node term="caption">
+	</node>
+	<node term="blood pressure">
+	</node>
+	<node term="serial number">
+	</node>
+	<node term="answer">
+	</node>
+	<node term="computer graphic">
+	</node>
+	<node term="credential">
+		<child term="username"></child>
+		<child term="phone number"></child>
+		<child term="security of login"></child>
+		<child term="password"></child>
+		<child term="key"></child>
+		<child term="mileageplus account number"></child>
+	</node>
+	<node term="authentication information">
+		<child term="username"></child>
+		<child term="credential"></child>
+		<child term="password"></child>
+		<child term="answer"></child>
+		<child term="subscription information"></child>
+	</node>
+	<node term="description">
+	</node>
+	<node term="key">
+	</node>
+	<node term="application instal">
+	</node>
+	<node term="contact preference">
+	</node>
+	<node term="guess-create hashtag">
+	</node>
+	<node term="transaction history">
+	</node>
+	<node term="date">
+	</node>
+	<node term="membership status">
+	</node>
+	<node term="imagery">
+	</node>
+	<node term="status message">
+	</node>
+	<node term="online their name">
+	</node>
+	<node term="vehicle usage information">
+		<child term="movement"></child>
+		<child term="accelerometer information"></child>
+		<child term="geographical location"></child>
+		<child term="charge status"></child>
+		<child term="electricity usage history"></child>
+		<child term="speed of travel"></child>
+	</node>
+	<node term="access credential">
+	</node>
+	<node term="alias">
+	</node>
+	<node term="tracking information">
+		<child term="device identifier"></child>
+	</node>
+	<node term="printed information">
+	</node>
+	<node term="feedback">
+	</node>
+	<node term="artwork">
+	</node>
+	<node term="school affiliation">
+	</node>
+	<node term="image content">
+	</node>
+	<node term="location relative to">
+	</node>
+	<node term="number of employee">
+	</node>
+	<node term="text address">
+	</node>
+	<node term="writing">
+	</node>
+	<node term="communication">
+	</node>
+	<node term="hobby">
+	</node>
+	<node term="demographic information">
+		<child term="username"></child>
+		<child term="city"></child>
+		<child term="area code"></child>
+		<child term="person age"></child>
+		<child term="gender"></child>
+		<child term="climate characteristic"></child>
+		<child term="zip code"></child>
+		<child term="state"></child>
+		<child term="geographical location"></child>
+		<child term="hometown"></child>
+		<child term="country"></child>
+		<child term="date of birth"></child>
+		<child term="employment information"></child>
+		<child term="information about your interest"></child>
+	</node>
+	<node term="timestamp">
+	</node>
+	<node term="material">
+		<child term="comment"></child>
+		<child term="concept"></child>
+		<child term="photo"></child>
+		<child term="idea"></child>
+		<child term="video"></child>
+		<child term="file"></child>
+		<child term="message"></child>
+		<child term="voice"></child>
+		<child term="posting"></child>
+		<child term="blog entry"></child>
+		<child term="list of url"></child>
+		<child term="panorama"></child>
+		<child term="review"></child>
+		<child term="note"></child>
+		<child term="animation"></child>
+		<child term="music"></child>
+		<child term="geographical location"></child>
+		<child term="communication"></child>
+		<child term="description"></child>
+		<child term="screenshot"></child>
+		<child term="quote"></child>
+		<child term="such content"></child>
+		<child term="billboard posting"></child>
+		<child term="birth year"></child>
+		<child term="post"></child>
+		<child term="email address"></child>
+		<child term="sound"></child>
+		<child term="graphic"></child>
+		<child term="recording"></child>
+		<child term="text"></child>
+		<child term="suggestion"></child>
+		<child term="audio"></child>
+		<child term="software"></child>
+	</node>
+	<node term="number">
+	</node>
+	<node term="seat selection">
+	</node>
+	<node term="browser plug-in type">
+	</node>
+	<node term="device token">
+	</node>
+	<node term="page visit">
+	</node>
+	<node term="animation">
+	</node>
+	<node term="content relate to your favorite member club">
+	</node>
+	<node term="home ownership">
+	</node>
+	<node term="number of call make">
+	</node>
+	<node term="information about you">
+		<child term="comment"></child>
+		<child term="pii"></child>
+		<child term="payment card information"></child>
+		<child term="biography"></child>
+		<child term="photo"></child>
+		<child term="device model"></child>
+		<child term="invoice"></child>
+		<child term="network type"></child>
+		<child term="home page"></child>
+		<child term="employment information"></child>
+		<child term="postal address"></child>
+		<child term="billing information"></child>
+		<child term="date of birth"></child>
+		<child term="device identifier"></child>
+		<child term="person name"></child>
+		<child term="operating system version"></child>
+		<child term="mailing list"></child>
+		<child term="interest"></child>
+		<child term="education information"></child>
+		<child term="content"></child>
+		<child term="page that you view"></child>
+		<child term="username"></child>
+		<child term="email address"></child>
+		<child term="sensitive information"></child>
+		<child term="contact preference"></child>
+		<child term="phone number"></child>
+		<child term="ip address"></child>
+		<child term="transaction history"></child>
+		<child term="contact information"></child>
+		<child term="background"></child>
+		<child term="hobby"></child>
+		<child term="imei"></child>
+		<child term="password"></child>
+		<child term="salary"></child>
+		<child term="user picture"></child>
+		<child term="mac address"></child>
+		<child term="language"></child>
+		<child term="device type"></child>
+		<child term="person age"></child>
+		<child term="gender"></child>
+		<child term="route"></child>
+		<child term="zip code"></child>
+		<child term="activity information"></child>
+		<child term="url"></child>
+		<child term="geographical location"></child>
+		<child term="status"></child>
+		<child term="country"></child>
+		<child term="self-report information"></child>
+		<child term="area code"></child>
+		<child term="business affiliation"></child>
+		<child term="history"></child>
+	</node>
+	<node term="purchase information">
+		<child term="path"></child>
+		<child term="zip code"></child>
+		<child term="page view"></child>
+		<child term="geographical location"></child>
+		<child term="postal address"></child>
+	</node>
+	<node term="device information">
+		<child term="protocol"></child>
+		<child term="address book"></child>
+		<child term="resolution"></child>
+		<child term="device platform"></child>
+		<child term="name of plug-in"></child>
+		<child term="device version"></child>
+		<child term="nation setting"></child>
+		<child term="hardware model"></child>
+		<child term="application instal"></child>
+		<child term="hardware version"></child>
+		<child term="search history"></child>
+		<child term="device identifier"></child>
+		<child term="operating system version"></child>
+		<child term="version"></child>
+		<child term="version of device"></child>
+		<child term="screen size"></child>
+		<child term="email address"></child>
+		<child term="model name"></child>
+		<child term="signal strength"></child>
+		<child term="geographical location"></child>
+		<child term="ip address"></child>
+		<child term="browser that"></child>
+		<child term="sequence information"></child>
+		<child term="access time"></child>
+		<child term="manufacturer"></child>
+		<child term="cookie preference"></child>
+		<child term="what you be request"></child>
+		<child term="operating system"></child>
+		<child term="language"></child>
+		<child term="device type"></child>
+		<child term="type"></child>
+		<child term="android id"></child>
+		<child term="isp"></child>
+		<child term="activity information"></child>
+		<child term="device setting"></child>
+		<child term="browser use"></child>
+		<child term="operation system version"></child>
+		<child term="model"></child>
+		<child term="web page"></child>
+		<child term="browser type"></child>
+		<child term="telemetry information"></child>
+	</node>
+	<node term="hardware model">
+	</node>
+	<node term="gender">
+	</node>
+	<node term="consumer credit report">
+	</node>
+	<node term="identifier">
+		<child term="username"></child>
+		<child term="link click"></child>
+		<child term="email address"></child>
+		<child term="account number"></child>
+		<child term="device identifier"></child>
+		<child term="mark"></child>
+		<child term="guess-create hashtag"></child>
+		<child term="ip address"></child>
+		<child term="answer"></child>
+		<child term="password"></child>
+		<child term="security question"></child>
+	</node>
+	<node term="list of your top connection">
+	</node>
+	<node term="trip view">
+	</node>
+	<node term="payment card number">
+	</node>
+	<node term="idea">
+	</node>
+	<node term="job title">
+	</node>
+	<node term="bluetooth">
+	</node>
+	<node term="frequency">
+	</node>
+	<node term="event">
+	</node>
+	<node term="security question">
+	</node>
+	<node term="audio recording">
+	</node>
+	<node term="sharing of information">
+	</node>
+	<node term="account information">
+		<child term="payment card number"></child>
+		<child term="photo"></child>
+		<child term="product information"></child>
+		<child term="payment choice"></child>
+		<child term="account credential"></child>
+		<child term="social media account information"></child>
+		<child term="shipping information"></child>
+		<child term="postal address"></child>
+		<child term="payment method"></child>
+		<child term="billing"></child>
+		<child term="date of birth"></child>
+		<child term="person name"></child>
+		<child term="billing information"></child>
+		<child term="geographical location"></child>
+		<child term="type of message"></child>
+		<child term="answer"></child>
+		<child term="security question"></child>
+		<child term="username"></child>
+		<child term="profile preference"></child>
+		<child term="email address"></child>
+		<child term="contact preference"></child>
+		<child term="phone number"></child>
+		<child term="account balance information"></child>
+		<child term="profile name"></child>
+		<child term="password"></child>
+		<child term="confidentiality of password"></child>
+		<child term="language"></child>
+		<child term="ip address"></child>
+		<child term="person age"></child>
+		<child term="gender"></child>
+		<child term="payment information"></child>
+		<child term="zip code"></child>
+		<child term="device information"></child>
+		<child term="status message"></child>
+		<child term="country"></child>
+	</node>
+	<node term="device identifier">
+		<child term="mac address"></child>
+		<child term="vehicle information"></child>
+		<child term="phone number"></child>
+		<child term="ip address"></child>
+		<child term="device token"></child>
+		<child term="geographical location"></child>
+		<child term="gender"></child>
+		<child term="guid"></child>
+		<child term="browser type"></child>
+	</node>
+	<node term="billing information">
+		<child term="payment card information"></child>
+		<child term="phone number"></child>
+		<child term="authentication information"></child>
+		<child term="email address"></child>
+		<child term="card type"></child>
+		<child term="payment card number"></child>
+		<child term="bank account number"></child>
+		<child term="payment card expiration date"></child>
+		<child term="verification number"></child>
+		<child term="business credit information"></child>
+		<child term="person name"></child>
+		<child term="date that your card expire"></child>
+		<child term="gender"></child>
+		<child term="number of employee"></child>
+		<child term="security code"></child>
+		<child term="credit card number tax identifier number"></child>
+		<child term="expiration date"></child>
+		<child term="postal address"></child>
+	</node>
+	<node term="content information">
+	</node>
+	<node term="communication preference">
+	</node>
+	<node term="special unsubscribe link in email">
+	</node>
+	<node term="driver license information">
+	</node>
+	<node term="contact in your address book">
+	</node>
+	<node term="game name">
+	</node>
+	<node term="speed of travel">
+	</node>
+	<node term="link click">
+	</node>
+	<node term="payment instrument number">
+		<child term="payment card information"></child>
+	</node>
+	<node term="sport team information">
+	</node>
+	<node term="video streaming usage">
+	</node>
+	<node term="business title">
+	</node>
+	<node term="browser that">
+	</node>
+	<node term="business credit information">
+		<child term="title"></child>
+	</node>
+	<node term="cookie preference">
+	</node>
+	<node term="language">
+	</node>
+	<node term="route">
+	</node>
+	<node term="isp">
+	</node>
+	<node term="device setting">
+		<child term="username"></child>
+		<child term="screen resolution"></child>
+		<child term="operating system"></child>
+		<child term="language"></child>
+		<child term="device type"></child>
+		<child term="device identifier"></child>
+		<child term="bluetooth"></child>
+		<child term="ip address"></child>
+		<child term="font setting"></child>
+		<child term="geographical location"></child>
+	</node>
+	<node term="conversation">
+	</node>
+	<node term="place">
+	</node>
+	<node term="signature">
+	</node>
+	<node term="business affiliation">
+	</node>
+	<node term="domain name">
+	</node>
+	<node term="fuel price">
+	</node>
+	<node term="access date">
+	</node>
+	<node term="competition entry">
+	</node>
+	<node term="player information">
+	</node>
+	<node term="interaction information">
+		<child term="link click"></child>
+		<child term="conversation"></child>
+		<child term="clickstream information"></child>
+		<child term="file"></child>
+		<child term="page view"></child>
+		<child term="duration of stay"></child>
+		<child term="movement"></child>
+	</node>
+	<node term="mobile">
+	</node>
+	<node term="body weight">
+	</node>
+	<node term="category of">
+	</node>
+	<node term="message">
+		<child term="text message"></child>
+		<child term="email address"></child>
+		<child term="mms message"></child>
+	</node>
+	<node term="quality">
+	</node>
+	<node term="city">
+	</node>
+	<node term="story">
+		<child term="video"></child>
+	</node>
+	<node term="camera use">
+	</node>
+	<node term="operating system version">
+	</node>
+	<node term="profile name">
+	</node>
+	<node term="billing relate email">
+	</node>
+	<node term="android id">
+	</node>
+	<node term="photo metadata">
+		<child term="geographical location"></child>
+	</node>
+	<node term="recording">
+	</node>
+	<node term="name of plug-in">
+	</node>
+	<node term="verification code">
+	</node>
+	<node term="browser type">
+	</node>
+	<node term="lifestyle information">
+		<child term="motivation"></child>
+		<child term="game play interest"></child>
+		<child term="interest"></child>
+	</node>
+	<node term="frequency of visitor">
+	</node>
+	<node term="clip">
+	</node>
+	<node term="type of message">
+	</node>
+	<node term="climate characteristic">
+	</node>
+	<node term="payment choice">
+	</node>
+	<node term="date that your card expire">
+	</node>
+	<node term="frequency of visitor to website">
+	</node>
+	<node term="game score">
+	</node>
+	<node term="frequency of visitor to our site">
+	</node>
+	<node term="network information">
+		<child term="category of"></child>
+		<child term="mac address"></child>
+	</node>
+	<node term="note">
+	</node>
+	<node term="status submissions">
+	</node>
+	<node term="internet browse history">
+	</node>
+	<node term="version of device">
+	</node>
+	<node term="travel book">
+	</node>
+	<node term="game activity">
+	</node>
+	<node term="signal strength">
+	</node>
+	<node term="quote">
+	</node>
+	<node term="phone number">
+	</node>
+	<node term="set of question">
+	</node>
+	<node term="display content">
+	</node>
+	<node term="ip address">
+	</node>
+	<node term="telephone number dial">
+	</node>
+	<node term="letter">
+	</node>
+	<node term="sequence information">
+	</node>
+	<node term="duration of stay">
+	</node>
+	<node term="port number">
+	</node>
+	<node term="salary">
+	</node>
+	<node term="windows">
+	</node>
+	<node term="vehicle information">
+		<child term="hardware model"></child>
+		<child term="status of vehicle system"></child>
+		<child term="speed"></child>
+		<child term="part number"></child>
+	</node>
+	<node term="expiration date of user">
+	</node>
+	<node term="view information">
+	</node>
+	<node term="pattern">
+	</node>
+	<node term="mailing">
+	</node>
+	<node term="area code">
+	</node>
+	<node term="transaction request">
+	</node>
+	<node term="insurance coverage information">
+	</node>
+	<node term="number of time you view">
+	</node>
+	<node term="government-issue identification information">
+		<child term="ssn"></child>
+		<child term="passport"></child>
+	</node>
+	<node term="text">
+	</node>
+	<node term="business name">
+	</node>
+	<node term="forum post">
+	</node>
+	<node term="dna test result">
+	</node>
+	<node term="home page">
+	</node>
+	<node term="hardware type">
+	</node>
+	<node term="information from your phone's address book">
+	</node>
+	<node term="information about your interest">
+	</node>
+	<node term="actual phone number">
+	</node>
+	<node term="title">
+	</node>
+	<node term="gameplay information">
+		<child term="game activity"></child>
+		<child term="game score"></child>
+	</node>
+	<node term="accelerometer information">
+	</node>
+	<node term="mileageplus account number">
+	</node>
+	<node term="business information">
+		<child term="user information"></child>
+		<child term="email address"></child>
+		<child term="business type"></child>
+		<child term="company size"></child>
+		<child term="video"></child>
+		<child term="caller id"></child>
+	</node>
+	<node term="ssn">
+	</node>
+	<node term="artist name">
+	</node>
+	<node term="confidentiality of password">
+	</node>
+	<node term="evolution">
+	</node>
+	<node term="mms message">
+		<child term="text message"></child>
+	</node>
+	<node term="wellness">
+	</node>
+	<node term="activity information">
+		<child term="job view"></child>
+		<child term="time spend on"></child>
+		<child term="site navigation pattern"></child>
+		<child term="frequency"></child>
+		<child term="game ranking"></child>
+		<child term="duration"></child>
+		<child term="game challenge"></child>
+		<child term="text message"></child>
+		<child term="camera use"></child>
+		<child term="gameplay information"></child>
+		<child term="score"></child>
+		<child term="booking"></child>
+		<child term="league ranking"></child>
+		<child term="travel book"></child>
+		<child term="customer interest"></child>
+		<child term="video streaming usage"></child>
+		<child term="page you view"></child>
+		<child term="date"></child>
+		<child term="mouse movement"></child>
+		<child term="amount"></child>
+		<child term="avatar"></child>
+		<child term="time"></child>
+		<child term="number of page view"></child>
+		<child term="trip view"></child>
+	</node>
+	<node term="characteristic">
+	</node>
+	<node term="shipping information">
+		<child term="phone number"></child>
+		<child term="postal address"></child>
+	</node>
+	<node term="application version">
+	</node>
+	<node term="music video">
+	</node>
+	<node term="postal address">
+		<child term="expiration date of user"></child>
+		<child term="usage information"></child>
+		<child term="geographical location"></child>
+	</node>
+	<node term="financial information">
+		<child term="bank account"></child>
+		<child term="email address"></child>
+		<child term="phone number"></child>
+		<child term="postal address"></child>
+	</node>
+	<node term="movie">
+	</node>
+	<node term="review">
+	</node>
+	<node term="body measurement">
+	</node>
+	<node term="state">
+	</node>
+	<node term="score">
+	</node>
+	<node term="status of vehicle system">
+	</node>
+	<node term="mailing list">
+	</node>
+	<node term="screen size">
+	</node>
+	<node term="high game score">
+	</node>
+	<node term="usage information">
+		<child term="number of call make"></child>
+		<child term="number of time you view"></child>
+		<child term="internet connection"></child>
+		<child term="frequency of visitor to"></child>
+		<child term="frequency"></child>
+		<child term="interaction information"></child>
+		<child term="source type"></child>
+		<child term="email open rate"></child>
+		<child term="duration"></child>
+		<child term="session id"></child>
+		<child term="type of action"></child>
+		<child term="number of search"></child>
+		<child term="track use for background track"></child>
+		<child term="frequency of visitor to website"></child>
+		<child term="ip address"></child>
+		<child term="user's device location"></child>
+		<child term="isp"></child>
+		<child term="pattern"></child>
+		<child term="device identifier"></child>
+		<child term="artist name"></child>
+		<child term="content information"></child>
+		<child term="version"></child>
+		<child term="achievement"></child>
+		<child term="geographical location"></child>
+		<child term="storage size"></child>
+		<child term="browser information"></child>
+		<child term="email address"></child>
+		<child term="language"></child>
+		<child term="content pattern"></child>
+		<child term="recipe you"></child>
+		<child term="device type"></child>
+		<child term="service provider"></child>
+		<child term="clickstream information"></child>
+		<child term="log information"></child>
+		<child term="page visit"></child>
+		<child term="frequency of visitor to our website"></child>
+		<child term="information about way you use"></child>
+		<child term="access time"></child>
+		<child term="browser that you be use"></child>
+		<child term="evolution"></child>
+		<child term="operating system"></child>
+		<child term="what you listen to"></child>
+		<child term="mac address"></child>
+		<child term="application version"></child>
+		<child term="url"></child>
+		<child term="characteristic"></child>
+		<child term="frequency of visitor"></child>
+		<child term="activity information"></child>
+		<child term="frequency of visitor to our site"></child>
+		<child term="device information"></child>
+		<child term="session duration"></child>
+		<child term="device event information"></child>
+		<child term="frequency of visitor to our service"></child>
+		<child term="browser type"></child>
+		<child term="domain name"></child>
+		<child term="preference"></child>
+	</node>
+	<node term="security code">
+		<child term="password"></child>
+	</node>
+	<node term="recipe you">
+	</node>
+	<node term="display name">
+	</node>
+	<node term="news">
+	</node>
+	<node term="number of workout you">
+	</node>
+	<node term="information about way you use">
+	</node>
+	<node term="duration of call">
+	</node>
+	<node term="mac address">
+		<child term="contact preference"></child>
+		<child term="password"></child>
+	</node>
+	<node term="hyperlink">
+	</node>
+	<node term="country">
+	</node>
+	<node term="contact on service">
+	</node>
+	<node term="browser use">
+	</node>
+	<node term="identify contact information">
+	</node>
+	<node term="number of page view">
+	</node>
+	<node term="contribution">
+	</node>
+	<node term="comment">
+	</node>
+	<node term="motivation">
+	</node>
+	<node term="device model">
+	</node>
+	<node term="article">
+	</node>
+	<node term="guid">
+	</node>
+	<node term="number of search">
+	</node>
+	<node term="internet protocol">
+	</node>
+	<node term="billing">
+	</node>
+	<node term="friend's phone number">
+	</node>
+	<node term="date of birth">
+		<child term="username"></child>
+		<child term="photo"></child>
+		<child term="email address"></child>
+		<child term="person name"></child>
+	</node>
+	<node term="content deliver to mobile device">
+	</node>
+	<node term="mark">
+	</node>
+	<node term="interest">
+		<child term="person age"></child>
+		<child term="education information"></child>
+		<child term="content relate to your favorite member club"></child>
+		<child term="home ownership"></child>
+	</node>
+	<node term="non-pii">
+		<child term="pii"></child>
+		<child term="traffic information"></child>
+		<child term="language"></child>
+		<child term="gender"></child>
+		<child term="phone number"></child>
+		<child term="zip code"></child>
+		<child term="ip address"></child>
+		<child term="device information"></child>
+		<child term="postal address"></child>
+		<child term="access time"></child>
+		<child term="usage information"></child>
+		<child term="tracking information"></child>
+		<child term="email address"></child>
+		<child term="area code"></child>
+		<child term="browser type"></child>
+		<child term="domain name"></child>
+		<child term="interaction information"></child>
+	</node>
+	<node term="page that you view">
+	</node>
+	<node term="username">
+		<child term="password"></child>
+	</node>
+	<node term="fax number">
+	</node>
+	<node term="business type">
+	</node>
+	<node term="flight information">
+	</node>
+	<node term="privacy preference">
+	</node>
+	<node term="user submission">
+		<child term="message"></child>
+		<child term="question"></child>
+	</node>
+	<node term="product preference">
+	</node>
+	<node term="sound">
+	</node>
+	<node term="mouse movement">
+	</node>
+	<node term="what you listen to">
+	</node>
+	<node term="source type">
+	</node>
+	<node term="frequency of visitor to">
+	</node>
+	<node term="philosophical belief">
+	</node>
+	<node term="post information">
+	</node>
+	<node term="travel route">
+	</node>
+	<node term="voice">
+	</node>
+	<node term="ein">
+	</node>
+	<node term="payment card information">
+		<child term="emergency contact information"></child>
+		<child term="security code"></child>
+		<child term="verification code"></child>
+		<child term="phone number"></child>
+		<child term="number"></child>
+		<child term="person name"></child>
+		<child term="payment card number"></child>
+		<child term="geographical location"></child>
+		<child term="type"></child>
+		<child term="expiration date"></child>
+		<child term="postal address"></child>
+	</node>
+	<node term="screen resolution">
+	</node>
+	<node term="job view">
+	</node>
+	<node term="registration information">
+		<child term="username"></child>
+		<child term="password"></child>
+		<child term="photo"></child>
+		<child term="email address"></child>
+		<child term="fax number"></child>
+		<child term="credential"></child>
+		<child term="person age"></child>
+		<child term="gender"></child>
+		<child term="phone number"></child>
+		<child term="zip code"></child>
+		<child term="person name"></child>
+		<child term="billing information"></child>
+		<child term="contact information"></child>
+		<child term="date of birth"></child>
+		<child term="country"></child>
+		<child term="biography"></child>
+		<child term="postal address"></child>
+	</node>
+	<node term="heart rate">
+	</node>
+	<node term="employment information">
+		<child term="business name"></child>
+	</node>
+	<node term="sms message number">
+	</node>
+	<node term="hostname">
+	</node>
+	<node term="hardware version">
+	</node>
+	<node term="user video">
+	</node>
+	<node term="model name">
+	</node>
+	<node term="android">
+	</node>
+	<node term="document">
+	</node>
+	<node term="user submissions">
+	</node>
+	<node term="status">
+	</node>
+	<node term="screenshot">
+	</node>
+	<node term="physical traits">
+		<child term="hair"></child>
+		<child term="person age"></child>
+		<child term="body measurement"></child>
+		<child term="body type"></child>
+		<child term="nail"></child>
+		<child term="body weight"></child>
+		<child term="eye attribute"></child>
+	</node>
+	<node term="ios">
+	</node>
+	<node term="charge status">
+	</node>
+	<node term="nickname">
+	</node>
+	<node term="web link">
+	</node>
+	<node term="model">
+	</node>
+	<node term="audio">
+	</node>
+	<node term="drawing">
+	</node>
+	<node term="cookie information">
+	</node>
+	<node term="preference">
+		<child term="username"></child>
+		<child term="seating"></child>
+		<child term="seat selection"></child>
+		<child term="language"></child>
+		<child term="country"></child>
+		<child term="privacy preference"></child>
+		<child term="display content"></child>
+		<child term="device setting"></child>
+		<child term="currency"></child>
+		<child term="flight information"></child>
+		<child term="password"></child>
+		<child term="browser type"></child>
+		<child term="high game score"></child>
+	</node>
+	<node term="protocol">
+	</node>
+	<node term="photo">
+		<child term="username"></child>
+		<child term="scopely services id"></child>
+		<child term="phone number"></child>
+		<child term="email address"></child>
+		<child term="postal address"></child>
+	</node>
+	<node term="site navigation pattern">
+	</node>
+	<node term="social media account information">
+	</node>
+	<node term="speed">
+	</node>
+	<node term="credit card number tax identifier number">
+	</node>
+	<node term="part number">
+	</node>
+	<node term="tablet">
+	</node>
+	<node term="verification number">
+	</node>
+	<node term="blog">
+	</node>
+	<node term="font setting">
+	</node>
+	<node term="geographical location">
+		<child term="city"></child>
+		<child term="wifi"></child>
+		<child term="movie time"></child>
+		<child term="cell tower that"></child>
+		<child term="fuel price"></child>
+		<child term="router information"></child>
+		<child term="zip code"></child>
+		<child term="location relative to"></child>
+		<child term="state"></child>
+		<child term="place visit"></child>
+		<child term="traffic information"></child>
+		<child term="travel route"></child>
+		<child term="duration"></child>
+	</node>
+	<node term="gift card information">
+	</node>
+	<node term="employer name">
+	</node>
+	<node term="storage size">
+	</node>
+	<node term="credit card security code">
+	</node>
+	<node term="video file">
+	</node>
+	<node term="message board posting">
+	</node>
+	<node term="customer interest">
+	</node>
+	<node term="information about such statement">
+	</node>
+	<node term="contact information">
+		<child term="payment card information"></child>
+		<child term="payment card number"></child>
+		<child term="photo"></child>
+		<child term="address book"></child>
+		<child term="postal address"></child>
+		<child term="billing information"></child>
+		<child term="actual phone number"></child>
+		<child term="loyalty program detail"></child>
+		<child term="title"></child>
+		<child term="friend's phone number"></child>
+		<child term="date of birth"></child>
+		<child term="device identifier"></child>
+		<child term="person name"></child>
+		<child term="website address"></child>
+		<child term="geographical location"></child>
+		<child term="payment information"></child>
+		<child term="expiration date"></child>
+		<child term="business information"></child>
+		<child term="email address"></child>
+		<child term="fax number"></child>
+		<child term="phone number"></child>
+		<child term="business title"></child>
+		<child term="password"></child>
+		<child term="license number"></child>
+		<child term="mobile"></child>
+		<child term="gender"></child>
+		<child term="isp"></child>
+		<child term="zip code"></child>
+		<child term="person age"></child>
+		<child term="device information"></child>
+		<child term="passport number"></child>
+		<child term="country"></child>
+		<child term="city"></child>
+		<child term="mailing"></child>
+	</node>
+	<node term="background">
+	</node>
+	<node term="imei">
+	</node>
+	<node term="city">
+	</node>
+	<node term="token">
+	</node>
+	<node term="hash">
+	</node>
+	<node term="password">
+	</node>
+	<node term="person age">
+	</node>
+	<node term="date of call">
+	</node>
+	<node term="credit information">
+		<child term="consumer credit report"></child>
+		<child term="score"></child>
+	</node>
+	<node term="avatar">
+	</node>
+	<node term="payment information">
+		<child term="billing information"></child>
+		<child term="payment card information"></child>
+		<child term="phone number"></child>
+		<child term="payment card number"></child>
+		<child term="financial account information"></child>
+		<child term="number"></child>
+		<child term="person name"></child>
+		<child term="access credential"></child>
+		<child term="security code"></child>
+		<child term="credit card security code"></child>
+		<child term="geographical location"></child>
+		<child term="gift card information"></child>
+		<child term="routing number"></child>
+		<child term="expiration date"></child>
+		<child term="postal address"></child>
+		<child term="token"></child>
+		<child term="hash"></child>
+	</node>
+	<node term="electricity usage history">
+	</node>
+	<node term="page">
+		<child term="comment"></child>
+		<child term="sound"></child>
+		<child term="graphic"></child>
+		<child term="feedback"></child>
+		<child term="photo"></child>
+		<child term="video"></child>
+		<child term="message"></child>
+	</node>
+	<node term="seating">
+	</node>
+	<node term="user information">
+		<child term="photo"></child>
+		<child term="page user access"></child>
+		<child term="postal address"></child>
+		<child term="date of birth"></child>
+		<child term="site navigation"></child>
+		<child term="device identifier"></child>
+		<child term="person name"></child>
+		<child term="geographical location"></child>
+		<child term="username"></child>
+		<child term="email address"></child>
+		<child term="demographic information"></child>
+		<child term="timestamp"></child>
+		<child term="phone number"></child>
+		<child term="device type"></child>
+		<child term="clickstream information"></child>
+		<child term="browser type"></child>
+		<child term="password"></child>
+		<child term="language"></child>
+		<child term="ip address"></child>
+		<child term="gender"></child>
+		<child term="device information"></child>
+		<child term="usage information"></child>
+		<child term="mailing"></child>
+		<child term="printed information"></child>
+	</node>
+	<node term="competition">
+	</node>
+	<node term="hair">
+	</node>
+	<node term="sensitive personal health information">
+	</node>
+	<node term="game ranking">
+	</node>
+	<node term="invoice">
+	</node>
+	<node term="duration">
+	</node>
+	<node term="loyalty program detail">
+	</node>
+	<node term="site navigation">
+	</node>
+	<node term="driver license number">
+	</node>
+	<node term="geocoding">
+	</node>
+	<node term="expiration date">
+	</node>
+	<node term="scopely services id">
+	</node>
+	<node term="device type">
+		<child term="tablet"></child>
+	</node>
+	<node term="television show">
+	</node>
+	<node term="clickstream information">
+		<child term="path"></child>
+		<child term="page you view"></child>
+	</node>
+	<node term="post">
+		<child term="comment"></child>
+		<child term="review"></child>
+		<child term="email address"></child>
+	</node>
+	<node term="subscription information">
+	</node>
+	<node term="manufacturer">
+	</node>
+	<node term="testimonial">
+		<child term="person name"></child>
+	</node>
+	<node term="account number">
+		<child term="payment card number"></child>
+		<child term="phone number"></child>
+		<child term="postal address"></child>
+	</node>
+	<node term="search history">
+	</node>
+	<node term="blog url">
+	</node>
+	<node term="software">
+		<child term="browser type"></child>
+	</node>
+	<node term="traffic information">
+		<child term="duration of call"></child>
+		<child term="protocol"></child>
+		<child term="language"></child>
+		<child term="date of call"></child>
+		<child term="information about where site visitor come from"></child>
+		<child term="hostname"></child>
+		<child term="ip address"></child>
+		<child term="page visit"></child>
+		<child term="port number"></child>
+	</node>
+	<node term="user's device location">
+	</node>
+	<node term="hometown">
+	</node>
+	<node term="selection of television show">
+	</node>
+	<node term="body type">
+	</node>
+	<node term="credit history">
+	</node>
+	<node term="network type">
+	</node>
+	<node term="game challenge">
+	</node>
+	<node term="place visit">
+	</node>
+	<node term="panorama">
+	</node>
+	<node term="altitude">
+	</node>
+	<node term="question">
+	</node>
+	<node term="page view">
+	</node>
+	<node term="achievement">
+	</node>
+	<node term="browser information">
+		<child term="version"></child>
+		<child term="language"></child>
+		<child term="device type"></child>
+		<child term="country"></child>
+		<child term="device identifier"></child>
+		<child term="ip address"></child>
+		<child term="browser version"></child>
+		<child term="browser plug-in type"></child>
+		<child term="geographical location"></child>
+		<child term="history"></child>
+		<child term="type"></child>
+		<child term="cookie information"></child>
+		<child term="browser type"></child>
+	</node>
+	<node term="profile preference">
+	</node>
+	<node term="content pattern">
+	</node>
+	<node term="application information">
+		<child term="view information"></child>
+	</node>
+	<node term="url">
+	</node>
+	<node term="routing number">
+	</node>
+	<node term="health information">
+		<child term="heart rate"></child>
+		<child term="body mass index"></child>
+		<child term="body weight"></child>
+		<child term="blood pressure"></child>
+		<child term="dna test result"></child>
+	</node>
+	<node term="operating system">
+		<child term="windows"></child>
+		<child term="android"></child>
+		<child term="ios"></child>
+		<child term="device identifier"></child>
+	</node>
+	<node term="information about where site visitor come from">
+	</node>
+	<node term="operation system version">
+	</node>
+	<node term="device event information">
+		<child term="device setting"></child>
+		<child term="device type"></child>
+		<child term="browser type"></child>
+		<child term="activity information"></child>
+		<child term="language"></child>
+	</node>
+	<node term="pii">
+		<child term="transaction request"></child>
+		<child term="payment card information"></child>
+		<child term="user information"></child>
+		<child term="credential"></child>
+		<child term="payment card number"></child>
+		<child term="photo"></child>
+		<child term="financial account information"></child>
+		<child term="school affiliation"></child>
+		<child term="insurance coverage information"></child>
+		<child term="shopping cart information"></child>
+		<child term="business name"></child>
+		<child term="video"></child>
+		<child term="tin"></child>
+		<child term="gender"></child>
+		<child term="message"></child>
+		<child term="employment information"></child>
+		<child term="driver license number"></child>
+		<child term="credit card payment information"></child>
+		<child term="banking detail"></child>
+		<child term="fax number"></child>
+		<child term="account number"></child>
+		<child term="title"></child>
+		<child term="date of birth"></child>
+		<child term="account information"></child>
+		<child term="text address"></child>
+		<child term="device identifier"></child>
+		<child term="person name"></child>
+		<child term="billing information"></child>
+		<child term="serial number"></child>
+		<child term="credit information"></child>
+		<child term="internet browse history"></child>
+		<child term="health information"></child>
+		<child term="interest"></child>
+		<child term="employer name"></child>
+		<child term="payment information"></child>
+		<child term="credit card security code"></child>
+		<child term="contact in your address book"></child>
+		<child term="username"></child>
+		<child term="browser information"></child>
+		<child term="identifier"></child>
+		<child term="email address"></child>
+		<child term="demographic information"></child>
+		<child term="usage information"></child>
+		<child term="contact preference"></child>
+		<child term="phone number"></child>
+		<child term="postal address"></child>
+		<child term="profile information"></child>
+		<child term="transaction history"></child>
+		<child term="ip address"></child>
+		<child term="telephone number dial"></child>
+		<child term="ssn"></child>
+		<child term="contact information"></child>
+		<child term="display name"></child>
+		<child term="password"></child>
+		<child term="product preference"></child>
+		<child term="membership status"></child>
+		<child term="history"></child>
+		<child term="school"></child>
+		<child term="driver license information"></child>
+		<child term="online their name"></child>
+		<child term="language"></child>
+		<child term="sensitive personal health information"></child>
+		<child term="person age"></child>
+		<child term="vehicle information"></child>
+		<child term="philosophical belief"></child>
+		<child term="sms message number"></child>
+		<child term="zip code"></child>
+		<child term="education information"></child>
+		<child term="de-personalize information"></child>
+		<child term="url"></child>
+		<child term="geographical location"></child>
+		<child term="race"></child>
+		<child term="avatar"></child>
+		<child term="identify contact information"></child>
+		<child term="signature"></child>
+		<child term="area code"></child>
+		<child term="ein"></child>
+	</node>
+	<node term="pin">
+	</node>
+	<node term="card type">
+	</node>
+	<node term="device platform">
+	</node>
+	<node term="browser version">
+	</node>
+	<node term="file">
+	</node>
+	<node term="device version">
+	</node>
+	<node term="session id">
+	</node>
+	<node term="payment history">
+	</node>
+	<node term="blog entry">
+	</node>
+	<node term="nation setting">
+	</node>
+	<node term="type of action">
+	</node>
+	<node term="tin">
+	</node>
+	<node term="fitness activity information">
+		<child term="number of workout you"></child>
+		<child term="type"></child>
+	</node>
+	<node term="account balance information">
+	</node>
+	<node term="payment card expiration date">
+	</node>
+	<node term="profile information">
+		<child term="comment"></child>
+		<child term="photo"></child>
+		<child term="address book"></child>
+		<child term="image content"></child>
+		<child term="job title"></child>
+		<child term="video"></child>
+		<child term="employment information"></child>
+		<child term="email address"></child>
+		<child term="date of birth"></child>
+		<child term="contact information"></child>
+		<child term="person name"></child>
+		<child term="geographical location"></child>
+		<child term="text"></child>
+		<child term="game name"></child>
+		<child term="username"></child>
+		<child term="interest"></child>
+		<child term="phone number"></child>
+		<child term="preference"></child>
+		<child term="display name"></child>
+		<child term="correspondence detail"></child>
+		<child term="language"></child>
+		<child term="person age"></child>
+		<child term="gender"></child>
+		<child term="communication preference"></child>
+		<child term="country"></child>
+		<child term="list of your top connection"></child>
+		<child term="home city"></child>
+	</node>
+	<node term="user picture">
+	</node>
+	<node term="flipagram videos">
+	</node>
+	<node term="wifi">
+	</node>
+	<node term="person name">
+	</node>
+	<node term="what you be request">
+	</node>
+	<node term="time">
+	</node>
+	<node term="caller id">
+	</node>
+	<node term="resolution">
+	</node>
+	<node term="list of url">
+	</node>
+</ontology>

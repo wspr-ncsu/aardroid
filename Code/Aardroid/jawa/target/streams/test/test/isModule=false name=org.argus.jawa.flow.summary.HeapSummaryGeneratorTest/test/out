@@ -1,0 +1,21 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mHeapSummaryGeneratorTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/summary/SingleFunction.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for Lcom/hugo/test/SingleFunction;.clearArg:(Ljava/util/Set;)V[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/summary/SingleFunction.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for Lcom/hugo/test/SingleFunction;.clearField:(Lcom/hugo/test/SingleFunction;)V[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/summary/SingleFunction.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for Lcom/hugo/test/SingleFunction;.clearArray:(Lcom/hugo/test/SingleFunction;)V[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/summary/SingleFunction.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for Lcom/hugo/test/SingleFunction;.clearGlobal:()V[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/summary/SingleFunction.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for Lcom/hugo/test/SingleFunction;.add:(Ljava/util/Set;)Ljava/lang/String;[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/summary/SingleFunction.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for Lcom/hugo/test/SingleFunction;.put:(Ljava/util/Map;)Ljava/lang/String;[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/summary/SingleFunction.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for Lcom/hugo/test/SingleFunction;.assign:()Ljava/lang/String;[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/summary/SingleFunction.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for Lcom/hugo/test/SingleFunction;.complex:(Lcom/hugo/test/SingleFunction;)Ljava/lang/String;[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/summary/MultiFunction.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for Lcom/hugo/test/MultiFunction;.testGlobalMap:()V[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/summary/MCnToSpell.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should finish for Lcom/i4joy/core/MCnToSpell;.init:()V[0m[0m

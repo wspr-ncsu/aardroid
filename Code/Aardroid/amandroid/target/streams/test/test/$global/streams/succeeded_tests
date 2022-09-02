@@ -1,0 +1,17 @@
+#Successful Tests
+#Sat Apr 10 02:34:42 EDT 2021
+org.argus.amandroid.summary.model.UriSuTest=1618036382549
+org.argus.amandroid.plugin.ApiMisuseTest=1618036436590
+org.argus.amandroid.core.util.GuessAppPackagesTest=1618036381301
+org.argus.amandroid.serialization.SerializationTest=1618036381012
+org.argus.amandroid.summary.model.ComponentNameSuTest=1618036382498
+org.argus.amandroid.summary.model.IntentFilterSuTest=1618036388875
+org.argus.amandroid.summary.model.ActivitySuTest=1618036382356
+org.argus.amandroid.summary.wu.IntentWuTest=1618036389540
+org.argus.amandroid.core.dedex.DedexTest=1618036385676
+org.argus.amandroid.summary.model.IntentSuTest=1618036389762
+org.argus.amandroid.summary.model.BundleSuTest=1618036388716
+org.argus.amandroid.plugin.LockScreenTest=1618036482850
+org.argus.amandroid.summary.model.ContextSuTest=1618036389633
+org.argus.amandroid.core.dedex.LocalTypeResolverTest=1618036388985
+org.argus.amandroid.summary.HeapSummaryGeneratorTest=1618036388466

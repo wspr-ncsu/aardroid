@@ -1,0 +1,90 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mJawaLexerTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>><<< as >>>List()<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>`format`<<< as >>>List(ID)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>`format`;`format`<<< as >>>List(ID, SEMI, ID)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>||<<< as >>>List(OP)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>:=<<< as >>>List(ASSIGN_OP)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>^~<<< as >>>List(OP)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>v0/2<<< as >>>List(ID, OP, INTEGER_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>record<<< as >>>List(CLASS_OR_INTERFACE)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>procedure<<< as >>>List(METHOD)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>foo  bar   baz<<< as >>>List(ID, WS, ID, WS, ID)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>  <<< as >>>List(WS)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>// comment<<< as >>>List(LINE_COMMENT)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>//<<< as >>>List(LINE_COMMENT)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>foo// comment<<< as >>>List(ID, LINE_COMMENT)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>foo // comment<<< as >>>List(ID, WS, LINE_COMMENT)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>foo// comment[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    abc//comment<<< as >>>List(ID, LINE_COMMENT, WS, ID, LINE_COMMENT)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>foo/* comment */bar<<< as >>>List(ID, MULTILINE_COMMENT, ID)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>/* bar var */<<< as >>>List(MULTILINE_COMMENT)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>/**/<<< as >>>List(MULTILINE_COMMENT)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>/***/<<< as >>>List(DOC_COMMENT)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>/** asdf */<<< as >>>List(DOC_COMMENT)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>`yield`<<< as >>>List(ID)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>"foobar"<<< as >>>List(STRING_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>`@@global`<<< as >>>List(STATIC_ID)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>@@global<<< as >>>List(STATIC_ID)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>"""f"o"o"""<<< as >>>List(STRING_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>"\""<<< as >>>List(STRING_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>foo.bar.baz()<<< as >>>List(ID, DOT, ID, DOT, ID, LPAREN, RPAREN)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>.1234<<< as >>>List(FLOATING_POINT_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>.1234e2<<< as >>>List(FLOATING_POINT_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>.1234e+2<<< as >>>List(FLOATING_POINT_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>.1e-2<<< as >>>List(FLOATING_POINT_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>.1e+2345f<<< as >>>List(FLOATING_POINT_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>.1e+2345d<<< as >>>List(FLOATING_POINT_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>100<<< as >>>List(INTEGER_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>1<<< as >>>List(INTEGER_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>1L<<< as >>>List(INTEGER_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>0<<< as >>>List(INTEGER_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>0L<<< as >>>List(INTEGER_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>0x2345<<< as >>>List(INTEGER_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>0x1<<< as >>>List(INTEGER_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>0x32413L<<< as >>>List(INTEGER_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>#<<< as >>>List(LOCATION_ID)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>#L00011.<<< as >>>List(LOCATION_ID)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>0.1234<<< as >>>List(FLOATING_POINT_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>0.1234e2<<< as >>>List(FLOATING_POINT_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>0.1234e+2<<< as >>>List(FLOATING_POINT_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>0.1e-2<<< as >>>List(FLOATING_POINT_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>0.1e+2345f<<< as >>>List(FLOATING_POINT_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>0.1e+2345d<<< as >>>List(FLOATING_POINT_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>10e2<<< as >>>List(FLOATING_POINT_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>10e+2<<< as >>>List(FLOATING_POINT_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>10e-2<<< as >>>List(FLOATING_POINT_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>10e+2345f<<< as >>>List(FLOATING_POINT_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>10e+2345d<<< as >>>List(FLOATING_POINT_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>'f'<<< as >>>List(CHARACTER_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>'\n'<<< as >>>List(CHARACTER_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>'\025'<<< as >>>List(CHARACTER_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>#L0001. tokenTextBuffer:= new StringBuilder<<< as >>>List(LOCATION_ID, WS, ID, ASSIGN_OP, WS, NEW, WS, ID)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>#Lx. lcmp(v0, v1);<<< as >>>List(LOCATION_ID, WS, CMP, LPAREN, ID, COMMA, WS, ID, RPAREN, SEMI)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>println("bob")[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mprintln("foo")<<< as >>>List(ID, LPAREN, STRING_LITERAL, RPAREN, WS, ID, LPAREN, STRING_LITERAL, RPAREN)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>"\u0061"<<< as >>>List(STRING_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>"\u000a"<<< as >>>List(STRING_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>0X1234<<< as >>>List(INTEGER_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>"\u001A"<<< as >>>List(STRING_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>"""\u001A"""<<< as >>>List(STRING_LITERAL)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>foo+\u0061+bar<<< as >>>List(ID, OP, ID, OP, ID)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>-5f.max(2)<<< as >>>List(FLOATING_POINT_LITERAL, DOT, ID, LPAREN, INTEGER_LITERAL, RPAREN)<<<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLexer[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should throw a lexer exception[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should tokenise >>>[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mrecord `com.ksu.passwordPassTest.MainActivity`  @kind class @AccessFlag PUBLIC  extends `android.app.Activity` @kind class {[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m      `android.widget.EditText` `com.ksu.passwordPassTest.MainActivity.editText`    @AccessFlag ;[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m      `android.widget.Button` `com.ksu.passwordPassTest.MainActivity.passButton`    @AccessFlag ;[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m   }[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    procedure `void` `com.ksu.passwordPassTest.MainActivity.<init>` (`com.ksu.passwordPassTest.MainActivity` v1 @kind `this`) @signature `Lcom/ksu/passwordPassTest/MainActivity;.<init>:()V` @Access `PUBLIC_CONSTRUCTOR` {[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m      temp ;[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m        v0;[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m#L047178.   v0:= 0I  @kind int;[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m#L04717a.   call temp:=  `<init>`(v1) @signature `Landroid/app/Activity;.<init>:()V` @kind direct;[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m#L047180.   v1.`com.ksu.passwordPassTest.MainActivity.editText`  := v0 @kind object;[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m#L047184.   v1.`com.ksu.passwordPassTest.MainActivity.passButton`  := v0 @kind object;[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m#L047188.   return @void ;[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m   }[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m<<< as >>>List(WS, CLASS_OR_INTERFACE, WS, ID, WS, AT, ID, WS, ID, WS, AT, ID, WS, ID, WS, EXTENDS_AND_IMPLEMENTS, WS, ID, WS, AT, ID, WS, ID, WS, LBRACE, WS, ID, WS, ID, WS, AT, ID, WS, SEMI, WS, ID, WS, ID, WS, AT, ID, WS, SEMI, WS, RBRACE, WS, METHOD, WS, ID, WS, ID, WS, LPAREN, ID, WS, ID, WS, AT, ID, WS, ID, RPAREN, WS, AT, ID, WS, ID, WS, AT, ID, WS, ID, WS, LBRACE, WS, ID, WS, SEMI, WS, ID, SEMI, WS, LOCATION_ID, WS, ID, ASSIGN_OP, WS, INTEGER_LITERAL, WS, AT, ID, WS, ID, SEMI, WS, LOCATION_ID, WS, CALL, WS, ID, ASSIGN_OP, WS, ID, LPAREN, ID, RPAREN, WS, AT, ID, WS, ID, WS, AT, ID, WS, ID, SEMI, WS, LOCATION_ID, WS, ID, DOT, ID, WS, ASSIGN_OP, WS, ID, WS, AT, ID, WS, ID, SEMI, WS, LOCATION_ID, WS, ID, DOT, ID, WS, ASSIGN_OP, WS, ID, WS, AT, ID, WS, ID, SEMI, WS, LOCATION_ID, WS, RETURN, WS, AT, ID, WS, SEMI, WS, RBRACE, WS)<<<[0m[0m

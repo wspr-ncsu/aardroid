@@ -1,0 +1,51 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mJawaCodegenTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on ArrayAccess1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on ArrayAccess2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on ArrayAccess3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on ArrayCopy[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on ArrayFill1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on ArrayFill2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on ArrayLength1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on Cmp1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on Cmp2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on ConstClass1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on ConstClass2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on DoubleLong1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on Exceptions1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on Exceptions2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on Exceptions3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should throw an exception on Exceptions4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on FieldAccess1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on FieldAccess2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on InstanceOf1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on InstanceOf2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on IfJump1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on IfJump2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on SwitchJump1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on SwitchJump2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenerate code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on IJawa[0m[0m

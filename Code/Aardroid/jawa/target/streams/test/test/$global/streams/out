@@ -1,0 +1,70 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.flow.summary.model.StringSuTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.flow.summary.model.MapSuTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.core.compiler.lexer.WhitespaceAndCommentsGrouperTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.core.JavaKnowledgeTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.core.ast.classfile.DeBytecodeTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.flow.summary.model.StringBuilderTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.flow.summary.SummaryManagerTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.flow.summary.model.ThreadSuTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(hu.ssh.progressbar.helpers.HumanTimeFormatterTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.flow.summary.model.ListSuTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.core.ast.javafile.Java2JawaTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.flow.summary.model.ClassSuTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(hu.ssh.progressbar.replacers.BarReplacerTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.flow.summary.HeapSummaryGeneratorTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(hu.ssh.progressbar.replacers.PercentageReplacerTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(hu.ssh.progressbar.replacers.TotalTimeReplacerTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.core.GlobalTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(hu.ssh.progressbar.replacers.RemainingTimeReplacerTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.flow.summary.model.ObjectSuTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.flow.summary.wu.TaintWuTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.core.compiler.parser.JawaParserTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.flow.summary.model.SetSuTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.flow.summary.susaf.parser.SummaryParserTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.flow.util.UtilTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.core.compiler.codegen.JawaCodegenTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.core.compiler.lexer.JawaLexerTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.core.ClassHierarchyTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(hu.ssh.progressbar.console.ConsoleProgressBarTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(hu.ssh.progressbar.replacers.ElapsedTimeReplacerTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.flow.summary.model.StringBufferTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.jawa.flow.summary.grammar.SafsuTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(hu.ssh.progressbar.replacers.RemainingTaskReplacerTest, org.scalatest.tools.Framework$$anon$1@44758b66, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 45 seconds, 618 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 720[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 32, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 720, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.core.compiler.lexer.WhitespaceAndCommentsGrouperTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.flow.summary.model.ClassSuTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.flow.summary.model.StringBuilderTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.core.GlobalTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hu.ssh.progressbar.replacers.TotalTimeReplacerTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.flow.util.UtilTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.core.ast.javafile.Java2JawaTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hu.ssh.progressbar.replacers.BarReplacerTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.flow.summary.model.ListSuTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hu.ssh.progressbar.console.ConsoleProgressBarTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.core.compiler.codegen.JawaCodegenTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.core.compiler.parser.JawaParserTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.flow.summary.susaf.parser.SummaryParserTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.flow.summary.SummaryManagerTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.core.ast.classfile.DeBytecodeTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hu.ssh.progressbar.replacers.ElapsedTimeReplacerTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hu.ssh.progressbar.replacers.RemainingTimeReplacerTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.core.ClassHierarchyTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.flow.summary.model.SetSuTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hu.ssh.progressbar.replacers.RemainingTaskReplacerTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.flow.summary.grammar.SafsuTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.flow.summary.model.StringSuTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.core.JavaKnowledgeTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hu.ssh.progressbar.helpers.HumanTimeFormatterTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.flow.summary.model.MapSuTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.core.compiler.lexer.JawaLexerTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.flow.summary.HeapSummaryGeneratorTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.flow.summary.model.ObjectSuTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.flow.summary.model.ThreadSuTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.flow.summary.model.StringBufferTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hu.ssh.progressbar.replacers.PercentageReplacerTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.jawa.flow.summary.wu.TaintWuTest[0m

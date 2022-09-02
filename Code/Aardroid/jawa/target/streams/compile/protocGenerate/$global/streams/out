@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0mCompiling 3 protobuf files to /Users/samin/Documents/Work/Amandroid/Aardroid/Argus-SAF/jawa/target/scala-2.12/src_managed/main/protos[0m
+[0m[[0m[0mdebug[0m] [0m[0mprotoc options:[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling schema /Users/samin/Documents/Work/Amandroid/Aardroid/Argus-SAF/jawa/src/main/protobuf/java_signatures.proto[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling schema /Users/samin/Documents/Work/Amandroid/Aardroid/Argus-SAF/jawa/src/main/protobuf/summary.proto[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling schema /Users/samin/Documents/Work/Amandroid/Aardroid/Argus-SAF/jawa/src/main/protobuf/taint_result.proto[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling protobuf[0m
+[0m[[0m[0minfo[0m] [0m[0mProtoc target directory: /Users/samin/Documents/Work/Amandroid/Aardroid/Argus-SAF/jawa/target/scala-2.12/src_managed/main/protos[0m

@@ -1,0 +1,1983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Tool:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a568f48f-3ab0-44b2-9546-735db29ae0c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavaParser/Test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaParser/Test/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaParser/Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestAndroidProjects/WithLink/app/src/main/java/com/example/withlink/MainActivityxyz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestAndroidProjects/WithLink/app/src/main/res/layout/activity_main_activityxyz.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AAR/Multiple/Square/com.squareup.sdk.in-app-payments/in-app-payments/1.4.0/fc5f31fb81af3950a6d722f7a66e70e0a4dcb072/in-app-payments-1.4.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AAR/Multiple/Square/com.squareup.sdk.in-app-payments/nonce-api/1.4.0/87507cf75c1e4b3764b675a7d3f0233c654bf0d9/nonce-api-1.4.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateAPK/androidapp/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateAPK/androidapp/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateAPK/androidapp/app/libs/library.aar" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateAPK/androidapp/app/libs/library.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateAPK/androidapp/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateAPK/androidapp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GraphAnalysis/ddg.dot" beforeDir="false" afterPath="$PROJECT_DIR$/../GraphAnalysis/ddg.dot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GraphAnalysis/dfg.dot" beforeDir="false" afterPath="$PROJECT_DIR$/../GraphAnalysis/dfg.dot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestAndroidProjects/WithLink/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../TestAndroidProjects/WithLink/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestAndroidProjects/WithLink/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestAndroidProjects/WithLink/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestAndroidProjects/WithLink/app/src/main/java/com/example/withlink/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestAndroidProjects/WithLink/app/src/main/java/com/example/withlink/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestAndroidProjects/WithLink/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestAndroidProjects/WithLink/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestAndroidProjects/WithLink/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestAndroidProjects/WithLink/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/library.aar" beforeDir="false" afterPath="$PROJECT_DIR$/app/libs/library.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity100.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity101.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity102.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity103.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity104.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity105.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity106.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity107.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity108.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity109.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity110.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity111.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity112.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity113.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity32.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity33.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity34.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity35.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity37.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity38.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity39.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity40.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity41.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity42.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity43.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity44.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity45.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity46.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity47.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity48.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity49.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity50.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity51.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity52.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity53.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity54.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity55.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity56.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity57.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity58.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity59.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity60.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity61.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity62.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity63.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity64.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity65.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity66.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity67.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity68.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity69.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity70.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity71.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity72.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity73.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity74.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity75.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity76.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity77.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity78.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity79.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity80.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity81.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity82.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity83.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity84.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity85.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity86.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity87.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity88.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity89.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity90.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity91.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity92.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity93.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity94.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity95.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity96.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity97.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity98.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/app/DummyActivity99.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Tool_jar/Tool.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Tool_jar/Tool.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/eghl.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tranzzo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parser/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parser/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/runner/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/parser/Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/parser/Parser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/runner/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/runner/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/SS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/temp/SS.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/Sensitivity.txt" beforeDir="false" afterPath="$PROJECT_DIR$/temp/Sensitivity.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/AlipayAuthenticator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/ApiKeyValidator$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/ApiVersion$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/CustomerSession$CustomerRetrievalListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/CustomerSession$ephemeralKeyManager$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/CustomerSession$operationExecutor$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/CustomerSession.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/CustomerSessionOperationExecutor$execute$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/CustomerSessionOperationExecutor$execute$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/CustomerSessionOperationExecutor$execute$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/CustomerSessionOperationExecutor$execute$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/CustomerSessionOperationExecutor$execute$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/CustomerSessionOperationExecutor$execute$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/CustomerSessionOperationExecutor$execute$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/CustomerSessionOperationExecutor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/EphemeralKey$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/EphemeralKey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/EphemeralKeyManager$KeyManagerListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/EphemeralKeyManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/EphemeralOperation$Customer$DetachPaymentMethod$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/EphemeralOperation$Customer$DetachPaymentMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/EphemeralOperation$Customer$GetPaymentMethods$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/EphemeralOperation$Customer$UpdateShipping$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/EphemeralOperation$Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/EphemeralOperation$Issuing$RetrievePin$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/EphemeralOperation$Issuing$RetrievePin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/EphemeralOperation$Issuing$UpdatePin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/EphemeralOperation$Issuing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/EphemeralOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/FingerprintData$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/FingerprintData$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/FingerprintData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/FingerprintDataRepository$Default$timestampSupplier$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/FingerprintDataRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/FingerprintDataStore$Default$get$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/FingerprintDataStore$Default.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/GooglePayConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/GooglePayJsonFactory$BillingAddressParameters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/GooglePayJsonFactory$MerchantInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/GooglePayJsonFactory$ShippingAddressParameters$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/GooglePayJsonFactory$TransactionInfo$CheckoutOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/GooglePayJsonFactory$TransactionInfo$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/GooglePayJsonFactory$TransactionInfo$TotalPriceStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/GooglePayJsonFactory$TransactionInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/GooglePayJsonFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/IssuingCardPinService$IssuingCardPinRetrievalListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/IssuingCardPinService$Listener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/Logger$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/Logger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/OperationIdFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentAuthConfig$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentAuthConfig$Stripe3ds2ButtonCustomization$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentAuthConfig$Stripe3ds2LabelCustomization$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentAuthConfig$Stripe3ds2LabelCustomization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentAuthConfig$Stripe3ds2UiCustomization$Builder$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentAuthConfig$Stripe3ds2UiCustomization$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentAuthConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentConfiguration$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentIntentResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentRelayStarter$Args$ErrorArgs$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentRelayStarter$Args$ErrorArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentRelayStarter$Args$PaymentIntentArgs$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentRelayStarter$Args$PaymentIntentArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentRelayStarter$Args$SetupIntentArgs$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentRelayStarter$Args$SourceArgs$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentRelayStarter$Legacy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentSession.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentSessionConfig$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentSessionConfig$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentSessionConfig$DefaultShippingInfoValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentSessionConfig$ShippingInformationValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentSessionConfig$ShippingMethodsFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentSessionData$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentSessionData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentSessionPrefs$Default$prefs$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentSessionPrefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentSessionViewModel$FetchCustomerResult$Error.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentSessionViewModel$FetchCustomerResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentSessionViewModel$NetworkState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentSessionViewModel$fetchCustomer$1$onCustomerRetrieved$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentSessionViewModel$fetchCustomerPaymentMethod$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/PaymentSessionViewModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/SetupIntentResult$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/Stripe$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/Stripe$confirmPaymentIntentSynchronous$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/Stripe$createAccountTokenSynchronous$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/Stripe$createBankAccountTokenSynchronous$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/Stripe$createCardTokenSynchronous$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/Stripe$createCvcUpdateTokenSynchronous$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/Stripe$createPersonTokenSynchronous$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/Stripe$createSourceSynchronous$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/Stripe$retrievePaymentIntent$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/Stripe$retrievePaymentIntentSynchronous$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/Stripe$retrieveSetupIntent$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/StripeIntentResult$Outcome$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/StripeIntentResult$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/StripeKtxKt$confirmPaymentIntent$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/StripeKtxKt$createFile$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/StripePaymentController$ChallengeProgressActivityStarter$Default.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/StripePaymentController$begin3ds2Auth$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/StripePaymentController$confirmSetupIntent$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/StripePaymentController$dispatchSetupIntentResult$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/StripePaymentController$handle3ds2Auth$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/StripePaymentController$handlePaymentResult$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/StripePaymentController$on3ds2AuthSuccess$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/StripePaymentController$paymentAuthWebViewStarterFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/StripePaymentController$paymentRelayStarterFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/StripePaymentController$startAuth$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/StripePaymentController$startConfirmAndAuth$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/StripePaymentController$startFrictionlessFlow$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/StripePaymentController$startSourceAuth$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/StripePaymentController$stripe3ds2CompletionStarterFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/auth/PaymentAuthWebViewContract$Args$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/auth/PaymentAuthWebViewContract$Args.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/auth/PaymentAuthWebViewContract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/cards/Bin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/cards/CardAccountRangeSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/cards/CardAccountRangeStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/cards/CardNumber$Unvalidated$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/cards/CardNumber$Validated.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/cards/CardWidgetViewModel$cardAccountRangeRepository$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/cards/Cvc$Unvalidated.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/cards/DefaultCardAccountRangeRepository$$special$$inlined$combine$1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/cards/DefaultCardAccountRangeRepository$$special$$inlined$combine$1$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/cards/DefaultCardAccountRangeRepository$$special$$inlined$combine$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/cards/DefaultCardAccountRangeRepository$getAccountRange$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/cards/DefaultCardAccountRangeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/cards/DefaultCardAccountRangeRepositoryFactory$NullCardAccountRangeSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/cards/DefaultCardAccountRangeStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/cards/InMemoryCardAccountRangeSource$getAccountRange$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/cards/RemoteCardAccountRangeSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/cards/StaticCardAccountRangeSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/databinding/AddPaymentMethodCardViewBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/databinding/BankItemBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/databinding/CardInputWidgetBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/databinding/CountryTextViewBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/databinding/FragmentPaymentsheetLoadingBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/databinding/LayoutPaymentsheetGooglePayItemBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/databinding/PrimaryButtonBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/databinding/ShippingInfoPageBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/databinding/ShippingMethodViewBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/databinding/StripeActivityBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/databinding/StripeBillingAddressLayoutBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/databinding/StripeGooglePayDividerBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/exception/APIConnectionException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/exception/APIException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/exception/PermissionException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/exception/RateLimitException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/googlepay/StripeGooglePayActivity$$special$$inlined$viewModels$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/googlepay/StripeGooglePayActivity$onCreate$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/googlepay/StripeGooglePayContract$Args$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/googlepay/StripeGooglePayContract$GooglePayConfig$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/googlepay/StripeGooglePayContract$Result$Error$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/googlepay/StripeGooglePayContract$Result$Error$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/googlepay/StripeGooglePayContract$Result$Error.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/googlepay/StripeGooglePayContract$Result$PaymentData$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/googlepay/StripeGooglePayContract$Result$PaymentData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/googlepay/StripeGooglePayContract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/googlepay/StripeGooglePayViewModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/AccountParams$BusinessTypeParams$Company$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/AccountParams$BusinessTypeParams$Company$Verification$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/AccountParams$BusinessTypeParams$Individual$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/AccountParams$BusinessTypeParams$Individual$Document$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/AccountParams$BusinessTypeParams$Individual$Document.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/AccountParams$BusinessTypeParams$Individual$Verification$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/AccountParams$BusinessTypeParams$Individual$Verification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/AccountParams$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/AccountParams$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/Address$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/BankAccount$Status$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/BankAccountTokenParams$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/BankStatuses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/Card$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/CardBrand$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/CardMetadata$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/CardParams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/ConfirmPaymentIntentParams$SetupFutureUsage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/ConfirmPaymentIntentParams$Shipping$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/ConfirmPaymentIntentParams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/ConfirmStripeIntentParams$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/ConfirmStripeIntentParams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/CustomerSource$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/CustomerSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/CvcTokenParams$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/CvcTokenParams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/DateOfBirth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/GooglePayResult$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/IssuingCardPin$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/KlarnaSourceParams$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/KlarnaSourceParams$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/KlarnaSourceParams$CustomPaymentMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/KlarnaSourceParams$LineItem$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/KlarnaSourceParams$LineItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/KlarnaSourceParams$PaymentPageOptions$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/KlarnaSourceParams$PaymentPageOptions$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/KlarnaSourceParams$PaymentPageOptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/ListPaymentMethodsParams$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/ListPaymentMethodsParams$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/MandateDataParams$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/MandateDataParams$Type$Online$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/MandateDataParams$Type$Online$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentIntent$CaptureMethod$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentIntent$CaptureMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentIntent$ClientSecret$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentIntent$ClientSecret.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentIntent$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentIntent$Error$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentIntent$Error$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentIntent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethod$AuBecsDebit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethod$BacsDebit$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethod$BacsDebit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethod$BillingDetails$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethod$BillingDetails$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethod$Card$Checks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethod$Card$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethod$Card$Networks$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethod$Card$Networks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethod$CardPresent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethod$Fpx$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethod$Fpx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethod$Ideal$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethod$Ideal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethod$Netbanking$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethod$Sofort$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethod$Type$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethod$Type$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethod$Upi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethodCreateParams$AuBecsDebit$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethodCreateParams$Card$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethodCreateParams$Card.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethodCreateParams$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethodCreateParams$Fpx$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethodCreateParams$Fpx$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethodCreateParams$Fpx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethodCreateParams$Ideal$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethodCreateParams$Ideal$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethodCreateParams$Ideal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethodCreateParams$SepaDebit$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethodCreateParams$SepaDebit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethodCreateParams$Sofort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethodCreateParams$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethodCreateParams$Upi$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethodCreateParams$Upi$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethodCreateParams$Upi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethodCreateParams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethodOptionsParams$Blik$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethodOptionsParams$Blik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethodOptionsParams$Card$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PaymentMethodOptionsParams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PersonTokenParams$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PersonTokenParams$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PersonTokenParams$Document$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PersonTokenParams$Document$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PersonTokenParams$Document.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PersonTokenParams$Relationship$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PersonTokenParams$Verification$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PersonTokenParams$Verification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PiiTokenParams$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/PiiTokenParams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/SetupIntent$CancellationReason$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/SetupIntent$Error$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/ShippingInformation$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/ShippingMethod$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/ShippingMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/Source$CodeVerification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/Source$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/Source$Flow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/Source$Owner$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/Source$Receiver$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/Source$Redirect$Status$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/Source$Redirect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/Source$SourceType$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/Source$SourceType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/Source$Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/Source.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/SourceOrder$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/SourceOrder$Item$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/SourceOrder$Shipping$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/SourceOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/SourceOrderParams$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/SourceOrderParams$Item$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/SourceOrderParams$Item$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/SourceOrderParams$Shipping$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/SourceOrderParams$Shipping$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/SourceOrderParams$Shipping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/SourceParams$OwnerParams$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/SourceParams$WeChatParams$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/SourceParams$WeChatParams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/SourceParams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/SourceTypeModel$Card$ThreeDSecureStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/Stripe3ds2AuthResult$ThreeDS2Error$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/StripeErrorJsonParser$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/StripeFile$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/StripeFileParams$FileLink$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/StripeIntent$NextActionData$AlipayRedirect$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/StripeIntent$NextActionData$AlipayRedirect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/StripeIntent$NextActionData$BlikAuthorize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/StripeIntent$NextActionData$RedirectToUrl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/StripeIntent$NextActionData$SdkData$Use3DS1$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/StripeIntent$Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/StripeIntent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/StripeJsonUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/StripeParamsModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/StripePaymentSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/Token.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/TokenizationMethod$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/TokenizationMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/WeChat$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/WeChat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/AccountRangeJsonParser$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/BankAccountJsonParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/CardJsonParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/FingerprintDataJsonParser$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/FingerprintDataJsonParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/FpxBankStatusesJsonParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/ModelJsonParser$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/ModelJsonParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/NextActionDataParser$BlikAuthorizeParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/NextActionDataParser$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/NextActionDataParser$DisplayOxxoDetailsJsonParser$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/NextActionDataParser$RedirectToUrlParser$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/NextActionDataParser$RedirectToUrlParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/NextActionDataParser$SdkDataJsonParser$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/NextActionDataParser$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/PaymentIntentJsonParser$ErrorJsonParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/PaymentIntentJsonParser$ShippingJsonParser$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/PaymentIntentJsonParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/PaymentMethodJsonParser$BacsDebitJsonParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/PaymentMethodJsonParser$BillingDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/PaymentMethodJsonParser$CardJsonParser$ChecksJsonParser$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/PaymentMethodJsonParser$CardJsonParser$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/PaymentMethodJsonParser$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/PaymentMethodJsonParser$SofortJsonParser$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/PaymentMethodJsonParser$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/SetupIntentJsonParser$ErrorJsonParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/ShippingInformationJsonParser$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/ShippingInformationJsonParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/SourceCardDataJsonParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/SourceJsonParser$CodeVerificationJsonParser$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/SourceJsonParser$RedirectJsonParser$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/SourceOrderJsonParser$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/SourceOrderJsonParser$ItemJsonParser$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/Stripe3ds2AuthResultJsonParser$MessageExtensionJsonParser$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/Stripe3ds2AuthResultJsonParser$MessageExtensionJsonParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/Stripe3ds2AuthResultJsonParser$ThreeDS2ErrorJsonParser$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/TokenJsonParser$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/WalletJsonParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/parsers/WeChatJsonParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/wallets/Wallet$AmexExpressCheckoutWallet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/wallets/Wallet$ApplePayWallet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/wallets/Wallet$MasterpassWallet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/wallets/Wallet$SamsungPayWallet$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/wallets/Wallet$SamsungPayWallet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/wallets/Wallet$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/model/wallets/Wallet$VisaCheckoutWallet$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/AlipayRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/AnalyticsDataFactory$ThreeDS2UiType$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/AnalyticsDataFactory$ThreeDS2UiType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/AnalyticsRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/AnalyticsRequestExecutor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/ApiRequest$Options$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/ApiRequest$Options.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/ConnectionFactory$Default.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/DefaultAlipayRepository$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/DefaultAlipayRepository$authenticate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/FileUploadRequest$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/FingerprintParamsUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/FingerprintRequest$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/FingerprintRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/FingerprintRequestFactory$Default.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/FingerprintRequestFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/FingerprintRequestParamsFactory$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/RequestHeadersFactory$Api$Companion$DEFAULT_SYSTEM_PROPERTY_SUPPLIER$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/RequestId$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/RetryDelaySupplier$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/StripeApiRepository$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/StripeApiRepository$DnsCacheData$Success.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/StripeApiRepository$cancelPaymentIntentSource$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/StripeApiRepository$cancelSetupIntentSource$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/StripeApiRepository$createSource$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/StripeApiRepository$getCardMetadata$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/StripeApiRepository$getFpxBankStatus$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/StripeApiRepository$retrieveObject$response$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/StripeApiRepository$retrieveSource$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/StripeApiRepository$setDefaultCustomerSource$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/StripeApiRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/StripeConnection$Default$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/networking/StripeConnection$Default.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/payments/DefaultPaymentFlowResultProcessor$cancelSetupIntent$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/payments/DefaultPaymentFlowResultProcessor$processPaymentIntent$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/payments/DefaultPaymentFlowResultProcessor$processSetupIntent$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/payments/DefaultPaymentFlowResultProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/payments/DefaultStripeChallengeStatusReceiver$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/payments/DefaultStripeChallengeStatusReceiver$startCompletionActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/payments/PaymentFlowResult$Unvalidated$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/payments/PaymentFlowResult$Unvalidated.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/payments/PaymentFlowResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/payments/Stripe3ds2CompletionContract$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/payments/Stripe3ds2CompletionContract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/BaseAddCardFragment$AddCardViewModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/BaseAddCardFragment$setupCardWidget$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/BasePaymentMethodsListFragment$onViewCreated$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/BasePaymentMethodsListFragment$onViewCreated$adapter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/BottomSheetController$setup$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/CurrencyFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/DefaultGooglePayRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/DefaultPaymentSheetLauncher$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/DefaultPaymentSheetLauncher$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/DefaultPaymentSheetLauncher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/DefaultPrefsRepository$getSavedSelection$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/DefaultPrefsRepository$prefs$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/DefaultPrefsRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionCallback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionContract$Args$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionContract$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionContract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionResult$Canceled.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionResult$Failed$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionResult$Failed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionResult$Succeeded$Existing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionResult$Succeeded$NewlySaved.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsActivity$$special$$inlined$viewModels$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsActivity$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsActivity$appbar$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsActivity$bottomSheetBehavior$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsActivity$bottomSheetController$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsActivity$eventReporter$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsActivity$onCreate$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsActivity$onCreate$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsActivity$onCreate$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsActivity$scrollView$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsActivity$setupAddButton$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsActivity$starterArgs$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsActivity$toolbar$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsActivity$viewModel$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsActivity$viewModelFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsActivityStarter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsAdapter$CardViewHolder$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsAdapter$Item$GooglePay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsAdapter$Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsAdapter$onCreateViewHolder$$inlined$apply$lambda$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsAdapter$onCreateViewHolder$$inlined$apply$lambda$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsAddCardFragment$sheetViewModel$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsAddCardFragment$sheetViewModel$2$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsAddCardFragment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsListFragment$$special$$inlined$activityViewModels$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsListFragment$activityViewModel$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsViewModel$TransitionTarget$AddPaymentMethodSheet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentOptionsViewModel$processSaveNewCard$1$$special$$inlined$fold$lambda$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentResult$Canceled$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheet$Configuration$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheet$Configuration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheet$CustomerConfiguration$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheet$CustomerConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheet$FlowController$ConfigCallback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheet$FlowController$Result$Failure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheet$GooglePayConfiguration$Environment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheet$GooglePayConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetActivity$$special$$inlined$viewModels$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetActivity$$special$$inlined$viewModels$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetActivity$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetActivity$bottomSheet$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetActivity$bottomSheetBehavior$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetActivity$fragmentContainerParent$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetActivity$onCreate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetActivity$onCreate$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetActivity$onCreate$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetActivity$onCreate$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetActivity$onTransitionTarget$$inlined$doOnNextLayout$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetActivity$sam$androidx_lifecycle_Observer$0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetActivity$scrollView$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetActivity$setupBuyButton$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetActivity$setupBuyButton$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetActivity$starterArgs$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetActivity$toolbar$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetActivityStarter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetAddCardFragment$$special$$inlined$activityViewModels$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetAddCardFragment$onViewCreated$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetAddCardFragment$sheetViewModel$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetContract$Args$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetContract$Args$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetContract$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetContract$Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetLauncher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetListFragment$activityViewModel$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetListFragment$activityViewModel$2$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetListFragment$activityViewModel$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetListFragment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetLoadingFragment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetViewModel$Factory$create$$inlined$let$lambda$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetViewModel$Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetViewModel$TransitionTarget$AddPaymentMethodSheet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetViewModel$onPaymentFlowResult$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetViewModel$onPaymentIntentResult$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/PaymentSheetViewModel$updatePaymentMethods$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/analytics/DefaultDeviceIdRepository$prefs$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/analytics/DeviceId.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/analytics/PaymentSheetEvent$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/analytics/PaymentSheetEvent$Payment$Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/analytics/PaymentSheetEvent$Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/analytics/PaymentSheetEvent$ShowExistingPaymentOptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/analytics/SessionId$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/flowcontroller/DefaultFlowController$configure$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/flowcontroller/DefaultFlowController$configure$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/flowcontroller/DefaultFlowController$dispatchResult$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/flowcontroller/DefaultFlowController$onPaymentFlowResult$1$invokeSuspend$$inlined$fold$lambda$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/flowcontroller/DefaultFlowController$onPaymentFlowResult$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/flowcontroller/DefaultFlowController$paymentOptionActivityLauncher$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/flowcontroller/DefaultFlowController$paymentOptionLauncher$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/flowcontroller/DefaultFlowController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/flowcontroller/DefaultFlowControllerInitializer$createWithoutCustomer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/flowcontroller/DefaultFlowControllerInitializer$init$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/flowcontroller/DefaultFlowControllerInitializer$setLastSavedPaymentMethod$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/flowcontroller/DefaultFlowControllerInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/flowcontroller/FlowControllerFactory$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/flowcontroller/FlowControllerInitializer$InitResult$Failure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/flowcontroller/FlowControllerInitializer$InitResult$Success.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/flowcontroller/FlowControllerInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/flowcontroller/FlowControllerViewModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/flowcontroller/InitData$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/flowcontroller/InitData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/model/FragmentConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/model/PaymentIntentValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/model/PaymentOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/model/PaymentOptionFactory$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/model/PaymentOptionFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/model/PaymentSelection$New$Card$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/model/PaymentSelection$Saved$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/model/PaymentSelection$Saved.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/model/SavedSelection$GooglePay$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/model/SavedSelection$GooglePay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/model/SavedSelection$None$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/model/ViewState$PaymentOptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/model/ViewState$PaymentSheet$FinishProcessing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/model/ViewState$PaymentSheet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/model/ViewState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/repositories/PaymentIntentRepository$Api$get$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/repositories/PaymentIntentRepository$Static.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/repositories/PaymentMethodsApiRepository$save$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/repositories/PaymentMethodsApiRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/ui/AnimationConstants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/ui/BaseSheetActivity$ToolbarResources.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/ui/BaseSheetActivity$onCreate$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/ui/BaseSheetActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/ui/BillingAddressView$$special$$inlined$observable$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/ui/BillingAddressView$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/ui/BillingAddressView$onFocus$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/ui/PrimaryButton$State$FinishProcessing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/ui/PrimaryButton$State$Ready.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/ui/PrimaryButton$State$StartProcessing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/ui/PrimaryButton$State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/ui/PrimaryButton$onFinishProcessing$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/ui/PrimaryButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/viewmodels/BaseSheetViewModel$$special$$inlined$switchMap$3$lambda$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/viewmodels/BaseSheetViewModel$$special$$inlined$switchMap$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/viewmodels/BaseSheetViewModel$UserMessage$Error.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/viewmodels/BaseSheetViewModel$fetchSavedSelection$1$savedSelection$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/paymentsheet/viewmodels/BaseSheetViewModel$fetchSavedSelection$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/ActivityStarter$Args$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/ActivityStarter$Result$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/ActivityStarter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/AddPaymentMethodActivity$$special$$inlined$viewModels$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/AddPaymentMethodActivity$$special$$inlined$viewModels$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/AddPaymentMethodActivity$args$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/AddPaymentMethodActivity$createPaymentMethod$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/AddPaymentMethodActivity$paymentMethodType$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/AddPaymentMethodActivity$shouldAttachToCustomer$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/AddPaymentMethodActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/AddPaymentMethodActivityStarter$Args$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/AddPaymentMethodActivityStarter$Args.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/AddPaymentMethodActivityStarter$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/AddPaymentMethodActivityStarter$Result$Canceled$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/AddPaymentMethodActivityStarter$Result$Success.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/AddPaymentMethodActivityStarter$Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/AddPaymentMethodFpxView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/AddPaymentMethodFpxView$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/AddPaymentMethodFpxView$viewModel$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/AddPaymentMethodNetbankingView$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/AddPaymentMethodNetbankingView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/AddPaymentMethodViewModel$createPaymentMethod$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/AlertDisplayer$DefaultAlertDisplayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/AuthActivityStarter$Host$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/BackUpFieldDeleteListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/BecsDebitAccountNumberEditText$$special$$inlined$doAfterTextChanged$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/BecsDebitAccountNumberEditText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/BecsDebitBanks$Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/BecsDebitBanks$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/BecsDebitBanks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/BecsDebitBsbEditText$onBankChangedCallback$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/BecsDebitBsbEditText$onCompletedCallback$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/BecsDebitMandateAcceptanceTextView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/BecsDebitWidget$$special$$inlined$doAfterTextChanged$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/BecsDebitWidget$ValidParamsCallback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/BecsDebitWidget$validParamsCallback$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/BecsDebitWidget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardBrandSpinner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardBrandView$$special$$inlined$observable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardBrandView$$special$$inlined$observable$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardBrandView$$special$$inlined$observable$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardInputListener$FocusField.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardInputListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardInputWidget$$special$$inlined$observable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardInputWidget$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardInputWidget$AnimationEndListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardInputWidget$CardFieldAnimation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardInputWidget$CardNumberSlideEndAnimation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardInputWidget$DefaultLayoutWidthCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardInputWidget$ExpiryDateSlideEndAnimation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardInputWidget$PostalCodeSlideEndAnimation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardInputWidget$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardInputWidget$cardValidTextWatcher$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardInputWidget$initView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardInputWidget$initView$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardInputWidget$initView$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardInputWidget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardInputWidgetPlacement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardMultilineWidget$$special$$inlined$forEach$lambda$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardMultilineWidget$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardMultilineWidget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardNumberEditText$CardNumberTextWatcher$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardNumberEditText$CardNumberTextWatcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardNumberEditText$onAttachedToWindow$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardNumberEditText$queryAccountRangeRepository$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardNumberEditText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardNumberTextInputLayout$$special$$inlined$observable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CardWidget$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CountryAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CountryTextInputLayout$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CountryTextInputLayout$countryChangeCallback$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CountryTextInputLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CvcEditText$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/CvcEditText$completionCallback$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/DeletePaymentMethodDialogFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/EmailEditText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/ExpiryDateEditText$listenForTextChanges$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/ExpiryDateEditText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/KeyboardController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/NetbankingBank$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentAuthWebChromeClient$onJsConfirm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentAuthWebViewActivity$$special$$inlined$viewModels$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentAuthWebViewActivity$onCreate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentAuthWebViewActivity$onCreate$webViewClient$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentAuthWebViewActivity$onCreate$webViewClient$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentAuthWebViewActivity$viewBinding$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentAuthWebViewActivity$viewModel$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentAuthWebViewActivityViewModel$ToolbarTitleData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentFlowActivity$$special$$inlined$viewModels$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentFlowActivity$args$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentFlowActivity$onCreate$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentFlowActivity$paymentFlowPagerAdapter$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentFlowActivity$paymentFlowPagerAdapter$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentFlowActivity$viewModel$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentFlowActivityStarter$Args$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentFlowActivityStarter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentFlowPagerAdapter$$special$$inlined$observable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentFlowPagerAdapter$PaymentFlowViewHolder$ShippingInformationViewHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentFlowPagerAdapter$PaymentFlowViewHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentFlowPagerAdapter$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentFlowViewModel$saveCustomerShippingInformation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentFlowViewModel$validateShippingInformation$1$result$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentFlowViewModel$validateShippingInformation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentFlowViewPager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentMethodsActivity$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentMethodsActivity$alertDisplayer$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentMethodsActivity$args$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentMethodsActivity$fetchCustomerPaymentMethods$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentMethodsActivity$setupRecyclerView$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentMethodsActivity$setupRecyclerView$deletePaymentMethodDialogFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentMethodsActivity$startedFromPaymentSession$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentMethodsActivity$viewModel$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentMethodsActivityStarter$Args.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentMethodsActivityStarter$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentMethodsActivityStarter$Result$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentMethodsActivityStarter$Result$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentMethodsActivityStarter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentMethodsAdapter$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentMethodsAdapter$ViewHolder$AddCardPaymentMethodViewHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentMethodsAdapter$ViewHolder$AddFpxPaymentMethodViewHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentMethodsAdapter$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentMethodsAdapter$onBindViewHolder$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentMethodsAdapter$onBindViewHolder$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentMethodsRecyclerView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PaymentRelayActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PostalCodeEditText$$special$$inlined$doAfterTextChanged$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PostalCodeEditText$$special$$inlined$observable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PostalCodeEditText$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PostalCodeEditText$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/PostalCodeEditText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/ShippingInfoWidget$CustomizableShippingField.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/ShippingInfoWidget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/ShippingMethodAdapter$onShippingMethodSelectedCallback$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/ShippingMethodView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/StripeActivity$progressBar$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/StripeActivity$viewBinding$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/StripeActivity$viewStub$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/StripeColorUtils$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/StripeEditText$AfterTextChangedListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/StripeEditText$DeleteEmptyListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/SwipeToDeleteCallbackListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/ThemeConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/i18n/ErrorMessageTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/jar/com/stripe/android/view/i18n/TranslatorManager$Default.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/stripe.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/temp/unzip/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/META-INF/com/android/build/gradle/aar-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/temp/unzip/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/assets/au_becs_bsb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/temp/unzip/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/proguard.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/public.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/anim/stripe_card_widget_progress_fade_in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/anim/stripe_card_widget_progress_fade_out.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/anim/stripe_paymentsheet_transition_fade_in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/anim/stripe_paymentsheet_transition_fade_out.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/color/stripe_paymentsheet_card_stroke.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-hdpi-v4/stripe_googlepay_button_background_image.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-hdpi-v4/stripe_googlepay_button_no_shadow_background_image.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-hdpi-v4/stripe_ic_unionpay.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-mdpi-v4/stripe_googlepay_button_background_image.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-mdpi-v4/stripe_googlepay_button_background_image_focused.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-mdpi-v4/stripe_googlepay_button_background_image_pressed.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-mdpi-v4/stripe_googlepay_button_no_shadow_background_image.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-mdpi-v4/stripe_googlepay_button_no_shadow_background_image_focused.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-mdpi-v4/stripe_googlepay_button_no_shadow_background_image_pressed.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-mdpi-v4/stripe_ic_unionpay.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-hdpi-v8/stripe_googlepay_button_background_image.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-hdpi-v8/stripe_googlepay_button_background_image_focused.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-hdpi-v8/stripe_googlepay_button_background_image_pressed.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-hdpi-v8/stripe_googlepay_button_no_shadow_background_image.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-hdpi-v8/stripe_googlepay_button_no_shadow_background_image_focused.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-hdpi-v8/stripe_googlepay_button_no_shadow_background_image_pressed.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-mdpi-v8/stripe_googlepay_button_background_image.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-mdpi-v8/stripe_googlepay_button_background_image_focused.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-mdpi-v8/stripe_googlepay_button_background_image_pressed.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-mdpi-v8/stripe_googlepay_button_no_shadow_background_image.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-mdpi-v8/stripe_googlepay_button_no_shadow_background_image_focused.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-mdpi-v8/stripe_googlepay_button_no_shadow_background_image_pressed.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-v21/stripe_googlepay_button_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-v21/stripe_googlepay_button_no_shadow_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-v8/stripe_googlepay_button_content.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-v8/stripe_googlepay_button_overlay.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-v8/stripe_ic_paymentsheet_add.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-v8/stripe_ic_paymentsheet_back_disabled.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-v8/stripe_ic_paymentsheet_back_enabled.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-v8/stripe_ic_paymentsheet_card_amex.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-v8/stripe_ic_paymentsheet_card_dinersclub.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-v8/stripe_ic_paymentsheet_card_discover.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-v8/stripe_ic_paymentsheet_card_jcb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-v8/stripe_ic_paymentsheet_card_mastercard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-v8/stripe_ic_paymentsheet_card_unionpay.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-v8/stripe_ic_paymentsheet_card_unknown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-v8/stripe_ic_paymentsheet_card_visa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-v8/stripe_ic_paymentsheet_close_disabled.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-v8/stripe_ic_paymentsheet_close_enabled.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-v8/stripe_ic_paymentsheet_cvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-xhdpi-v8/stripe_googlepay_button_background_image.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-xhdpi-v8/stripe_googlepay_button_background_image_focused.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-xhdpi-v8/stripe_googlepay_button_background_image_pressed.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-xhdpi-v8/stripe_googlepay_button_no_shadow_background_image.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-xhdpi-v8/stripe_googlepay_button_no_shadow_background_image_focused.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-xhdpi-v8/stripe_googlepay_button_no_shadow_background_image_pressed.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-xxhdpi-v8/stripe_googlepay_button_background_image.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-xxhdpi-v8/stripe_googlepay_button_background_image_focused.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-xxhdpi-v8/stripe_googlepay_button_background_image_pressed.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-xxhdpi-v8/stripe_googlepay_button_no_shadow_background_image.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-xxhdpi-v8/stripe_googlepay_button_no_shadow_background_image_focused.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-xxhdpi-v8/stripe_googlepay_button_no_shadow_background_image_pressed.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-xxxhdpi-v8/stripe_googlepay_button_background_image.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-xxxhdpi-v8/stripe_googlepay_button_background_image_focused.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-xxxhdpi-v8/stripe_googlepay_button_background_image_pressed.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-xxxhdpi-v8/stripe_googlepay_button_no_shadow_background_image.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-xxxhdpi-v8/stripe_googlepay_button_no_shadow_background_image_focused.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-night-xxxhdpi-v8/stripe_googlepay_button_no_shadow_background_image_pressed.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-v21/stripe_googlepay_button_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-v21/stripe_googlepay_button_no_shadow_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-xhdpi-v4/stripe_googlepay_button_background_image.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-xhdpi-v4/stripe_googlepay_button_no_shadow_background_image.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-xhdpi-v4/stripe_ic_unionpay.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-xxhdpi-v4/stripe_googlepay_button_background_image.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-xxhdpi-v4/stripe_googlepay_button_no_shadow_background_image.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-xxhdpi-v4/stripe_ic_unionpay.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-xxxhdpi-v4/stripe_googlepay_button_background_image.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-xxxhdpi-v4/stripe_googlepay_button_no_shadow_background_image.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-xxxhdpi-v4/stripe_ic_unionpay.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-zh-hdpi-v4/stripe_ic_unionpay.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-zh-mdpi-v4/stripe_ic_unionpay.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-zh-xhdpi-v4/stripe_ic_unionpay.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-zh-xxhdpi-v4/stripe_ic_unionpay.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-zh-xxxhdpi-v4/stripe_ic_unionpay.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable-zh/stripe_ic_unionpay_template_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_card_progress_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_google_pay_mark.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_googlepay_button_content.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_googlepay_button_overlay.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_add_black_32dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_amex.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_amex_template_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_bank.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_bank_affin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_bank_alliance.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_bank_ambank.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_bank_bsn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_bank_cimb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_bank_error.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_bank_generic.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_bank_hong_leong.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_bank_hsbc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_bank_islam.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_bank_kfh.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_bank_maybank.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_bank_muamalat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_bank_ocbc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_bank_public.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_bank_raykat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_bank_rhb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_bank_standard_chartered.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_bank_uob.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_check_circle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_checkmark.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_checkmark_tinted.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_cvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_cvc_amex.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_diners.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_diners_template_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_discover.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_discover_template_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_error.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_error_amex.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_jcb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_jcb_template_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_mastercard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_mastercard_template_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_paymentsheet_add.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_paymentsheet_back_disabled.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_paymentsheet_back_enabled.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_paymentsheet_card_amex.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_paymentsheet_card_dinersclub.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_paymentsheet_card_discover.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_paymentsheet_card_jcb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_paymentsheet_card_mastercard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_paymentsheet_card_unionpay.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_paymentsheet_card_unknown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_paymentsheet_card_visa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_paymentsheet_close_disabled.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_paymentsheet_close_enabled.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_paymentsheet_cvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_paymentsheet_primary_button_checkmark.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_paymentsheet_primary_button_lock.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_trash.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_unionpay_template_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_unknown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_visa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_ic_visa_template_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_paymentsheet_add_card_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_paymentsheet_form_states.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_paymentsheet_paymentmethod_item_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_paymentsheet_primary_button_confirmed_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_paymentsheet_primary_button_default_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_paymentsheet_toolbar_back.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_paymentsheet_toolbar_close.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/drawable/stripe_simple_button_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/activity_payment_sheet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/add_payment_method_activity.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/add_payment_method_card_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/add_payment_method_row.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/address_widget.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/bank_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/bank_list_payment_method.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/becs_debit_widget.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/card_brand_spinner_dropdown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/card_brand_spinner_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/card_brand_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/card_input_widget.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/card_multiline_widget.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/card_widget_progress_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/country_autocomplete_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/country_text_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/fragment_paymentsheet_add_card.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/fragment_paymentsheet_loading.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/fragment_paymentsheet_payment_methods_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/google_pay_row.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/layout_paymentsheet_add_card_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/layout_paymentsheet_google_pay_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/layout_paymentsheet_payment_method_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/masked_card_row.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/masked_card_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/payment_auth_web_view_activity.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/payment_flow_activity.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/payment_methods_activity.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/primary_button.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/shipping_info_page.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/shipping_method_page.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/shipping_method_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/shipping_method_widget.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/stripe_activity.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/stripe_activity_payment_options.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/stripe_billing_address_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/stripe_country_dropdown_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/stripe_google_pay_button.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/stripe_google_pay_divider.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/stripe_horizontal_divider.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/layout/stripe_vertical_divider.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/menu/add_payment_method.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/menu/payment_auth_web_view_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-b+es+419/values-b+es+419.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-bg-rBG/values-bg-rBG.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-cs-rCZ/values-cs-rCZ.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-da/values-da.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-de/values-de.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-el-rGR/values-el-rGR.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-en-rGB/values-en-rGB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-es/values-es.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-et-rEE/values-et-rEE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-fi/values-fi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-fr-rCA/values-fr-rCA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-fr/values-fr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-hdpi-v4/values-hdpi-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-hu/values-hu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-it/values-it.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-ja/values-ja.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-ko/values-ko.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-ldpi-v4/values-ldpi-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-lt-rLT/values-lt-rLT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-lv-rLV/values-lv-rLV.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-mdpi-v4/values-mdpi-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-mt/values-mt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-nb/values-nb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-night-v8/values-night-v8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-nl/values-nl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-pl-rPL/values-pl-rPL.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-pt-rBR/values-pt-rBR.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-pt-rPT/values-pt-rPT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-ro-rRO/values-ro-rRO.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-ru/values-ru.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-sk-rSK/values-sk-rSK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-sl-rSI/values-sl-rSI.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-sv/values-sv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-tr/values-tr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-xhdpi-v4/values-xhdpi-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-xxhdpi-v4/values-xxhdpi-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-zh-rHK/values-zh-rHK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-zh-rTW/values-zh-rTW.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values-zh/values-zh.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/unzip/res/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/temp/unzip/res/values/values.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/aardroid$Runner.ic" NAME="Runner Coverage Results" MODIFIED="1642552763195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>runner.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1071584125">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="5" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="8" />
+          <entry key="java" value="11422" />
+          <entry key="xml" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="11422" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="XML" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MF" value="1" />
+          <entry key="class" value="15" />
+          <entry key="java" value="40" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="15" />
+          <entry key="JAVA" value="40" />
+          <entry key="Manifest" value="1" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/runner/Runner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/parser/Parser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="172" selection-start-line="172" selection-end-line="172" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/objects/Fields.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#509#510#0" expanded="true" />
+                <element signature="e#547#548#0" expanded="true" />
+                <element signature="e#619#620#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/parser/XMLParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#7841#7842#0" expanded="true" />
+                <element signature="e#7872#7873#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/parser/Utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/objects/Methods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1096#1097#0" expanded="true" />
+                <element signature="e#1129#1130#0" expanded="true" />
+                <element signature="e#1396#1397#0" expanded="true" />
+                <element signature="e#1434#1435#0" expanded="true" />
+                <element signature="e#1528#1529#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>println</find>
+      <find>MethodParamNamesScanner</find>
+      <find>localv</find>
+      <find>file</find>
+      <find>output</find>
+      <find>rec</find>
+      <find>recurs</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../Cryptoguard/Code/cryptoguard" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../LibScout/LibScout" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Parser/AccessFlagCodes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/MethodParamScanner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/MethodAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/MethodParameterSpy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/AddFieldAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/PublicizethodAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/CustomClassWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/PublicizeMethodAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/ByteArrayClassLoader.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/decompiler/JDCLI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/CustomClassLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/TreeParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/ClassIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/objects/Methods.java" />
+        <option value="$PROJECT_DIR$/src/main/java/objects/Item.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/DOMParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/objects/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/objects/OntologyNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/XMLParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/Parser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/runner/Runner.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="25" />
+    <option name="width" value="1720" />
+    <option name="height" value="1415" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="aardroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aardroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tool" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aardroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aardroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aardroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aardroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="decompiler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aardroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="objects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aardroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aardroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tool" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aardroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="aardroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.ow2.asm:asm:9.2" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="aardroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.ow2.asm:asm:9.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="asm-9.2.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aardroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.ow2.asm:asm:9.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="asm-9.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="asm" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="aardroid" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1651697293108" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="runner.Runner" />
+      <module name="Tool" />
+      <option name="PROGRAM_PARAMETERS" value="../AAR/Obfuscation/all/authorize.aar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../AmAndroid-2.12/Argus-SAF" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Argus-SAF" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Argus-SAF-playground-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cardpliance-amandroid" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a568f48f-3ab0-44b2-9546-735db29ae0c1" name="Default Changelist" comment="" />
+      <created>1636935484733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636935484733</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1720" height="1415" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913043" visible="true" weight="0.20143028" />
+      <window_info id="Structure" order="1" sideWeight="0.5008696" side_tool="true" weight="0.20100144" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32422173" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33333334" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.40394837" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.324981" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32947975" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/parser/ClassIterator.java</url>
+          <line>103</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/parser/ClassIterator.java</url>
+          <line>110</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/parser/MethodAdapter.java</url>
+          <line>188</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/parser/CustomClassLoader.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/parser/CustomClassLoader.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/parser/CustomClassLoader.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/parser/CustomClassLoader.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/parser/CustomClassLoader.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/parser/Parser.java</url>
+          <line>426</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/parser/XMLParser.java</url>
+          <line>187</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/runner/Runner.java</url>
+          <line>371</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/runner/Runner.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/runner/Runner.java</url>
+          <line>191</line>
+          <properties />
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/parser/Parser.java</url>
+          <line>610</line>
+          <properties />
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/runner/Runner.java</url>
+          <line>174</line>
+          <properties />
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/parser/Parser.java</url>
+          <line>158</line>
+          <properties />
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/runner/Runner.java</url>
+          <line>189</line>
+          <properties />
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/parser/Parser.java</url>
+          <line>116</line>
+          <properties />
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/runner/Runner.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/runner/Runner.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/AccessFlagCodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar!/com/sun/xml/internal/ws/org/objectweb/asm/MethodAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="94" column="16" selection-start-line="94" selection-start-column="16" selection-end-line="94" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm/6.0/asm-6.0.jar!/org/objectweb/asm/MethodVisitor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2839">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm/9.2/asm-9.2.jar!/org/objectweb/asm/Label.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/MethodParamScanner.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm/6.0/asm-6.0.jar!/org/objectweb/asm/ClassVisitor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="355" column="20" selection-start-line="355" selection-start-column="20" selection-end-line="355" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="1972" column="20" selection-start-line="1972" selection-start-column="20" selection-end-line="1972" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/AddFieldAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/MethodParameterSpy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm/9.2/asm-9.2.jar!/org/objectweb/asm/ClassVisitor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="132" column="25" selection-start-line="132" selection-start-column="25" selection-end-line="132" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm/9.2/asm-9.2.jar!/org/objectweb/asm/ClassReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm/9.2/asm-9.2.jar!/org/objectweb/asm/ClassWriter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar!/org/objectweb/asm/tree/MethodNode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="254" column="16" selection-start-line="254" selection-start-column="16" selection-end-line="254" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm/9.2/asm-9.2.jar!/org/objectweb/asm/MethodWriter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="801" column="16" selection-start-line="801" selection-start-column="16" selection-end-line="801" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/PublicizeMethodAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/CustomClassWriter.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/objects/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/ByteArrayClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-28/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1376">
+          <caret line="310" column="72" selection-start-line="310" selection-start-column="50" selection-end-line="310" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decompiler/JDCLI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-28/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="112" column="19" selection-start-line="112" selection-start-column="19" selection-end-line="112" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/CustomClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="724">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/TreeParser.java" />
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-28/java/lang/reflect/Executable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="334" column="23" selection-start-line="334" selection-start-column="23" selection-end-line="334" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/MethodAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="11" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5772#5773#0" expanded="true" />
+            <element signature="e#5819#5820#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm/9.2/asm-9.2.jar!/org/objectweb/asm/MethodVisitor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1569">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/ClassIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-423">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/objects/Item.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/DOMParser.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/objects/OntologyNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/objects/Fields.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/XMLParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#7841#7842#0" expanded="true" />
+            <element signature="e#7872#7873#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/objects/Methods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1096#1097#0" expanded="true" />
+            <element signature="e#1129#1130#0" expanded="true" />
+            <element signature="e#1396#1397#0" expanded="true" />
+            <element signature="e#1434#1435#0" expanded="true" />
+            <element signature="e#1528#1529#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="172" selection-start-line="172" selection-end-line="172" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/runner/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Tool:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Tool</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.github.kwart.jd:jd-lib:1.2.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

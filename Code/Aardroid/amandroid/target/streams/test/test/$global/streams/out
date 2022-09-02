@@ -1,0 +1,36 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.amandroid.serialization.SerializationTest, org.scalatest.tools.Framework$$anon$1@5389349e, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.amandroid.plugin.ApiMisuseTest, org.scalatest.tools.Framework$$anon$1@5389349e, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.amandroid.core.util.GuessAppPackagesTest, org.scalatest.tools.Framework$$anon$1@5389349e, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.amandroid.summary.model.UriSuTest, org.scalatest.tools.Framework$$anon$1@5389349e, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.amandroid.summary.model.ComponentNameSuTest, org.scalatest.tools.Framework$$anon$1@5389349e, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.amandroid.summary.model.ActivitySuTest, org.scalatest.tools.Framework$$anon$1@5389349e, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.amandroid.core.dedex.LocalTypeResolverTest, org.scalatest.tools.Framework$$anon$1@5389349e, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.amandroid.core.dedex.DedexTest, org.scalatest.tools.Framework$$anon$1@5389349e, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.amandroid.summary.HeapSummaryGeneratorTest, org.scalatest.tools.Framework$$anon$1@5389349e, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.amandroid.summary.wu.IntentWuTest, org.scalatest.tools.Framework$$anon$1@5389349e, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.amandroid.summary.model.BundleSuTest, org.scalatest.tools.Framework$$anon$1@5389349e, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.amandroid.summary.model.IntentFilterSuTest, org.scalatest.tools.Framework$$anon$1@5389349e, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.amandroid.summary.model.IntentSuTest, org.scalatest.tools.Framework$$anon$1@5389349e, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.amandroid.plugin.LockScreenTest, org.scalatest.tools.Framework$$anon$1@5389349e, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.argus.amandroid.summary.model.ContextSuTest, org.scalatest.tools.Framework$$anon$1@5389349e, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 1 minute, 42 seconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 401[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 15, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 401, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.amandroid.summary.wu.IntentWuTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.amandroid.plugin.ApiMisuseTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.amandroid.summary.model.BundleSuTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.amandroid.core.util.GuessAppPackagesTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.amandroid.summary.model.ContextSuTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.amandroid.plugin.LockScreenTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.amandroid.summary.HeapSummaryGeneratorTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.amandroid.summary.model.UriSuTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.amandroid.summary.model.IntentFilterSuTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.amandroid.serialization.SerializationTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.amandroid.summary.model.ActivitySuTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.amandroid.core.dedex.DedexTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.amandroid.summary.model.IntentSuTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.amandroid.core.dedex.LocalTypeResolverTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.argus.amandroid.summary.model.ComponentNameSuTest[0m

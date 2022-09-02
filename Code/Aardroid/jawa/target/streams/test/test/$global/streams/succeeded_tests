@@ -1,0 +1,34 @@
+#Successful Tests
+#Sat Apr 10 02:33:56 EDT 2021
+hu.ssh.progressbar.replacers.TotalTimeReplacerTest=1618036397168
+org.argus.jawa.flow.summary.model.MapSuTest=1618036392945
+org.argus.jawa.core.compiler.parser.JawaParserTest=1618036402395
+org.argus.jawa.flow.summary.wu.TaintWuTest=1618036402307
+org.argus.jawa.flow.summary.grammar.SafsuTest=1618036406061
+org.argus.jawa.flow.summary.model.StringSuTest=1618036393312
+org.argus.jawa.flow.summary.model.StringBuilderTest=1618036394429
+org.argus.jawa.core.ast.javafile.Java2JawaTest=1618036395528
+hu.ssh.progressbar.replacers.BarReplacerTest=1618036396219
+org.argus.jawa.flow.summary.SummaryManagerTest=1618036394538
+hu.ssh.progressbar.replacers.RemainingTimeReplacerTest=1618036397587
+org.argus.jawa.core.GlobalTest=1618036397570
+org.argus.jawa.flow.summary.susaf.parser.SummaryParserTest=1618036402505
+org.argus.jawa.core.compiler.codegen.JawaCodegenTest=1618036402911
+org.argus.jawa.core.compiler.lexer.WhitespaceAndCommentsGrouperTest=1618036393008
+org.argus.jawa.flow.summary.model.ClassSuTest=1618036396185
+org.argus.jawa.flow.summary.model.StringBufferTest=1618036405990
+org.argus.jawa.flow.summary.model.ListSuTest=1618036395510
+org.argus.jawa.flow.summary.model.SetSuTest=1618036402445
+org.argus.jawa.flow.summary.model.ObjectSuTest=1618036397632
+hu.ssh.progressbar.replacers.ElapsedTimeReplacerTest=1618036405802
+org.argus.jawa.core.ast.classfile.DeBytecodeTest=1618036397116
+hu.ssh.progressbar.replacers.PercentageReplacerTest=1618036397148
+hu.ssh.progressbar.helpers.HumanTimeFormatterTest=1618036395238
+org.argus.jawa.core.compiler.lexer.JawaLexerTest=1618036403073
+org.argus.jawa.core.ClassHierarchyTest=1618036405732
+hu.ssh.progressbar.replacers.RemainingTaskReplacerTest=1618036406093
+org.argus.jawa.flow.summary.model.ThreadSuTest=1618036395158
+org.argus.jawa.flow.summary.HeapSummaryGeneratorTest=1618036436251
+org.argus.jawa.flow.util.UtilTest=1618036402525
+org.argus.jawa.core.JavaKnowledgeTest=1618036393108
+hu.ssh.progressbar.console.ConsoleProgressBarTest=1618036405774

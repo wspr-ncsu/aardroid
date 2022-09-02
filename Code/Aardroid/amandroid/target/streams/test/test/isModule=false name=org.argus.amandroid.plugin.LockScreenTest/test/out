@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mLockScreenTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLockScreen[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be Flagged True[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCrypto[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be Flagged No[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mbgsuFun[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be Flagged Yes[0m[0m

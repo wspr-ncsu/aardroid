@@ -1,0 +1,3776 @@
+# 1 club or credit card number
+( city level ) location
+( free application only ) non-personally identifiable information
+( ip ) address
+( or your authorized child ) user name
+( or your authorized child's ) pii
+, statistical , non-personally identifiable information
+3rd party advertising
+4382651.fls.doubleclick.net
+4426628.fls.doubleclick.net
+5520200.fls.doubleclick.net
+6615255.fls.doubleclick.net
+99turkiye.com password
+aaid
+accelerometer
+accelerometer datum
+accelerometer information
+access credential
+access date
+access point information
+access time
+account / routing number
+account balance
+account balance information
+account credential
+account detail
+account holder
+account holder name
+account identifier
+account info
+account information
+account information current
+account login
+account number
+account on social medium platform
+account on social network
+account on third party social medium platform
+account password
+account personal identify information
+account picture
+account security authentication information
+account username
+accountusername
+achievement
+activity
+activity information
+activity of user
+activity on ifunny services
+activity on our site
+activity on our social networking account
+activity on service
+activity on services
+activity on site
+activity on sites
+activity on tubi services
+activity on unaffiliated third party site
+activity-base datum
+activity-base information
+actual email address
+actual information about user
+actual name
+actual phone number
+actual photo of student
+ad
+ad - network
+ad agency
+ad agency ' sdk code
+ad click
+ad company
+ad entity
+ad exchange
+ad id
+ad identifier
+ad in our service
+ad management
+ad management company
+ad management partner
+ad network
+ad network and service provider
+ad network partner
+ad network place
+ad network provider
+ad network vendor
+ad on company
+ad on service
+ad on various website
+ad partner
+ad partners
+ad platform
+ad provider
+ad providers
+ad publisher
+ad sdk
+ad serve technology
+ad serve vendor
+ad server
+ad server company
+ad service
+ad service company
+ad service provider
+ad serving technology
+ad technology partner
+ad technology provider
+ad tehcnology
+ad-id
+ad-serve company
+ad.doubleclick.net
+adclick.g.doubleclick.net
+address
+address book
+address book information
+address information
+address of site
+address of your business
+address of your place of business
+administrator-create username
+admob
+adobe marketing cloud device co - op
+adsense
+adservice.google.com
+adtech ad serve system
+advertise company
+advertise id
+advertise identifier
+advertise partner
+advertise partner on our serice
+advertise server
+advertise technology
+advertise technology product
+advertisement
+advertisement id
+advertisement network
+advertisement on application
+advertisement on godzilab 's web site
+advertisement on n3twork 's web site
+advertisement on sapio or sapio advertisement on other application
+advertisement on website
+advertisement provider
+advertisement server company
+advertisement system
+advertiser
+advertiser / service provider
+advertiser about volume of use on tubi service
+advertiser id
+advertiser identifier
+advertiser identifiers
+advertiser of advertisement
+advertiser on aggregate basis
+advertiser on aggregate non - personal basis
+advertiser on mobile device
+advertiser on our website
+advertiser or joint venture company
+advertiser partner
+advertisers
+advertising
+advertising agency
+advertising agency / provider
+advertising agent
+advertising analyst
+advertising and advertising measurement partner
+advertising and analyzation system
+advertising and list brokering network
+advertising and sale partner
+advertising banner system
+advertising campaign service
+advertising client
+advertising company
+advertising customer
+advertising device identifier
+advertising display partner
+advertising entities
+advertising entity
+advertising id
+advertising id on android
+advertising identifer
+advertising identifers
+advertising identification number
+advertising identifier
+advertising identifier datum
+advertising identifier information
+advertising identifier on your device
+advertising identifiers
+advertising individual
+advertising management
+advertising measurement partner
+advertising mediation platform
+advertising module
+advertising network
+advertising network / advertising exchange
+advertising network company
+advertising network of our affiliate
+advertising network provider
+advertising networks
+advertising partner
+advertising partner in compliance
+advertising partner in de - identify fashion
+advertising partner in de-identify fashion
+advertising partner liveramp
+advertising platform
+advertising platform partner
+advertising program
+advertising provider
+advertising provider google
+advertising sdk
+advertising sdk ( software development kit
+advertising sdk software development kit
+advertising serve company
+advertising server
+advertising service
+advertising service provider
+advertising system
+advertising technology company
+advertising technology service provider
+advertising vendor
+advertisor
+adword
+adwords
+affiliate
+affiliate ' direct marketing purpose
+affiliate ' own direct marketing purpose
+affiliate business or marketing partner
+affiliate company
+affiliate direct marketing purpose
+affiliate entity
+affiliate-marketing network
+affiliates
+age
+age bucket
+age demographic information
+age group
+age information
+age level
+age range
+age-range
+agency customer identifiable information
+agent
+agent telephone number
+aggregate ( non-personally identify ) information
+aggregate , anonymous information about basic usage statistic
+aggregate , de-identify information and analytic information
+aggregate , de-identify usage information
+aggregate and anonymous information about usage of web site
+aggregate and de-identify information
+aggregate click statistic
+aggregate customer analytic
+aggregate datum on website usage
+aggregate de-identify usage information
+aggregate demographic information
+aggregate demographic information datum
+aggregate information about use of service
+aggregate information regard overall demographic of user of our website
+aggregate non-personally identifiable information
+aggregate or de-identify information
+aggregate or de-identify information about customer
+aggregate or de-identify information about our customer
+aggregate or other type of non-personally identifiable information
+aggregate service usage metric
+aggregate site usage metric
+aggregate statistic about usage of website
+aggregate statistical npii
+aggregate usage metric
+aggregated , non-pii basis
+aggregated traffic datum
+aggregated usage
+airline and flight information
+alias
+altitude
+amazon payment
+amount
+amount of personally identify information
+amount of purchase
+amount of use
+analytic
+analytic analysis entity
+analytic and advertising service
+analytic companies
+analytic company
+analytic information about your use of our services
+analytic on
+analytic organization
+analytic parner
+analytic partner
+analytic program
+analytic report
+analytic service
+analytic service provider
+analytic technology company
+analytic tool
+analytic tool provider
+analytic tools
+analytic vendor
+analytical service
+analytical third - party service
+analytical tool
+analytical tools
+analytics
+analytics service
+analytics tools
+analytics-
+android
+android ad id
+android advertising id
+android advertising identifier
+android advertising ids
+android device id
+android device identifier
+android device information
+android id
+android identifier
+android operating system
+android os
+animation
+annual income
+anonymised information on your location
+anonymiz location
+anonymiz usage data
+anonymized and / or aggregated usage statistic
+anonymized device id
+anonymized location information
+anonymous ( non-personally identifiable ) information
+anonymous , aggregate , and de-identify information
+anonymous , aggregate demographic information
+anonymous , de-identify
+anonymous advertising identification
+anonymous and / or aggregate usage statistic
+anonymous and aggregate demographic datum
+anonymous and de-identify information
+anonymous coarse location
+anonymous demographic
+anonymous demographic information
+anonymous device id
+anonymous device identifier
+anonymous device ids
+anonymous identifier
+anonymous information about browser
+anonymous information about web browser
+anonymous location
+anonymous location information
+anonymous or de-identify information
+anonymous summary demographic information about our visitor
+anonymous traffic datum
+anonymous usage datum
+anonymous usage statistic
+answer
+api.taplytics.com
+app activity
+app usage
+app usage datum
+app usage statistic
+app use
+app username
+apple advertising id
+apple advertising identifier
+apple healthkit information
+apple's advertising id
+applicable device id
+applicable payment service provider
+applicable social network
+applicable social networking service
+applicable social networks
+application / ad provider
+application activity
+application identifiers
+application information
+application instal
+application password
+application usage
+application usage datum
+application usage information
+application use datum
+application username
+application version
+application-specific user datum
+application-specific user information
+appropriate credit card company and credit card payment processing company
+approve marketing partner
+approximate ( city-level ) location
+approximate and exact location information
+approximate geo-location information
+approximate geographical country
+approximate location / geo-location information
+approximate location information
+approximate or realtime location information
+area code
+arget , location base information
+article
+artist name
+artwork
+associate advertising network
+attendee's name
+audience segment provider
+audio
+audio recording
+authentication detail
+authentication information
+authorized payment processor
+authorized service provider
+automobile vehicle identification number
+avatar
+baby head photo
+background
+baidu user name
+bank account
+bank account detail
+bank account information
+bank account name
+bank account number
+bank account transaction detail
+bank detail
+bank rout information
+bank rout number
+bank routing
+banking detail
+banking information
+basic account information
+basic demographic information
+basic information about your purchase
+battleship-war-3d.firebaseio.com
+beckett.com purchase
+behavioral - base advertising
+behavioral - base advertising company
+behavioral-base advertising
+belief
+bill address
+bill address information
+bill email
+billboard posting
+billing
+billing address
+billing address detail
+billing address information
+billing and account detail
+billing and account information
+billing and credit card information
+billing and delivery address
+billing and delivery information
+billing and shipping address
+billing and shipping information
+billing and transaction information
+billing datum
+billing detail
+billing email
+billing information
+billing information
+billing name
+billing or mailing address
+billing relate email
+billing relate email
+billing related information
+billing- and shipping-relate information
+billing-relate information about your account
+bio
+biography
+biometric
+biometric and genetic datum
+biometric and genetic information
+biometric datum
+biometric identifier
+biometric information
+biometrical datum
+biometrical information
+birth date
+birth date information
+birth year
+birth year
+birthdate
+birthday
+blog
+blog entry
+blog url
+blood pressure
+bluetooth
+bluetooth mac address
+bmi
+body information
+body mass index
+body measurement
+body profile information
+body type
+body weight
+body weight log
+booking
+booking address
+broad demographic information
+broad usage datum
+browse behavior
+browse behavior on our services
+browse history of user
+browser
+browser information
+browser information on our server log
+browser language
+browser language preference
+browser name
+browser plug-in type
+browser setting
+browser that
+browser that you be use
+browser type
+browser use
+browser version
+browsing activity
+browsing habit
+bssid
+business
+business , operational , promotional and marketing purpose
+business address
+business affiliation
+business and advertising partner
+business contact information
+business credit information
+business e-mail address
+business email address
+business information
+business location
+business name
+business or principal occupation
+business partner
+business partner marketing activity
+business relate postal address of person
+business telephone number
+business title
+business type
+button tap
+call / sms / location information of device in background
+caller id
+camera use
+camera your mobile device unique device id
+caption
+card expiration date
+card holder name
+card number
+card security code
+card security or verification code
+card type
+card verification number
+card verification value on your credit card
+cardholder name
+carrier
+carrier / network
+carrier network location
+category of
+category of information
+category of personal information
+category of personally identifiable information
+category of third - party
+ccv2
+ccv2 number on our checkout form
+cell number
+cell phone number
+cell phone tower
+cell tower
+cell tower location
+cell tower that
+cell towers
+cellphone number
+cellular carrier
+cellular information
+cellular network information
+cellular phone number
+certain advertiser
+certain marketing and advertising partner
+characteristic
+characteristic of site's user
+charge status
+child online activity
+child online contact information
+child or family member's name
+child's location information
+child's pii
+choice of language
+city
+city and county location
+city location
+click
+click behavior
+click on button
+click stream activity
+click stream datum
+click stream information
+click-stream
+click-stream datum
+click-through
+click-through information
+click-through path
+clickstream
+clickstream activity
+clickstream behavior
+clickstream datum
+clickstream datum about your use of tubi services
+clickstream information
+clickstream pattern
+client's name
+climate characteristic
+clip
+cloud-base location service
+cm.g.doubleclick.net
+co - marketer
+co - marketing partner
+co-brand partner
+coarse geo-location information
+coarse geolocation information
+coarse location
+coarse location base information about you
+coarse location information
+collect location
+collect location information
+collected demographic information
+collection of contact information about you
+collection of device identifiers
+collection of location information
+collection of your credit card information
+collection of your ip address
+comment
+common identify information
+communication
+communication preference
+community's address
+company
+company ' direct marketing purpose
+company 's advertiser
+company 's advertising partner
+company 's direct marketing purpose
+company address
+company and third party marketer
+company email address
+company name
+company password
+company size
+company's partner
+competition
+competition entry
+complete social security number
+component serial number
+computer graphic
+computer hardware information
+computer information
+computer internet protocol address
+computer ip address
+computer's location
+concept
+confidentiality of password
+connect.tapjoy.com
+consumer credit information
+consumer credit report
+consumer registration information
+consumer's geographic location
+contact
+contact detail
+contact in your address book
+contact information
+contact information about you
+contact information on public resume
+contact list
+contact lists
+contact on service
+contact preference
+contact's name
+content
+content capture
+content deliver to mobile device
+content information
+content of your geocaching log
+content on service
+content on social networking site
+content pattern
+content relate to your favorite member club
+content.tapjoy.com
+contractor
+contribution
+control.kochava.com
+conversation
+cookie information
+cookie or device identifier
+cookie preference
+copy of health information
+copy of official form of identification
+copy of your email address
+corporate affiliate ' direct marketing purpose
+correlate location information
+correspondence detail
+country
+country / region
+country code
+country information
+country location
+country of access
+country of installation
+country of origin
+country of registration
+country of residence
+credential
+credit - card processor
+credit / debit card
+credit / debit card detail
+credit / debit card expiration date
+credit / debit card expiry date
+credit / debit card information
+credit / debit card number
+credit account information
+credit and debit card
+credit and debit card information
+credit and debit card number
+credit and financial information
+credit card
+credit card ( or other authorized payment method ) information
+credit card , debit card or other payment instrument
+credit card , debit card or personal financial account information
+credit card / debit card number
+credit card account information
+credit card account number
+credit card and bank information
+credit card and billing information
+credit card and debit card information
+credit card bill information
+credit card billing information
+credit card company
+credit card datum
+credit card detail
+credit card expiration date
+credit card expiry date
+credit card holder's name
+credit card information
+credit card information in cookie
+credit card information on its website
+credit card information on our order form
+credit card number
+credit card number on our order form
+credit card number on our registration form
+credit card number tax identifier number
+credit card number-when you purchase
+credit card or debit card detail
+credit card or other payment information
+credit card payment information
+credit card payment processing enterprise
+credit card payment processing service
+credit card processor
+credit card processor elavon
+credit card processor of its choosing
+credit card provider
+credit card security code
+credit card security code
+credit card service processor
+credit card transaction processor
+credit card-relate information
+credit history
+credit information
+credit or debit card
+credit or debit card account information
+credit or debit card account number
+credit or debit card information
+credit or debit card number
+credit or other payment card information
+credit or payment card information
+credit score
+credit-card information
+credit-card number
+cross - application advertising
+crowd-source wifi hotspot and cell tower location
+cryptographic hash of email address
+currency
+current address of individual
+current cellular network information
+current contact information
+current email address
+current employment
+current gps location
+current income level
+current language
+current latitude / longitude coordinate
+current location
+current location ' feature
+current location information
+current physical location
+current your name
+custom location
+customary billing information
+customer ' marketing
+customer account information
+customer credit card number
+customer identifiable information
+customer identification information
+customer information
+customer interest
+customer medical information
+customer name
+customer provide information about itself
+customer purchaser history
+customer registration information
+customer username
+customer's email address
+customer's location information
+customer's name
+customers ip address
+customers name
+customize advertising
+cvc / cvv code
+cvc code
+cvc2 number
+cvv code
+cvv number
+cvv verification
+d. o. b.
+date
+date and location of transaction
+date and month of birth
+date of birth
+date of birth / age
+date of birth information
+date of call
+date of purchase
+date that your card expire
+datum
+datum about athletic performance
+datum about individual's health
+datum about operate system
+datum about user browse activity on site
+datum about your mobile device
+datum about your use of service
+datum analytic
+datum analytic company
+datum of install
+datum that describe general demographic
+datum that personally identify individual
+daytime telephone number
+de-identify / pseudonymised information
+de-identify aggregate information about our customer
+de-identify aggregate user information
+de-identify and aggregate information
+de-identify demographic
+de-identify demographic information
+de-identify demographic or other datum
+de-identify health information
+de-identify individual information
+de-identify information
+de-identify information about our user
+de-identify information about particular individual
+de-identify location information
+de-identify or aggregate customer information
+de-identify or aggregate information about you
+de-identify or aggregated information
+de-identify persistent device
+de-identify persistent device identifier
+de-identify ridership information
+de-identify user information
+de-personalize information
+dealer advertising association
+debit card
+debit card account
+debit card detail
+debit card information
+debit card number
+debit or credit card detail
+debit or credit card-relate information
+default language
+delivery address
+delivery information
+delivery location history
+delivery professional's name
+demographic
+demographic analysis
+demographic and location information
+demographic data
+demographic database
+demographic datum
+demographic detail
+demographic group information
+demographic information
+demographic information
+demographic information about you
+demographic information about yourself
+demographic of driver
+demographic of our visitor and authorized customers
+demographic of your user base
+demographic or relevant information
+demographic pattern
+demographic profiling
+demographic question
+demographic report
+demographic statistic
+demographic statistic of our user
+demographic trait
+demographic trend
+demographical information
+demographics
+description
+designate email address
+designate location alerts
+designated payment processor
+detail
+detail about your select method of payment
+detail of current and former employment
+detail of purchase
+detail of your biometric information
+detail of your usage of our app
+detail of your use of app
+detailed demographic information
+detailed location history
+detailed location information
+device about your location
+device activity
+device ad id
+device ad identification
+device advertising id
+device advertising identifier
+device and access point location information
+device and advertising identifier
+device and website usage
+device brand
+device browser
+device carrier
+device characteristic
+device detail
+device event information
+device geolocation
+device gps coordinate
+device id
+device id information
+device id on apple device
+device id s relate
+device identification
+device identification information
+device identification information regard computer
+device identification number
+device identifier
+device identifier
+device identifier and usage information
+device identifier information
+device identifier of device
+device identifiers
+device ids
+device imei no
+device imei number
+device info
+device information
+device information device specific information
+device information-device-specific information
+device internet protocol ( ip ) address
+device ip address
+device language
+device language setting
+device level identifier
+device locale
+device location
+device location information
+device location name
+device mac address
+device manufacturer
+device model
+device operate system version
+device or advertising id
+device or operate system identifier
+device performance unique device identifier
+device persistent identifier
+device phone number
+device platform
+device sensor information
+device serial number
+device setting
+device specific datum
+device specific information
+device specification
+device to determine location
+device token
+device type
+device unique id
+device usage
+device version
+device you be use to access service
+device's ad id
+device's android identification number
+device's camera , microphone or location information
+device's current location
+device's geolocation information
+device's id
+device's imei number
+device's location
+device's location information
+device's mobile id
+device's phone number
+device's physical location
+device's telephone number
+device's unique advertising id
+device's unique device id
+device's unique device identifier
+device's unique id
+device's unique identifier
+device-identifiable information
+device-identify information
+device-relate information
+device-specific alphanumerical id number
+device-specific identifier
+device-specific information
+devise ip address
+devise ip address`
+diagnostic log information
+different type of information about your location
+digital advertising alliance
+digital advertising ecosystem
+digital fingerprinting to identify
+digital marketing
+digital marketing program
+digital marketing provider
+direct marketer
+direct marketing of their product
+direction
+disbursement and payment provider partner
+display advertising feature
+display advertising partner
+display content
+display name
+distribution of de-identify user record
+dna datum
+dna information
+dna test result
+dob
+document
+domain name
+domain name of your internet service provider
+doubleclick campaign manager
+drawing
+drive behavior
+driver ' licence detail
+driver ' location
+driver behavior information
+driver license
+driver license id number
+driver license identification number
+driver license information
+driver license information
+driver license number
+driver license number
+driver's license information
+duration
+duration of call
+duration of stay
+dynamic internet protocol address
+dynamic ip address
+e - commerce payment provider
+e - mail marketing purpose
+e-mail
+e-mail address
+each of our advertiser
+education
+education detail
+education history
+education information
+education level
+education status
+educational background
+educational level
+edupad may offer location-enable service in future
+ein
+electricity usage history
+electronic bill payment service provider
+electronic identifier
+electronic mail address
+electronic personal health record
+email
+email address
+email address in request
+email address of applicant
+email address of company's contact person
+email address of customer
+email address of gift recipient
+email address of individual
+email address of our user
+email address of parent
+email address of people
+email address of person
+email address of recipient of such electronic postcard
+email address of select garmin customer
+email address of user
+email address of your mobile device
+email address(es )
+email addresses
+email contact information
+email id
+email identifier
+email marketing service provider
+email marketing service provider mailgram
+email open rate
+email password
+emailaddress
+emergency contact information
+employee contact information
+employee name
+employee occupation
+employer
+employer name
+employment background
+employment detail
+employment experience
+employment history
+employment information
+employment information
+employment record
+employment-relate information
+encrypted access credential
+encrypted credit card number
+end user ' email address
+end-user's health information
+end-user's information
+entire credit card number
+entire encrypted credit card number
+entity
+entravision 's advertiser
+equipment identifier
+equipment your phone imei number
+ethernet mac address
+even advertiser
+even user id
+event
+events.tapjoy.com
+evolution
+evsoft 's payment processor
+exact email address
+exact location
+example of type of personal information geo-location information
+exercise
+exercise datum
+exercise information
+expiration date
+expiration date of user
+expiry date
+external email address
+external marketing
+external payment security service
+eye attribute
+facebook , twitter , or instagram account
+facebook / email identifier
+facebook account
+facebook account info
+facebook account information
+facebook and instagram account information
+facebook and instagram photo
+facebook email
+facebook friend
+facebook friends
+facebook id
+facebook id and yahoo id)(statutory specific purpose
+facebook identifier
+facebook information
+facebook login
+facebook or twitter account information
+facebook or twitter username
+facebook password
+facebook uid
+facebook user id
+family age range
+familysearch username
+favorite donatos location
+favorite store location
+favorite workout routine
+fax
+fax number
+feedback
+file
+financial / credit card information
+financial account information
+financial account number
+financial and credit card information
+financial information
+firebase analytic
+firebase messaging service
+firebase sdk
+firebase sdk library
+firebase.api.goforandroid.com
+firebaseio.analytics-dev.com
+firebasestorage.googleapis.com
+first , middle and last name
+first , second and last name
+first / last name
+first american payment system
+first and family name
+first and last name
+first initial of your last name
+first name
+first name / surname
+first name plus last initial
+firstname
+fitness
+fitness activity datum
+fitness activity information
+fitness activity information
+fitness and activity information
+fitness progress
+fitness statistic
+five digit zip code
+flight information
+flipagram videos
+font setting
+for co - brand and co - sponsor marketing and promotional event
+form of click stream information
+form of device identification
+form of non-personally identifiable information
+form of personal information
+form of pii
+form of your profile information
+former insurance information
+forum
+forum post
+frequency
+frequency of visitor
+frequency of visitor to
+frequency of visitor to our service
+frequency of visitor to our site
+frequency of visitor to our website
+frequency of visitor to website
+frequent location update
+friend list name
+friend's name
+friend's phone number
+friend's pii
+fuel price
+full address
+full bank account information
+full credit card
+full credit card information
+full credit card number
+full credit card number information
+full legal name
+full mailing address
+full name
+full payment card number
+full real name
+full street address
+full uniform resource locator clickstream
+full uniform resource locators clickstream
+full url clickstream
+full user name
+function phone number
+game activity
+game challenge
+game name
+game play
+game play interest
+game play statistic
+game ranking
+game score
+gameplay
+gameplay information
+gameplay statistic
+gantry location
+gender
+gender categorization
+gender category
+gender interest
+gender of group
+general anonymous datum on site usage statistic
+general demographic information
+general demographic of driver
+general demographic question
+general usage pattern
+general usage statistic
+generic aggregated demographic information
+generic location
+genetic and health information
+genetic characteristic
+genetic or health information
+geo location
+geo-location
+geo-location base information
+geo-location detail
+geo-location feature
+geo-location feature of application
+geo-location feature on your device
+geo-location information
+geo-location information and services providers
+geo-location technology
+geo-location tracking
+geocoding
+geographic coordinate
+geographic information
+geographic location
+geographic location information
+geographic region
+geographical address
+geographical allocation
+geographical information
+geographical location
+geographical location
+geographical location information
+geolocation
+geolocation and travel interest
+geolocation base information
+geolocation feature
+geolocation functionality
+geolocation information
+geolocation information about device
+geolocation information about you
+geolocation information in de-identify form
+geolocation information in manner
+geolocation information relate
+geolocation information relate to device
+geolocation of your device
+geolocation of your device for show
+geolocational information
+gift card information
+give advertising network
+global positioning system location information and motion information
+glucose level
+glucose reading
+gm credit card bank partner
+gm marketing activity
+gmail address
+gmail password
+google 's admob subsidiary
+google 's firebase analytic tool
+google / android advertising id
+google / android advertising identifier
+google ad identifier
+google admob
+google admob advertiser
+google admob service
+google admod
+google adsense
+google adsense service
+google advertising id
+google advertising identifier
+google advertising service
+google adword
+google adword advertiser
+google adwords
+google adwords conversion tracker
+google analytic sdk
+google analytic website_url_link
+google analytics
+google analytics demographics
+google analytics product
+google android ad id
+google android advertising identifier
+google doubleclick
+google email address
+google marketing service
+google mobile ad sdk
+google or facebook account
+google or facebook account information
+google services framework id
+google services framework identifier
+google services id
+google services identifier
+google's advertising identifier
+google+ datum
+google+ information
+google-analytics.com
+googleads.g.doubleclick.net
+googleads4.g.doubleclick.net
+government agency
+government identification number
+government official
+government-issue identification information
+government-issue identification number
+government-issue social security number
+gps and network signal
+gps location information
+gps or zip code information
+gps-base location information
+gps-location
+grade
+grade level
+graphic
+gsf id
+gsf identifier
+guess-create hashtag
+guid
+hair
+handle
+handy platform username
+hardware id
+hardware model
+hardware setting
+hardware type
+hardware usage statistic
+hardware version
+harvesting of email address
+hash device id
+hash email address
+hash or device identifier
+hash representation of your mobile device's hardware id
+hash version of device identifier
+hash version of your email address
+hash version of your email addresss
+hat geo-location information
+health
+health and wellness information
+health application information in icloud
+health information
+health information
+health information about you
+health information about your infant
+health information of someone
+health information of yours
+health insurance information
+health or medical condition
+health plan
+health record information
+health relate information
+health-relate information
+health-relate information about you
+health-relate information on abbvie sites
+health-relate personal information
+health-relate service information
+healthcare information
+healthkit information
+heart rate
+heart rate
+heart rate datum
+heart rate information
+heart rate log
+high game score
+hird party location
+historical gps information
+history
+history of your location
+hlt marketing activity
+hobby
+home / mobile telephone number
+home address
+home and business address
+home and business postal address
+home and mailing address
+home and work address
+home city
+home location
+home or business address
+home or e-mail address
+home or email address
+home or office address
+home or work address
+home ownership
+home page
+home phone
+home phone number
+home station location
+hometown
+host or payment service provider
+hostname
+house address
+household income
+household income range
+hyperlink
+id
+idd country code
+idea
+identifiable information
+identification detail of your device
+identification information
+identification number
+identification number or location
+identifier
+identifier for advertising
+identifier of android
+identifier of device
+identifiers
+identifiers of mobile device
+identify contact information
+identify information
+identify information regard particular user
+identity
+identity of applicable internet service provider
+identity related information
+idfa and advertising id
+idfa and advertising identifier
+idfa for ios device
+idfa on apple device
+ids
+ile device ' location information
+im username
+image
+image birth date
+image content
+image of you
+image of yourself
+imagery
+imei
+imei code
+imei number
+imei number of your
+imp.control.kochava.com
+imprecise location information
+in - application advertiser
+in-store location
+incident location information
+income
+income information
+income level
+income range
+indirect identifier
+individual customer name
+individual device id
+individual full name
+individual name
+individual personally identifiable information
+individual's full name
+individual's name
+individual's social security number
+individual-level genetic information
+individuals full name
+individuals name
+infant heart rate
+information
+information about action take
+information about athletic performance
+information about available wireless network
+information about browser type
+information about certain medical
+information about computer
+information about consumer
+information about device
+information about device that be use to access our services
+information about device you use
+information about exact location of your mobile device
+information about general location
+information about general location of your device
+information about general location of your internet service provider
+information about how you interact with advertisement
+information about how you use
+information about how you use our services
+information about identifiable individual
+information about individual
+information about individual employment
+information about individual's health
+information about installation of app
+information about ip address of your device
+information about location
+information about location of device
+information about location of device you be use
+information about location of mobile device
+information about location of your computer
+information about location of your device
+information about location of your device and access
+information about location of your device in store
+information about location of your device once you download
+information about location of your device time you access
+information about location of your device time you use
+information about location of your device to facilitate your use of certain feature of our services
+information about location of your device when run our mobile application
+information about location of your device when you access
+information about location of your device your mobile operating system
+information about location of your mobile device
+information about nearby wifi access point
+information about nutrition and condition impact performance
+information about online activity
+information about operate system
+information about operating system
+information about operating system on device
+information about particular consumer
+information about person
+information about person browser
+information about person's identity
+information about personally-identify information
+information about physical location of your device
+information about possible relationship
+information about precise geolocation
+information about precise location
+information about precise location of your device
+information about precise physical location of your mobile device within
+information about purchase
+information about specific location of your mobile device
+information about such statement
+information about their activity on sites
+information about their precise geographic location
+information about them
+information about themselves
+information about time and location
+information about traffic pattern on websites
+information about trip you book
+information about usage of device
+information about use of device
+information about user activity on our web site
+information about user browse behavior
+information about user's computer
+information about user's location
+information about way you use
+information about way you use application
+information about where site visitor come from
+information about you
+information about you during your use of services
+information about you from identity verification service
+information about you if you use credential
+information about you that accompany content
+information about you to identify new
+information about your ( or your authorized child's ) location
+information about your account
+information about your account balance
+information about your activity
+information about your activity in app
+information about your activity on our sites
+information about your activity on our website
+information about your activity on services
+information about your activity relate to how you use our online service
+information about your advertising identifier
+information about your app usage
+information about your application
+information about your approximate location
+information about your bicycle rental
+information about your browse behavior
+information about your browser type
+information about your browsing
+information about your browsing activity
+information about your business
+information about your click
+information about your computer
+information about your computing device
+information about your contact
+information about your credit card
+information about your credit history
+information about your current location
+information about your device
+information about your device and location
+information about your device operate system
+information about your device operating system
+information about your device's location
+information about your device's precise location
+information about your exact location
+information about your feature usage
+information about your fitness activity
+information about your gender
+information about your geo-location
+information about your geographic location
+information about your geographical location
+information about your geolocation
+information about your installation
+information about your interaction
+information about your interest
+information about your internet service provider
+information about your ip address
+information about your lifestyle
+information about your location
+information about your location in variety of way
+information about your location within participate hotel
+information about your mobile device
+information about your mobile phone
+information about your online activity
+information about your online activity across website
+information about your payment card
+information about your phone
+information about your photo
+information about your physical location
+information about your physical trait
+information about your precise geolocation
+information about your precise geolocation information
+information about your precise location
+information about your preferred language
+information about your purchase
+information about your real-time location
+information about your shopping habit
+information about your specific location
+information about your unique device identifier
+information about your usage detail
+information about your usage of app
+information about your usage of application
+information about your usage of fox news services
+information about your usage of fox services
+information about your usage of fsd services
+information about your usage of fts services
+information about your usage of joule
+information about your usage of ontime
+information about your usage of xfinity mobile service
+information about your use of app
+information about your use of application
+information about your use of joule
+information about your use of ontime
+information about your use of our site
+information about your use of our website
+information about your use of product
+information about your use of sites
+information about your vehicle
+information about your vehicle use
+information about your vehicle's location
+information about your website usage
+information about yourself
+information about yourself to hothead
+information about yourself to us
+information analytic
+information analytic company
+information analytic project
+information analytic provider
+information analytic service
+information base on your location
+information concern your location
+information element on device
+information elements of your personal information
+information from your mobile device about your location
+information from your phone's address book
+information identify you
+information in aggregate non-personally identifiable manner
+information in country
+information in de-identify form
+information in de-identify way
+information in log file that include datum
+information necessary to process your payment if you make
+information of install
+information of your usage of application
+information of your usage of our application
+information on action take on our site
+information on and device identifier
+information on browser type
+information on children's geographical location
+information on children's geolocation information
+information on location of your vehicle
+information on mac address
+information on type of device you use
+information on user account
+information on your country
+information on your device
+information on your location
+information on your shopping behavior on our site
+information on your usage of third party
+information partner
+information regard device you be use
+information regard geographic position
+information regard location
+information regard location of your device when you access services
+information regard network connected hardware
+information regard part order
+information regard vehicle's location
+information regard your account
+information regard your credit card
+information regard your gender
+information regard your general location
+information regard your geo-location
+information regard your geographhical location
+information regard your location
+information regard your personal belief
+information regard your purchase
+information regard your usage of website
+information regard your use of site
+information relate to game play
+information relate to gameplay
+information relate to geographic location
+information relate to racial or ethnic origin
+information relate to register user ' activity
+information relate to travel
+information relate to you
+information relate to your activity on our site
+information relate to your identity
+information relate to your income
+information relate to your vehicle's geographic location
+information that allow direct identification of individual
+information that can identify user of website
+information that can identify you
+information that could include personal information
+information that could personally identify you
+information that describe general demographic
+information that detail your purchase
+information that disclose your physical location
+information that do not allow direct association
+information that do not by itself identify specific individual
+information that do not identify individual e.g. , anonymous , aggregate information
+information that do not identify individual or mobile device
+information that do not identify specific individual
+information that do not personally identify end user
+information that do not reveal your specific identity
+information that identify device use
+information that identify mobile device
+information that identify our guest personally
+information that identify our user
+information that identify our visitor personally
+information that identify precise physical location
+information that identify recent purchase
+information that identify your device
+information that identify your mobile device
+information that identify your vehicle
+information that individually identify our customer
+information that may include personally identifiable information
+information that may personally identify you
+information that personally identify you
+information that reveal personal health condition
+information that specifically identify individual
+information that specifically identify you
+information which can not identify your personally
+information which include persistent identifier
+information which may include account information
+initial of last name
+installation datum
+installation of local software
+installation-relate information
+instant messaging address
+instant messenger screen name
+insurance agency
+insurance company
+insurance coverage
+insurance coverage information
+insurance datum
+insurance information
+insurance plan
+insurance plan information
+insurance provider
+integrate ad network
+interaction
+interaction information
+interactive advertising bureau
+interest
+interest - base advertising on pangea - own and operate site
+internal , business relate ( non - marketing ) purpose
+international equipment mobile id
+international mobile equipment identity
+internet address
+internet base advertiser
+internet browse history
+internet browser
+internet connection
+internet information
+internet protocol
+internet protocol ( ip ) address
+internet protocol address
+internet protocol address of device
+internet protocol address of your computer
+internet provider
+internet provider's domain name
+internet service provider
+internet service provider datum
+internet service provider information
+internet service provider name
+internet service providers
+invitee phone number
+invoice
+ios
+ip
+ip ' address
+ip ( internet protocol ) address
+ip ( internet protocol ) address of computer
+ip ( internet provider ) address of visitor
+ip address
+ip address and geo location
+ip address datum
+ip address login
+ip address mapping
+ip address of individual device
+ip address of its visitor
+ip address of our user
+ip address of request device
+ip address of your internet service provider
+ip addresses
+ip base geolocation
+ip host address
+ip information
+ip internet provider
+ip number
+ip or gps address
+ip tracking
+ip-address
+ip-address instead
+ip-adre
+ip-determine location
+ipaddress
+ipaddress of your mobile device
+isp
+isp
+isp ( internet service provider
+isp or mobile carrier
+its advertising partners
+its advertising service
+jackd advertiser
+jango.com's advertiser
+job
+job history
+job information
+job title
+job view
+joint marketer
+joint marketing partner
+kalnirnay-calendar.firebaseio.com
+keyboard language
+kind of information
+kind of personal information
+kind of personally identifiable information
+kochava.com
+l. c. marketing communication
+language
+language code
+language modeling datum
+language of device
+language of mobile terminal
+language pair
+language preference
+language recognition setting
+language selection
+language setting
+language setting of mobile device
+last 4 digit of your credit card number
+last four digit of credit card number
+last four digit of your social security number
+last initial
+last know location
+last location
+last name
+last name initial
+lastname
+latitude
+latitude / longitude
+latitude / longitude detail
+latitude and longitude location information
+latitude-longitude coordinate
+league ranking
+legal name
+letter
+license number
+license plate
+license plate number
+lifestyle
+lifestyle information
+lifestyle preference
+link
+link click
+link you click on
+list of unique device identifiers
+list of url
+list of your top connection
+literal location detail
+llc advertiser
+local address
+local web configuration information
+localisation information
+location
+location / gps coordinate
+location and language information
+location and route information
+location attribute
+location base information
+location base information about you
+location base information in connection
+location based information
+location coordinate
+location customisation
+location detail
+location history
+location in facility
+location information
+location information about device that access our services
+location information about other user ' nonda devices track
+location information about other user ' tile device
+location information about service
+location information about your
+location information about your device
+location information about your longitude
+location information business operator
+location information of map service supplier
+location information of user
+location information of vehicle
+location information of vehicle-mount dashboard camera of subject of personal location information
+location information of your vehicle
+location information on our server
+location information regard location of limebike bikes
+location information relate
+location information-such
+location location
+location name
+location of
+location of device
+location of interaction
+location of merchant
+location of mobile device
+location of our user
+location of phone
+location of report
+location of tournament you be compete in
+location of user
+location of vehicle
+location of your
+location of your device
+location of your family
+location of your mobile device
+location of your mobile phone
+location of your nonda devices
+location of your phone
+location of your wireless device
+location relative to
+location sensor information
+location setting
+location visit
+location you use our application
+location-aware device
+location-base analysis
+location-base feature
+location-base information
+location-base mobile advertising solution
+location-base or other information
+location-base search
+location-base service
+location-base services
+location-base services relate
+location-base tool
+location-base tracking
+location-dependent information
+location-enhance feature
+location-relate information
+location-specific information
+location-specific promotion
+location-specific survey
+locational information
+lock location
+log
+log data
+log datum
+log file information
+log information
+log information about your use of our services
+log information about your use of platform
+log information about your use of services
+log-in credential
+log-in information
+login detail
+login id
+login identifier
+login information
+login name
+login password
+logon name
+longitude
+longitude , latitude
+longitude / latitude
+longitude location information
+longitude of your mobile device
+low-level device id
+loyalty program detail
+mac
+mac address
+mac address of device
+mac addresses
+mac id
+mac information
+mac operating system
+mac os
+mac-address
+mac-address of access point
+macaddress
+machine or mobile device identification number
+maiden name
+mail address
+mailing
+mailing / billing address
+mailing address
+mailing address country
+mailing addresses
+mailing list
+major credit and debit card
+manager / analytic service
+manufacturer
+many type of personal information
+mapping or advertising provider
+marital or familial status
+marital status
+mark
+market information provider
+market partner
+market partner of cdff
+market researcher
+marketer
+marketer of product
+marketing
+marketing , affiliate
+marketing - relate initiative relate
+marketing - relate purpose
+marketing activity
+marketing affiliate
+marketing agency
+marketing alliance partner
+marketing analytic
+marketing and advertising partner
+marketing and research partner
+marketing and research vendor
+marketing and sale partner
+marketing automation service provider
+marketing communication
+marketing company
+marketing contact information
+marketing contractor
+marketing firm
+marketing of their own product
+marketing of vasco product
+marketing or sale purpose
+marketing organization
+marketing partner
+marketing party
+marketing platform
+marketing product
+marketing provider
+marketing purpose
+marketing research company
+marketing research firm
+marketing service
+marketing service company
+marketing service provider
+marketing sponsor
+marketing vendor
+material
+measurement analytic
+mechanism ip address
+media access control
+media access control address
+medical / health information
+medical and health information
+medical detail
+medical history
+medical information
+medical or health condition
+medical treatment instruction
+medium 's analytic
+medium access control
+medium access control address
+member country
+member of our family of company
+member username
+membership of political association
+membership status
+membership-relate information
+merchant ' customer ' name
+message
+message board posting
+method of payment
+microsoft translator
+mileageplus account number
+military identification
+military identification card
+mms message
+mobile
+mobile access provider
+mobile ad identifier
+mobile ad network
+mobile advertising id
+mobile advertising identifier
+mobile advertising partner
+mobile advertising program
+mobile and other phone number
+mobile app activity
+mobile application activity
+mobile application usage
+mobile application usage datum
+mobile application usage information
+mobile carrier
+mobile carrier-relate information
+mobile country code
+mobile device ' unique device id
+mobile device address book
+mobile device advertising
+mobile device id
+mobile device identification information
+mobile device identifier
+mobile device identifier detail
+mobile device identifiers
+mobile device identify information
+mobile device idfa
+mobile device ids
+mobile device information
+mobile device ip address
+mobile device language setting
+mobile device location information
+mobile device phone number
+mobile device udid
+mobile device unique advertising id
+mobile device unique device id
+mobile device unique id
+mobile device unique identifier
+mobile device's ' background location
+mobile device's gps signal
+mobile device's id
+mobile device's location
+mobile device's unique device id
+mobile device's unique device identifier
+mobile equipment identifier
+mobile identifier
+mobile information
+mobile location information
+mobile marketing vendor
+mobile network code / mobile country code
+mobile network information
+mobile network unique device identifier unique device identifier
+mobile number
+mobile operating system
+mobile operating system version
+mobile operator
+mobile or ip address
+mobile or other location-aware device
+mobile phone carrier
+mobile phone number
+mobile phone number of fleek user
+mobile phone number of olo user
+mobile phone's imei
+mobile phone's location detail
+mobile phone's unique device id
+mobile service carrier
+mobile telephone carrier
+mobile telephone number
+model
+model name
+motivation
+mouse click
+mouse movement
+movement
+movie
+movie time
+multimedia player setting
+music
+music video
+n3twork 's payment processor
+nail
+name
+name / initial
+name of artist
+name of buyer
+name of call participant
+name of card holder
+name of cardholder
+name of internet service provider
+name of person
+name of plug-in
+name of recipient
+name of your facebook friend
+name of your internet service pro-vider
+name of your internet service provider
+name of your mobile operator
+name of your mobile phone service provider
+name of your mobile provider
+name of your wireless carrier
+name on account
+name on card
+name on your user
+nation setting
+national insurance number
+national tax id number
+native / speak language
+native language
+near location you shop
+network , hardware and device identifier
+network advertiser
+network advertising initiative
+network carrier
+network datum
+network information
+network location information
+network location source
+network mac address
+network rout address
+network traffic information
+network type
+network-base geographical identification metadata
+news
+news article
+nickname
+nickserv
+non - affiliate company
+non - affiliate joint marketing partner
+non - affiliate third party
+non - marketing purpose
+non pii
+non- PII
+non- personal information
+non-identifiable demographic datum
+non-identifiable demographic information
+non-identifiable information
+non-identifiable information and device information
+non-identifiable user usage datum
+non-identifiable user usage information
+non-identify demographic information
+non-identify information
+non-identify location information
+non-identify or de-identify information
+non-persistent device identifier
+non-personal , statistical information about usage of services
+non-personal , statistical information about usage of website
+non-personal , statistical information about use of services
+non-personal , statistical information about use of site
+non-personal and personal and health information
+non-personal anonymized information about use of airmini app
+non-personal anonymous information about usage of airmini application
+non-personal device location information
+non-personal identification information about user
+non-personal information
+non-personal information about your visit
+non-personal information regard services
+non-personally identifiable
+non-personally identifiable , or aggregate information
+non-personally identifiable aggregate information
+non-personally identifiable anonymous statistical information
+non-personally identifiable demographic information
+non-personally identifiable form
+non-personally identifiable information
+non-personally identifiable information about
+non-personally identifiable information about call
+non-personally identifiable information about site visitor
+non-personally identifiable information about user
+non-personally identifiable information about website user
+non-personally identifiable information about you
+non-personally identifiable information about your
+non-personally identifiable information about your activity
+non-personally identifiable information about your interaction
+non-personally identifiable information about your visit
+non-personally identifiable information regard your visit
+non-personally identifiable informationto third party advertiser
+non-personally identifiable member information
+non-personally identifiable profile information
+non-personally identifiable user information
+non-personally identifiable visitor information
+non-personally identify basis
+non-personally identify demographic information
+non-personally identify information about your usage of website
+non-personally identify information about your use of site
+non-personally- identifiable information
+non-personally-identifiable
+non-personally-identifiable information about user usage of site
+non-personally-identifiable information about your usage of site
+non-personally-identifiable information about your usage of website
+non-personally-identifiable information set
+non-personally-identify analytic
+non-pii
+non-pii collection
+non-pii element
+non-pii element of your information
+non-pii information
+non-precise geo-location information
+non-precise geolocation information
+non-precise location information
+non-private , de-identify , aggregate or otherwise non-personal information
+non-sensitive device information
+non-specific geo-location information
+non-specific location information
+notably advertiser
+note
+number
+number of call make
+number of click
+number of click on advertisement
+number of click-through
+number of employee
+number of page view
+number of search
+number of time you view
+number of workout you
+numerous datum on site usage
+o computer information
+obvious identify information
+occupation
+offend user's contact information
+offer of advertiser
+often user's device id
+on-property information and location information
+online account information
+online activity
+online advertisement on ama 's website
+online advertiser
+online advertising
+online advertising network
+online advertising partner
+online and offline purchase information
+online payment processor
+online product purchase
+online purchase
+online purchase information
+online service
+online services
+online shopping cart provider and payment processor
+online their name
+online traffic pattern
+online usage information
+onsite behavior
+operate system name
+operate system version
+operating system
+operating system
+operating system identifier
+operating system name
+operating system on your device
+operating system on your mobile device
+operating system type / version
+operating system version
+operation system version
+operator network
+operator of social network
+or your contact personally identifiable information
+order history
+order history of product
+order information
+organisation
+organisation phone number
+organization
+organization-specific information
+os
+os name
+os type / version
+os version
+other advertising vendor
+other favorite social network
+other favourite social network
+our ad management
+our ad management company
+our ad partner
+our ad partners
+our ad technology partner
+our advertiser
+our advertising partner
+our analytic and attribution partner
+our third party advertising service providers
+outside credit - card processor
+outside marketing company
+outside party
+overall demographic
+owner name
+page
+page that you view
+page traffic
+page user access
+page view
+page visit
+page you view
+pagead2.googleadservices.com
+panorama
+parent / guardian's pii
+parent email address
+parent mobile number
+parent's email address
+parkwhiz.com advertiser
+part number
+part of our use of third - party analytic tool
+part of our use of third-party analytic tool
+part of your external marketing
+part of your social security number
+partial credit card number
+partial mailing address
+partial or full ip address
+parties
+partner
+partner ad network
+partner advertiser
+partners
+party
+party ' direct marketing purpose
+passive usage datum
+passively collect information about your activity on our site
+passport
+passport number
+password
+password information
+password of hive account
+password of subscriber ' account
+password of your choice
+past insurance history
+past purchase
+path
+patreon 's payment processing system
+patronymic name
+pattern
+payee name
+payment account email address
+payment and credit card information
+payment card
+payment card datum
+payment card detail
+payment card expiration date
+payment card expiry date
+payment card industry information
+payment card information
+payment card information
+payment card network
+payment card number
+payment card number
+payment card processor
+payment card provider
+payment card verification code
+payment choice
+payment company
+payment gateway provider
+payment history
+payment information
+payment instrument number
+payment method
+payment or credit card information
+payment partner
+payment platform
+payment process partner
+payment processing company
+payment processor
+payment processor intermediary
+payment provider
+payment service
+payment service network
+payment service provider
+payment vendor
+payment-relate information
+paypal account information
+paypal email address
+paypal information
+pci - compliant third party payment processor
+people name
+people's name
+peoplefun username
+peoples name
+performance of electronic payment service
+permanent address
+permanent device identifier
+persistent identifier
+person ' name
+person age
+person gender
+person name
+person name
+person's email address
+person's name
+person's pii
+personal account information
+personal and business contact datum
+personal and health information
+personal billing information
+personal computer and device identifier
+personal device id
+personal device information
+personal email address
+personal financial account information
+personal fitness detail
+personal health care information
+personal health information
+personal health-relate information
+personal identifiable information
+personal identification information
+personal identifier
+personal identify information
+personal identifying information
+personal individually identifiable information
+personal information
+personal information about recipient
+personal information about you
+personal information and device identifiers
+personal information and location information
+personal information and protected health information of child
+personal location information
+personal medical information
+personal mobile phone number
+personal name
+personal or business contact information
+personal or company email address
+personal or health-relate personal information
+personal photo
+personal user information
+personalize fitness statistic
+personally identifiable
+personally identifiable ( personal ) information
+personally identifiable , automatically collect information
+personally identifiable customer information
+personally identifiable element
+personally identifiable geo-location information
+personally identifiable health or wellness information
+personally identifiable information
+personally identifiable information about
+personally identifiable information about navigation
+personally identifiable information about user
+personally identifiable information about user ' online activity
+personally identifiable information about visitor
+personally identifiable information about you
+personally identifiable information about your activity
+personally identifiable information about your online activity
+personally identifiable information online
+personally identifiable information relate to
+personally identifiable information share about you
+personally identifiable information-information
+personally identifiable informationpii
+personally identifiable lbi
+personally identifiable location
+personally identifiable medical information
+personally identifiable offline contact information
+personally identifiable registration information
+personally identifiable snapshot information
+personally identifiable student information
+personally identifiableinformation
+personally identifiale information
+personally identify characteristic
+personally identify individual
+personally non-identifiable information
+personally-identifiable client information
+personally-identifiable current location
+personally-identifiable location information
+personally-identify
+persons name
+pertinent pii
+phi
+phi or health record
+philosophical belief
+philosophical belief
+phone
+phone #
+phone / device number
+phone / mobile number / fax
+phone and fax number
+phone book
+phone book content
+phone call log
+phone contact detail
+phone hardware device id
+phone information
+phone number
+phone number associate
+phone number in your mobile address book
+phone number of device
+phone number of first-time user
+phone number use to call customer service
+phone or fax number
+phone type
+phone's device identification number
+phone's geolocation information
+phone's location information
+phonebook
+photo
+photo album
+photo location
+photo metadata
+photo of you
+photo of your friend
+photocopy of your id card
+photocopy of your identifier card
+photograph
+photograph of you
+photos
+physical activity relate datum
+physical activity relate information
+physical address
+physical addresses
+physical and mental or other health condition
+physical fitness information
+physical geographic location
+physical location
+physical location information
+physical mailing address
+physical or mental health
+physical or postal address
+physical traits
+pick up location
+picture
+picture of you
+picture of your child
+pii
+pii about visitor
+pii about you
+pii in student information
+pii information
+pii of child
+pii of other
+pii of test taker
+pii of user
+pii relate to your position
+pin
+place
+place visit
+placements.tapjoy.com
+plantronics device identifier
+platform
+platform-specific advertising identifier
+player identifier string
+player information
+player user name
+player's name
+playtika 's payment processor
+pocket prep marketing activity
+policeone advertiser
+political affiliation
+political association
+political belief
+political opinion
+political or topical view
+political orientation
+political preference
+port number
+portion of your credit card number
+post
+post code
+post information
+postal / shipping address
+postal address
+postal address of company
+postal code
+postal mailing address
+postal mailing contact information
+postal mailing information
+postal or billing address
+postal or physical address
+postal or zip code
+postcode
+postcode / zip code
+posting
+potential advertiser
+power social media feature
+precise and imprecise geolocation
+precise current location
+precise geo-location detail
+precise geo-location information
+precise geographic location
+precise geographic location information
+precise geographical location
+precise geolocation
+precise geolocation information
+precise geolocation infrmation
+precise gps location information
+precise information about geographic location
+precise information about location
+precise information about location of your device
+precise information about location of your mobile device
+precise information about location of your mobile device use technology
+precise location
+precise location information
+precise mobile device location
+precise or approximate location
+precise real time location information
+precise real-time location information
+precise-geo-location information
+prefer first name
+prefer username
+preference
+preferred country
+preferred language
+prescription-relate information
+primary address
+primary email address
+primary phone number
+printed information
+prior employment
+privacy preference
+private or store account information
+product information
+product preference
+product purchase
+product purchase activity
+product purchase history
+product recipient information
+product review
+product serial number
+product usage datum
+product usage information
+profession
+professional bank rout information
+professional experience
+professional information
+profile
+profile / account information
+profile image
+profile information
+profile information on services
+profile name
+profile photo
+profile picture
+profile preference
+profile-relate information
+promotion of third party advertiser
+property photo
+proprietary network information
+protect health information
+protected health information
+protocol
+provider
+provider of advert
+provider of analytic service
+provider of analytic tool
+provider of target advertising
+provider of web analytic tool
+province
+pseudonymous usage statistic about your interaction
+pubads.g.doubleclick.net
+public
+public profile photo
+publicly available information about your email address
+publicly available information about your online activity
+pulse
+pulse measurement
+purchase
+purchase / return / exchange information
+purchase activity
+purchase behavior
+purchase credit card information
+purchase datum
+purchase detail
+purchase history
+purchase information
+purchase of product
+purchase pattern
+purchase transaction
+purchase transaction datum
+purchase-relate information
+purpose geolocation information
+purpose of marketing service
+purpose of payment or health care operation
+quality
+question
+quote
+race
+rack of your location
+racking and geo-location information
+randomly generate user id
+range of personally-identify information
+ransaction location
+raw biometric datum
+raw biometric information
+real name
+real time location
+real time location information
+real-time geo-location
+real-time geo-location information
+real-time geographic location
+real-time information about location of your device
+real-time information about location of your device for geo-fencing
+real-time information about location of your device gps
+real-time information about location of your mobile device
+real-time information about your device's location
+real-time information about your mobile device's location
+real-time location
+real-time location information
+real-time location information relate to vehicle
+real-time location-base information
+realtime location information
+reatment of personally identifiable information
+recipe you
+recipient 's own marketing
+recipient email address
+recipient name
+recipient of such advertising or marketing content
+recipient phone number
+recipient's email address
+recipients email address
+recognize street address
+record and store location service information
+record of purchase
+record of your usage of our products
+record of your use of our products
+record of your web browsing
+recording
+region
+region of country or world
+regional and language setting
+regional location information
+register location
+register username
+registered email
+registered user first name
+registered user last name
+registered user name
+registration
+registration information
+registration-relate information
+relate mobile device information
+relationship interest
+religion
+religious affiliation
+religious belief
+religious denomination
+religious or philosophical belief
+religious or philosophical view
+remarketing
+rental location
+report on user demographic
+request information
+request usage pattern
+reside address
+residence country
+residence-relate information
+residential address
+residential phone number
+resolution
+restaurant additional information about you
+return email address
+review
+reviewer name
+rocketjump contact information
+rough geo-location
+rough geolocation
+rough location information
+rout address
+route
+router information
+routermac
+routerssid
+routing number
+rpc.tapjoy.com
+runiq usage information
+salary
+salary range
+scan copy of driver license
+school
+school / education information
+school affiliation
+school biometric record
+school email
+scopely services id
+score
+screen / nick name
+screen name
+screen resolution
+screen size
+screenname
+screenshot
+scroll behavior
+search engine provider
+search history
+seat selection
+seating
+secure and nationally recognize payment processor
+securepubads.g.doubleclick.net
+security code
+security code on back of credit card
+security number
+security of login
+security question
+seek alpha email account
+selection of television show
+self-identify information
+self-report information
+self-uploaded photo
+send ip address
+send mobile device's id
+sender's phone number
+sensitive account information
+sensitive billing information
+sensitive information
+sensitive personal health information
+sensitive personal or account information
+sensitive personally identifiable information
+sensitive personally-identify information
+separate location
+sephora 's joint marketing partner
+sequence information
+serial number
+server log
+server log datum
+server log file
+server personally identifiable information about you
+service
+service of advertisement
+service of third party
+service preference
+service provider
+service provider
+service provider in different industry
+service providers
+service usage
+service usage datum
+service user name
+services
+session duration
+session id
+set of question
+setting
+setting information
+setting on your location-aware device
+sex
+sexual activity
+sexual affiliation
+sexual life
+sexual orientation information
+sexual preference
+sexual stat
+share information about location of your device
+share location
+share photo
+sharing of information
+sharing of your pii
+shipping / billing address
+shipping address
+shipping and billing address
+shipping information
+shopping behavior
+shopping cart information
+signal strength
+signature
+signup location
+signup.com contact information
+simple password
+site
+site activity information
+site analytic
+site demographic
+site navigation
+site navigation pattern
+site password
+site traffic
+site usage
+site usage information
+site usage statistic
+site's advertiser
+site-usage
+sites
+sms
+sms / text message
+sms message number
+sms sender phone number
+sms text message
+sns user id
+so call click stream datum
+social account information
+social insurance number
+social insurance number in canada
+social login
+social login service
+social media
+social media account information
+social media account login credential
+social media account profile photo
+social media credential
+social media features
+social media login information
+social media network
+social media platform
+social media platforms
+social media services
+social media username
+social medium
+social medium account
+social medium account detail
+social medium account information
+social medium account name
+social medium account profile photo
+social medium account provider
+social medium advertising network
+social medium application
+social medium company
+social medium credential
+social medium datum
+social medium feature
+social medium friend
+social medium handle
+social medium identifier
+social medium information
+social medium network
+social medium nickname
+social medium outlet
+social medium password information
+social medium platform
+social medium profile url
+social medium provider
+social medium service
+social medium service provider
+social medium site
+social medium website
+social medium website profile image url
+social network
+social network account
+social network account password
+social network datum
+social network feature
+social network id
+social network id number
+social network information
+social network login
+social network platform user id
+social network provider
+social network service
+social network site user id
+social network site user identification number
+social network username
+social network widget
+social networking account information
+social networking information
+social networking platform
+social networking platform user id
+social networking service
+social networking site
+social networking site profile id
+social networking user id
+social networking website
+social networking website user account name
+social networks
+social security / national identity number
+social security account number
+social security number
+social security number / social insurance number
+social security number / tax identification number
+social security number of california state resident
+social security number on our server
+social security numbers
+software
+software that be use
+sound
+source type
+special unsubscribe link in email
+speed
+speed of travel
+sponsor
+sport team information
+ssaid
+ssid
+ssl.google-analytics.com
+ssn
+standard internet log information
+standard log information
+standard server log information
+standard web log information
+start location information
+state
+state / province
+state location
+state name
+state-issue picture identification
+static.doubleclick.net
+statistic about aggregated ( and de-identify ) information
+statistic about site traffic
+statistic of application usage
+statistical analysis on visitor ' usage pattern
+stats.g.doubleclick.net
+status
+status message
+status of vehicle system
+status submissions
+storage size
+store account information
+store device identifier
+store information about your location
+store web log information
+story
+street address
+street geolocation information
+street name
+street-level ( precise ) geolocation information
+student email address
+student grade
+student name
+student personally identifiable information
+student username
+student's email address
+student's first name
+student's last name
+students email address
+students first name
+students last name
+sub-account holder's history of website browsing
+subcontractor
+subscriber email address
+subscription information
+such ad partner
+such ad serve partner
+such advertiser
+such advertising agency
+such advertising company
+such advertising partner
+such aggregate non-personally identifiable information
+such analytic
+such analytic service
+such content
+such credit card information
+such de-identify information
+such device id
+such email address
+such geolocation information
+such geolocational information
+such identifier
+such location
+such location information
+such location-base information
+such location-base service
+such other company ' direct ( and independent ) marketing purpose
+such party ' direct marketing purpose
+such party ' own marketing purpose
+such password
+such pii
+such third party ' direct marketing purpose
+such third party ' marketing purpose
+such third partys marketing offer
+such web analytic service prover
+suggestion
+surname
+syncb account information
+system activity
+system information
+system ip address
+system language
+system username
+tablet
+tag photo
+taplytics.com
+tapstream advertising id
+target , location base information
+target ad
+target advertiser
+target email
+tax id
+tax identification number
+taxpayer identification number
+tcp / ip address
+tcp / ip packet header
+teacher email address
+technical device information
+technical information about device
+technical information about user device
+technical information about your device
+technical information about your internet usage
+technical information about your use of our sites
+telemetry information
+telemetry information
+telephone
+telephone / mobile phone number
+telephone and facsimile number
+telephone and fax number
+telephone and mobile number
+telephone call back
+telephone contact information
+telephone number
+telephone number dial
+telephone number of business or professional person
+telephone or mobile number
+telephone or mobile phone number
+telephone phone number
+television show
+testimonial
+text
+text address
+text message
+text-enable cellular / wireless telephone number
+that pii
+that under-13 user's parent's email address
+third - party
+third - party ' direct marketing purpose
+third - party ' own direct marketing purpose
+third - party ad
+third - party ad - server
+third - party ad network
+third - party ad partner
+third - party ad provider
+third - party ad sdk
+third - party ad serve
+third - party ad serve company
+third - party ad server
+third - party ad service
+third - party advertisement provider
+third - party advertiser
+third - party advertising
+third - party advertising company
+third - party advertising network
+third - party advertising partner
+third - party advertising provider
+third - party advertising service partner
+third - party advertising service provider
+third - party advertising technology
+third - party analytic
+third - party analytic provider
+third - party application
+third - party business partner
+third - party company
+third - party contractor
+third - party credit card processor
+third - party entity
+third - party marketer
+third - party marketing
+third - party marketing company
+third - party marketing partner
+third - party marketing purpose
+third - party online advertising company
+third - party online advertising network
+third - party organization
+third - party partner
+third - party partner advertise good
+third - party payment card processor
+third - party payment gateway
+third - party payment processing company
+third - party payment processor
+third - party payment processor vendor
+third - party payment provider
+third - party payment service company
+third - party payment service provider
+third - party platform
+third - party processor
+third - party promotional and marketing partner
+third - party provider
+third - party provider of payment service
+third - party service
+third - party service provider
+third - party site
+third - party sponsor
+third - party supplier
+third - party target advertising cookie
+third - party target advertising sdk
+third - party vendor
+third - party website
+third part service
+third part service password
+third parties
+third party
+third party ' direct marketing
+third party ' direct marketing purpose
+third party ' direct marketing purpose in precede calendar year
+third party ' marketing purpose
+third party ' own and independent direct marketing purpose
+third party ' own direct marketing purpose
+third party 's direct marketing purpose
+third party 's marketing purpose
+third party 's own direct marketing purpose
+third party 's own marketing purpose
+third party - service provider
+third party ad company
+third party ad delivery provider
+third party ad network
+third party ad network provider
+third party ad partner
+third party ad provider
+third party ad server
+third party advertise partner
+third party advertisement
+third party advertisement company
+third party advertiser
+third party advertiser in product
+third party advertiser in sega application
+third party advertising
+third party advertising agency
+third party advertising and personalization partner
+third party advertising and technology company
+third party advertising companies
+third party advertising company
+third party advertising exchange partner
+third party advertising network
+third party advertising partner
+third party advertising provider
+third party advertising service
+third party advertising service provider
+third party advertising service providers
+third party advertising technology
+third party advertising vendor
+third party advertist company
+third party agent
+third party analytic company
+third party analytic provider
+third party analytic service
+third party analytic service provider
+third party analytical tool
+third party application
+third party business
+third party business partner
+third party company
+third party credit card payment processing company
+third party direct marketing purpose
+third party location
+third party market research service
+third party marketer
+third party marketing
+third party marketing or advertising company
+third party marketing or advertising purpose
+third party marketing partner
+third party marketing purpose
+third party online advertising network
+third party partner
+third party partners
+third party payment processing company
+third party payment processing platform
+third party payment processing service provider
+third party payment processor
+third party payment service
+third party payment service provider
+third party payment vendor
+third party pii
+third party platform
+third party provider
+third party remarketing
+third party service
+third party service password
+third party service provider
+third party services
+third party site
+third party site about your surfing activity
+third party social medium network
+third party social medium platform
+third party social medium platform service
+third party social medium service
+third party social medium site
+third party social medium website
+third party social network
+third party social network account
+third party social network account information
+third party social network site account
+third party social networking service
+third party social networks
+third party vendor
+third party website
+third party website / advertiser / ad - server
+third- party advertiser
+third- party payment service provider
+third-party ad network
+third-party ad service
+third-party ad-server
+third-party advertiser
+third-party advertising company
+third-party advertising network
+third-party advertising partner
+third-party advertising service partner
+third-party advertising service provider
+third-party analytic
+third-party social medium service
+third-party social medium website
+third-party social network
+third-party social networks
+time
+time spend on
+time warner cable email address
+time zone
+time zone setting
+timestamp
+timezone
+tin
+title
+to address
+total click count
+track tool
+track use for background track
+tracking and geo-location information
+tracking information
+tracking provider
+tracking tool
+traffic data
+traffic datum
+traffic information
+traffic information
+traffic pattern
+traffic pattern on website
+transaction data
+transaction history
+transaction location
+transaction request
+transaction zip code
+travel book
+travel route
+traveler first and last name
+trend analytic
+trend of our users'activitie
+trip information
+trip view
+trust marketing partner
+trust partner
+twitter account
+twitter handle
+twitter identity
+twitter login
+twitter username
+two way location information
+type
+type and language setting
+type and operating system
+type of action
+type of browser
+type of browser software
+type of computer operate system
+type of device
+type of device you use
+type of information
+type of information about visitor's action on web site
+type of message
+type of mobile browser
+type of mobile device
+type of mobile internet browser
+type of operate system
+type of operating system
+type of personal information
+type of phone
+type of pii
+type of service
+typically purchaser name
+u. s. social security number
+udid on your ios device
+unaffiliated third party ' marketing purpose
+unique advertising identifier
+unique anonymous advertising identifier
+unique application identifier
+unique device id
+unique device identification number
+unique device identifier
+unique device identifier / number
+unique device identifier code
+unique device identifier mobile network information
+unique device identifier number
+unique device identifiers
+unique email address
+unique hootsuite user id
+unique id
+unique id number
+unique identification number
+unique identificator
+unique identifier
+unique identifier information
+unique identifiers
+unique mobile device identifier
+unique mobile id
+unique numeric identifier
+unique password
+unique personally identifiable information
+unique serial number
+unique system identifier
+unique user id
+unique user identifier
+unique user name
+unique username
+united club location
+upload content
+upload information about you
+url
+usage
+usage activity
+usage analytic
+usage and analytic information
+usage behavior
+usage data
+usage datum
+usage datum about belkin products
+usage datum regard your activity on site
+usage datum regard your activity on website
+usage detail
+usage history
+usage info
+usage information
+usage information about belkin products
+usage information regard your activity on website
+usage of apalon application
+usage of app
+usage of certain product feature
+usage of instal app
+usage of our apps
+usage of our mobile application
+usage of our service
+usage of our site
+usage of platform
+usage of server
+usage of service
+usage of services
+usage of transit app
+usage of transit application
+usage of variety of technology
+usage of various app
+usage of website
+usage on our website
+usage pattern
+usage pattern of application
+usage statistic
+usage statistic of our service
+usage statistic regard your usage of product
+usage statistic regard your use of product
+use datum
+use in marketing of their product
+use in marketing product
+use information
+use of ace stream platform
+use of apalon app
+use of app
+use of application
+use of apps
+use of beta software
+use of certain optimum select service
+use of certain product feature
+use of certain services
+use of google analytic
+use of online service
+use of other company ' service
+use of other internet site
+use of our apps
+use of our games
+use of our mobile application
+use of our service
+use of our services
+use of our site
+use of our uvo eservices
+use of our web site
+use of paltalk software
+use of server
+use of service
+use of services
+use of site
+use of sites
+use of variety of technology
+use of website
+use pattern of app
+user ' account information
+user ' computer information
+user ' email address
+user ' name
+user ' operating system
+user account information
+user activity
+user age range
+user characteristic
+user computer information
+user contact information
+user content
+user credit card information
+user demographic
+user demographic information
+user description
+user email
+user email address
+user generate content
+user id
+user id / name
+user identification
+user identification detail
+user identification information
+user identifier
+user identifier information
+user ids
+user information
+user information in de-identify or aggregate form
+user ip address
+user location
+user location information
+user login
+user name
+user non-pii information
+user of our ad service
+user password
+user picture
+user profile
+user profile information
+user profile picture
+user provide location
+user setting
+user submission
+user submissions
+user video
+user zip code
+user's ' click-stream
+user's address
+user's current email address
+user's date of birth
+user's device characteristic
+user's device identifier
+user's device location
+user's device location
+user's email address
+user's information
+user's location
+user's name
+user's password
+user's pii
+user-behavior on site
+user-create or administrator-create password
+user-information
+user-provide account information
+username
+username on social medium
+users information
+users name
+users password
+valid credit / debit card number
+valid credit card number
+valid email address
+valid register email address
+vehicle and registration information
+vehicle datum
+vehicle description
+vehicle detail
+vehicle information
+vehicle location
+vehicle rental information
+vehicle usage information
+vehicle usage statistic
+vehicle's location
+vehicle-relate information
+vendor
+ventra customer's pii
+verifiable email address
+verification code
+verification number
+version
+version of android operating system
+version of android os
+version of device
+version of operate system
+video
+video clip
+video file
+video gallery opinion
+video streaming usage
+video.tapjoy.com
+view information
+vin
+vin number
+virtual , proxy ip address
+virtue of location of your mobile device
+visa and mastercard credit / debit card in aed
+visitor internet protocol address
+visitor ip address
+visitor name
+visitor's name
+visitor's type of operate system
+visitors contact information
+visitors name
+vixlet username
+voice
+voluntary registration information
+web analytic
+web analytic provider
+web analytic service provide
+web browser
+web browser information
+web browser software
+web content
+web link
+web log datum
+web log information
+web page
+web site
+web site usage
+web site usage information
+web sites
+web surf behavior
+web surfer ip address
+web traffic datum
+web traffic information
+web traffic pattern
+web usage information
+website activity
+website address
+website analytic
+website password
+website traffic
+website traffic pattern
+website usage
+website usage datum
+website usage information
+website use
+website use information
+website user name
+websites
+weight
+weight detail
+wellness
+what browser
+what country you be in
+what country your visit originate
+what you be request
+what you listen to
+which page be visit
+wide range of digital content
+wifi
+wifi / cellular mac address
+wifi access point
+wifi connection information
+wifi data
+wifi datum
+wifi detail
+wifi information
+wifi mac address
+wifi mac address in your area
+wifi network
+wifi network information
+wifi ssid
+wifimac
+windows
+wireless carrier
+wireless device information
+wireless email address
+wireless geographic location information
+wireless location information
+wireless network
+wo way location information
+work address
+work email address
+work history
+workout
+workout datum
+workout information
+workout log
+workout routine
+workplace location
+wps location information
+write content
+writing
+ws.tapjoyads.com
+www.google-analytics.com
+www.googleadservices.com
+yahoo analytics
+year of birth
+your age
+your contact information
+your name
+ype of non-personally identifiable
+ype of non-personally identifiable information
+ype of personally identifiable information
+zip
+zip / post code
+zip / postal code
+zip code
+zip code / postal code
+zip code associate
+zip code information
+zip code of residence
+zip code of user
+zipcode
+zynga 's payment processor

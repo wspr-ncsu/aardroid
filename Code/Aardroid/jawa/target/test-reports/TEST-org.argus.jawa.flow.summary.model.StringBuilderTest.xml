@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="Samins-MacBook-Pro.local" name="org.argus.jawa.flow.summary.model.StringBuilderTest" tests="57" errors="0" failures="0" skipped="0" time="0.247" timestamp="2021-04-10T02:33:13">
+                     <properties>
+      <property name="os.detected.version" value="10.16"/><property name="jline.esc.timeout" value="0"/><property name="jna.platform.library.path" value="/usr/lib:/usr/lib"/><property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/><property name="sun.boot.library.path" value="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib"/><property name="java.vm.version" value="25.281-b09"/><property name="gopherProxySet" value="false"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="java.vendor.url" value="http://java.oracle.com/"/><property name="os.detected.version.minor" value="16"/><property name="path.separator" value=":"/><property name="jna.loaded" value="true"/><property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/><property name="file.encoding.pkg" value="sun.io"/><property name="user.country" value="US"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="sun.os.patch.level" value="unknown"/><property name="jna.nosys" value="true"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="user.dir" value="/Users/samin/Documents/Work/Amandroid/Aardroid/Argus-SAF"/><property name="java.runtime.version" value="1.8.0_281-b09"/><property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/><property name="java.endorsed.dirs" value="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/endorsed"/><property name="os.arch" value="x86_64"/><property name="java.io.tmpdir" value="/var/folders/y1/7pjj74j5413fsq77jjltwww00000gn/T/"/><property name="line.separator" value="
+"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="os.detected.version.major" value="10"/><property name="os.name" value="Mac OS X"/><property name="os.detected.classifier" value="osx-x86_64"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="jnidispatch.path" value="/var/folders/y1/7pjj74j5413fsq77jjltwww00000gn/T/jna-109202756/jna8237783155991491015.tmp"/><property name="java.library.path" value="/Users/samin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/><property name="os.detected.arch" value="x86_64"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.class.version" value="52.0"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="os.detected.name" value="osx"/><property name="os.version" value="10.16"/><property name="user.home" value="/Users/samin"/><property name="user.timezone" value="America/New_York"/><property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/><property name="file.encoding" value="UTF-8"/><property name="java.specification.version" value="1.8"/><property name="java.class.path" value="/Users/samin/Documents/Work/Amandroid/Aardroid/Argus-SAF/tools/bin/sbt-launch.jar"/><property name="user.name" value="samin"/><property name="jline.shutdownhook" value="false"/><property name="java.vm.specification.version" value="1.8"/><property name="sun.java.command" value="/Users/samin/Documents/Work/Amandroid/Aardroid/Argus-SAF/tools/bin/sbt-launch.jar clean compile test"/><property name="java.home" value="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home"/><property name="sun.arch.data.model" value="64"/><property name="user.language" value="en"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/><property name="java.vm.info" value="mixed mode"/><property name="java.version" value="1.8.0_281"/><property name="java.ext.dirs" value="/Users/samin/Library/Java/Extensions:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/><property name="sun.boot.class.path" value="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/resources.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/rt.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/sunrsasign.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/jsse.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/jce.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/charsets.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/jfr.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/classes"/><property name="java.vendor" value="Oracle Corporation"/><property name="file.separator" value="/"/><property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/><property name="sun.io.unicode.encoding" value="UnicodeBig"/><property name="sun.cpu.endian" value="little"/><property name="sun.cpu.isalist" value=""/>
+    </properties>
+                     <testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="&lt;init&gt;:()V should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="&lt;init&gt;:(I)V should produce as expected" time="0.005">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="&lt;init&gt;:(Ljava/lang/CharSequence;)V should produce as expected" time="0.004">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="&lt;init&gt;:(Ljava/lang/String;)V should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="append:(C)Ljava/lang/Appendable; should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="append:(C)Ljava/lang/StringBuilder; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="append:(D)Ljava/lang/StringBuilder; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="append:(F)Ljava/lang/StringBuilder; should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="append:(I)Ljava/lang/StringBuilder; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="append:(J)Ljava/lang/StringBuilder; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="append:(Ljava/lang/CharSequence;)Ljava/lang/Appendable; should produce as expected" time="0.007">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="append:(Ljava/lang/CharSequence;)Ljava/lang/StringBuilder; should produce as expected" time="0.006">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="append:(Ljava/lang/CharSequence;II)Ljava/lang/Appendable; should produce as expected" time="0.02">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="append:(Ljava/lang/CharSequence;II)Ljava/lang/StringBuilder; should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="append:(Ljava/lang/Object;)Ljava/lang/StringBuilder; should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="append:(Ljava/lang/String;)Ljava/lang/StringBuilder; should produce as expected" time="0.015">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="append:(Ljava/lang/StringBuffer;)Ljava/lang/StringBuilder; should produce as expected" time="0.004">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="append:(Z)Ljava/lang/StringBuilder; should produce as expected" time="0.008">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="append:([C)Ljava/lang/StringBuilder; should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="append:([CII)Ljava/lang/StringBuilder; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="appendCodePoint:(I)Ljava/lang/StringBuilder; should produce as expected" time="0.027">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="capacity:()I should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="charAt:(I)C should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="codePointAt:(I)I should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="codePointBefore:(I)I should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="codePointCount:(II)I should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="delete:(II)Ljava/lang/StringBuilder; should produce as expected" time="0.004">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="deleteCharAt:(I)Ljava/lang/StringBuilder; should produce as expected" time="0.004">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="ensureCapacity:(I)V should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="getChars:(II[CI)V should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="indexOf:(Ljava/lang/String;)I should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="indexOf:(Ljava/lang/String;I)I should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="insert:(IC)Ljava/lang/StringBuilder; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="insert:(ID)Ljava/lang/StringBuilder; should produce as expected" time="0.014">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="insert:(IF)Ljava/lang/StringBuilder; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="insert:(II)Ljava/lang/StringBuilder; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="insert:(IJ)Ljava/lang/StringBuilder; should produce as expected" time="0.018">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="insert:(ILjava/lang/CharSequence;)Ljava/lang/StringBuilder; should produce as expected" time="0.011">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="insert:(ILjava/lang/CharSequence;II)Ljava/lang/StringBuilder; should produce as expected" time="0.004">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="insert:(ILjava/lang/Object;)Ljava/lang/StringBuilder; should produce as expected" time="0.005">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="insert:(ILjava/lang/String;)Ljava/lang/StringBuilder; should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="insert:(IZ)Ljava/lang/StringBuilder; should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="insert:(I[C)Ljava/lang/StringBuilder; should produce as expected" time="0.013">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="insert:(I[CII)Ljava/lang/StringBuilder; should produce as expected" time="0.008">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="lastIndexOf:(Ljava/lang/String;)I should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="lastIndexOf:(Ljava/lang/String;I)I should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="length:()I should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="offsetByCodePoints:(II)I should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="replace:(IILjava/lang/String;)Ljava/lang/StringBuilder; should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="reverse:()Ljava/lang/StringBuilder; should produce as expected" time="0.004">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="setCharAt:(IC)V should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="setLength:(I)V should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="subSequence:(II)Ljava/lang/CharSequence; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="substring:(I)Ljava/lang/String; should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="substring:(II)Ljava/lang/String; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="toString:()Ljava/lang/String; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.StringBuilderTest" name="trimToSize:()V should produce as expected" time="0.001">
+                                                 
+                                               </testcase>
+                     <system-out><![CDATA[]]></system-out>
+                     <system-err><![CDATA[]]></system-err>
+                   </testsuite>

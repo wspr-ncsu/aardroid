@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mHeapSummaryGeneratorTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/icc_explicit1/MainActivity.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for Lorg/arguslab/icc_explicit1/MainActivity;.leakImei:()V[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/icc_explicit1/MainActivity.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for Lorg/arguslab/icc_explicit1/MainActivity;.onCreate:(Landroid/os/Bundle;)V[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/icc_explicit1/FooActivity.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for Lorg/arguslab/icc_explicit1/FooActivity;.onCreate:(Landroid/os/Bundle;)V[0m[0m

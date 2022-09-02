@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="Samins-MacBook-Pro.local" name="org.argus.jawa.flow.summary.model.ClassSuTest" tests="61" errors="0" failures="0" skipped="0" time="0.259" timestamp="2021-04-10T02:33:15">
+                     <properties>
+      <property name="os.detected.version" value="10.16"/><property name="jline.esc.timeout" value="0"/><property name="jna.platform.library.path" value="/usr/lib:/usr/lib"/><property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/><property name="sun.boot.library.path" value="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib"/><property name="java.vm.version" value="25.281-b09"/><property name="gopherProxySet" value="false"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="java.vendor.url" value="http://java.oracle.com/"/><property name="os.detected.version.minor" value="16"/><property name="path.separator" value=":"/><property name="jna.loaded" value="true"/><property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/><property name="file.encoding.pkg" value="sun.io"/><property name="user.country" value="US"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="sun.os.patch.level" value="unknown"/><property name="jna.nosys" value="true"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="user.dir" value="/Users/samin/Documents/Work/Amandroid/Aardroid/Argus-SAF"/><property name="java.runtime.version" value="1.8.0_281-b09"/><property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/><property name="java.endorsed.dirs" value="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/endorsed"/><property name="os.arch" value="x86_64"/><property name="java.io.tmpdir" value="/var/folders/y1/7pjj74j5413fsq77jjltwww00000gn/T/"/><property name="line.separator" value="
+"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="os.detected.version.major" value="10"/><property name="os.name" value="Mac OS X"/><property name="os.detected.classifier" value="osx-x86_64"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="jnidispatch.path" value="/var/folders/y1/7pjj74j5413fsq77jjltwww00000gn/T/jna-109202756/jna8237783155991491015.tmp"/><property name="java.library.path" value="/Users/samin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/><property name="os.detected.arch" value="x86_64"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.class.version" value="52.0"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="os.detected.name" value="osx"/><property name="os.version" value="10.16"/><property name="user.home" value="/Users/samin"/><property name="user.timezone" value="America/New_York"/><property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/><property name="file.encoding" value="UTF-8"/><property name="java.specification.version" value="1.8"/><property name="java.class.path" value="/Users/samin/Documents/Work/Amandroid/Aardroid/Argus-SAF/tools/bin/sbt-launch.jar"/><property name="user.name" value="samin"/><property name="jline.shutdownhook" value="false"/><property name="java.vm.specification.version" value="1.8"/><property name="sun.java.command" value="/Users/samin/Documents/Work/Amandroid/Aardroid/Argus-SAF/tools/bin/sbt-launch.jar clean compile test"/><property name="java.home" value="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home"/><property name="sun.arch.data.model" value="64"/><property name="user.language" value="en"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/><property name="java.vm.info" value="mixed mode"/><property name="java.version" value="1.8.0_281"/><property name="java.ext.dirs" value="/Users/samin/Library/Java/Extensions:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/><property name="sun.boot.class.path" value="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/resources.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/rt.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/sunrsasign.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/jsse.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/jce.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/charsets.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/jfr.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/classes"/><property name="java.vendor" value="Oracle Corporation"/><property name="file.separator" value="/"/><property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/><property name="sun.io.unicode.encoding" value="UnicodeBig"/><property name="sun.cpu.endian" value="little"/><property name="sun.cpu.isalist" value=""/>
+    </properties>
+                     <testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="asSubclass:(Ljava/lang/Class;)Ljava/lang/Class; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="cast:(Ljava/lang/Object;)Ljava/lang/Object; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="desiredAssertionStatus:()Z should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="forName:(Ljava/lang/String;)Ljava/lang/Class; should produce as expected" time="0.004">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="forName:(Ljava/lang/String;ZLjava/lang/ClassLoader;)Ljava/lang/Class; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getAnnotation:(Ljava/lang/Class;)Ljava/lang/annotation/Annotation; should produce as expected" time="0.01">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getAnnotations:()[Ljava/lang/annotation/Annotation; should produce as expected" time="0.005">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getCanonicalName:()Ljava/lang/String; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getClassLoader:()Ljava/lang/ClassLoader; should produce as expected" time="0.004">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getClasses:()[Ljava/lang/Class; should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getComponentType:()Ljava/lang/Class; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getConstructor:([Ljava/lang/Class;)Ljava/lang/reflect/Constructor; should produce as expected" time="0.026">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getConstructors:()[Ljava/lang/reflect/Constructor; should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getDeclaredAnnotations:()[Ljava/lang/annotation/Annotation; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getDeclaredClasses:()[Ljava/lang/Class; should produce as expected" time="0.005">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getDeclaredConstructor:([Ljava/lang/Class;)Ljava/lang/reflect/Constructor; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getDeclaredConstructorOrMethod:(Ljava/lang/Class;Ljava/lang/String;[Ljava/lang/Class;)Ljava/lang/reflect/Member; should produce as expected" time="0.008">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getDeclaredConstructors:()[Ljava/lang/reflect/Constructor; should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getDeclaredField:(Ljava/lang/Class;Ljava/lang/String;)Ljava/lang/reflect/Field; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getDeclaredField:(Ljava/lang/String;)Ljava/lang/reflect/Field; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getDeclaredFields:()[Ljava/lang/reflect/Field; should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getDeclaredFields:(Ljava/lang/Class;Z)[Ljava/lang/reflect/Field; should produce as expected" time="0.005">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getDeclaredMethod:(Ljava/lang/String;[Ljava/lang/Class;)Ljava/lang/reflect/Method; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getDeclaredMethods:()[Ljava/lang/reflect/Method; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getDeclaredMethods:(Ljava/lang/Class;Z)[Ljava/lang/reflect/Method; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getDeclaringClass:()Ljava/lang/Class; should produce as expected" time="0.023">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getEnclosingClass:()Ljava/lang/Class; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getEnclosingConstructor:()Ljava/lang/reflect/Constructor; should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getEnclosingMethod:()Ljava/lang/reflect/Method; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getEnumConstants:()[Ljava/lang/Object; should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getField:(Ljava/lang/String;)Ljava/lang/reflect/Field; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getFields:()[Ljava/lang/reflect/Field; should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getGenericInterfaces:()[Ljava/lang/reflect/Type; should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getGenericSuperclass:()Ljava/lang/reflect/Type; should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getInterfaces:()[Ljava/lang/Class; should produce as expected" time="0.004">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getMethod:(Ljava/lang/String;[Ljava/lang/Class;)Ljava/lang/reflect/Method; should produce as expected" time="0.039">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getMethods:()[Ljava/lang/reflect/Method; should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getModifiers:()I should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getName:()Ljava/lang/String; should produce as expected" time="0.011">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getPackage:()Ljava/lang/Package; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getProtectionDomain:()Ljava/security/ProtectionDomain; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getResource:(Ljava/lang/String;)Ljava/net/URL; should produce as expected" time="0.006">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getResourceAsStream:(Ljava/lang/String;)Ljava/io/InputStream; should produce as expected" time="0.017">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getSigners:()[Ljava/lang/Object; should produce as expected" time="0.002">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getSimpleName:()Ljava/lang/String; should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getSuperclass:()Ljava/lang/Class; should produce as expected" time="0.005">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="getTypeParameters:()[Ljava/lang/reflect/TypeVariable; should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="isAnnotation:()Z should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="isAnnotationPresent:(Ljava/lang/Class;)Z should produce as expected" time="0.003">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="isAnonymousClass:()Z should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="isArray:()Z should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="isAssignableFrom:(Ljava/lang/Class;)Z should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="isEnum:()Z should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="isInstance:(Ljava/lang/Object;)Z should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="isInterface:()Z should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="isLocalClass:()Z should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="isMemberClass:()Z should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="isPrimitive:()Z should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="isSynthetic:()Z should produce as expected" time="0.0">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="newInstance:()Ljava/lang/Object; should produce as expected" time="0.001">
+                                                 
+                                               </testcase><testcase classname="org.argus.jawa.flow.summary.model.ClassSuTest" name="toString:()Ljava/lang/String; should produce as expected" time="0.01">
+                                                 
+                                               </testcase>
+                     <system-out><![CDATA[]]></system-out>
+                     <system-err><![CDATA[]]></system-err>
+                   </testsuite>

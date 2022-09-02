@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_tool" default="compile.module.tool">
+  <dirname property="module.tool.basedir" file="${ant.file.module_tool}"/>
+  
+  <property name="module.jdk.home.tool" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.tool" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.tool" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.tool" value="-encoding UTF-8 -source 8 -target 8 ${compiler.args}"/>
+  
+  <property name="tool.output.dir" value="${module.tool.basedir}/target/classes"/>
+  <property name="tool.testoutput.dir" value="${module.tool.basedir}/target/test-classes"/>
+  
+  <path id="tool.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="tool.module.production.classpath">
+    <path refid="${module.jdk.classpath.tool}"/>
+    <path refid="library.maven:_org.ow2.asm:asm:9.2.classpath"/>
+    <path refid="library.maven:_org.ow2.asm:asm-util:9.2.classpath"/>
+    <path refid="library.maven:_org.ow2.asm:asm-tree:9.2.classpath"/>
+    <path refid="library.maven:_org.ow2.asm:asm-analysis:9.2.classpath"/>
+    <path refid="library.maven:_com.github.kwart.jd:jd-lib:1.2.1.classpath"/>
+    <path refid="library.maven:_org.jd:jd-core:1.1.3.classpath"/>
+    <path refid="library.maven:_org.slf4j:slf4j-simple:1.6.4.classpath"/>
+    <path refid="library.maven:_org.slf4j:slf4j-api:1.6.4.classpath"/>
+  </path>
+  
+  <path id="tool.runtime.production.module.classpath">
+    <pathelement location="${tool.output.dir}"/>
+    <path refid="library.maven:_org.ow2.asm:asm:9.2.classpath"/>
+    <path refid="library.maven:_org.ow2.asm:asm-util:9.2.classpath"/>
+    <path refid="library.maven:_org.ow2.asm:asm-tree:9.2.classpath"/>
+    <path refid="library.maven:_org.ow2.asm:asm-analysis:9.2.classpath"/>
+    <path refid="library.maven:_com.github.kwart.jd:jd-lib:1.2.1.classpath"/>
+    <path refid="library.maven:_org.jd:jd-core:1.1.3.classpath"/>
+    <path refid="library.maven:_org.slf4j:slf4j-simple:1.6.4.classpath"/>
+    <path refid="library.maven:_org.slf4j:slf4j-api:1.6.4.classpath"/>
+  </path>
+  
+  <path id="tool.module.classpath">
+    <path refid="${module.jdk.classpath.tool}"/>
+    <pathelement location="${tool.output.dir}"/>
+    <path refid="library.maven:_org.ow2.asm:asm:9.2.classpath"/>
+    <path refid="library.maven:_org.ow2.asm:asm-util:9.2.classpath"/>
+    <path refid="library.maven:_org.ow2.asm:asm-tree:9.2.classpath"/>
+    <path refid="library.maven:_org.ow2.asm:asm-analysis:9.2.classpath"/>
+    <path refid="library.maven:_com.github.kwart.jd:jd-lib:1.2.1.classpath"/>
+    <path refid="library.maven:_org.jd:jd-core:1.1.3.classpath"/>
+    <path refid="library.maven:_org.slf4j:slf4j-simple:1.6.4.classpath"/>
+    <path refid="library.maven:_org.slf4j:slf4j-api:1.6.4.classpath"/>
+  </path>
+  
+  <path id="tool.runtime.module.classpath">
+    <pathelement location="${tool.testoutput.dir}"/>
+    <pathelement location="${tool.output.dir}"/>
+    <path refid="library.maven:_org.ow2.asm:asm:9.2.classpath"/>
+    <path refid="library.maven:_org.ow2.asm:asm-util:9.2.classpath"/>
+    <path refid="library.maven:_org.ow2.asm:asm-tree:9.2.classpath"/>
+    <path refid="library.maven:_org.ow2.asm:asm-analysis:9.2.classpath"/>
+    <path refid="library.maven:_com.github.kwart.jd:jd-lib:1.2.1.classpath"/>
+    <path refid="library.maven:_org.jd:jd-core:1.1.3.classpath"/>
+    <path refid="library.maven:_org.slf4j:slf4j-simple:1.6.4.classpath"/>
+    <path refid="library.maven:_org.slf4j:slf4j-api:1.6.4.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.tool">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.tool">
+    <patternset refid="excluded.from.module.tool"/>
+  </patternset>
+  
+  <path id="tool.module.sourcepath">
+    <dirset dir="${module.tool.basedir}">
+      <include name="src/main/java"/>
+      <include name="src/main/resources"/>
+    </dirset>
+  </path>
+  
+  <path id="tool.module.test.sourcepath">
+    <dirset dir="${module.tool.basedir}">
+      <include name="src/test/java"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.tool" depends="compile.module.tool.production,compile.module.tool.tests" description="Compile module Tool"/>
+  
+  <target name="compile.module.tool.production" depends="register.custom.compilers" description="Compile module Tool; production classes">
+    <mkdir dir="${tool.output.dir}"/>
+    <javac2 destdir="${tool.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.tool}/javac">
+      <compilerarg line="${compiler.args.tool}"/>
+      <bootclasspath refid="tool.module.bootclasspath"/>
+      <classpath refid="tool.module.production.classpath"/>
+      <src refid="tool.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.tool"/>
+    </javac2>
+    
+    <copy todir="${tool.output.dir}">
+      <fileset dir="${module.tool.basedir}/src/main/java">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.tool.basedir}/src/main/resources">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.tool.tests" depends="register.custom.compilers,compile.module.tool.production" description="compile module Tool; test classes" unless="skip.tests">
+    <mkdir dir="${tool.testoutput.dir}"/>
+    <javac2 destdir="${tool.testoutput.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.tool}/javac">
+      <compilerarg line="${compiler.args.tool}"/>
+      <bootclasspath refid="tool.module.bootclasspath"/>
+      <classpath refid="tool.module.classpath"/>
+      <src refid="tool.module.test.sourcepath"/>
+      <patternset refid="excluded.from.compilation.tool"/>
+    </javac2>
+    
+    <copy todir="${tool.testoutput.dir}">
+      <fileset dir="${module.tool.basedir}/src/test/java">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="clean.module.tool" description="cleanup module">
+    <delete dir="${tool.output.dir}"/>
+    <delete dir="${tool.testoutput.dir}"/>
+  </target>
+</project>

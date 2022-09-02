@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mJawaParserTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw a parse exception[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should throw a parse exception[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw a parse exception on monitor[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on big program[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not throw an exception on interface[0m[0m

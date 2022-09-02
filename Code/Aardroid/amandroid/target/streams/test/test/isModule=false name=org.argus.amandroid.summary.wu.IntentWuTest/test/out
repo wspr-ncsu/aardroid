@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mIntentWuTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/intent/MainActivity.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for Lorg/arguslab/icc_explicit1/MainActivity;.singleFunc:()V[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/intent/MainActivity.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for Lorg/arguslab/icc_explicit1/MainActivity;.caller:()V[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/jawa/intent/MainActivity.jawa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce expected summary for Lorg/arguslab/icc_explicit1/MainActivity;.caller2:()V[0m[0m

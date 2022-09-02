@@ -1,0 +1,25 @@
+record `com.hugo.test.MultiFunction` @kind class @AccessFlag PUBLIC {
+}
+global `java.util.Map` `@@com.hugo.test.MultiFunction.map` @AccessFlag PUBLIC;
+procedure `void` `<init>`(`com.hugo.test.MultiFunction` `this` @kind this, `java.lang.String` `name` @kind object, `int` `age`) @signature `Lcom/hugo/test/MultiFunction;.<init>:(Ljava/lang/String;I)V` @AccessFlag PUBLIC_CONSTRUCTOR {
+
+  #L0f4e98.  call `<init>`(`this`) @signature `Ljava/lang/Object;.<init>:()V` @kind direct;
+  #L0f4eae.  return @kind void;
+}
+
+procedure `void` `updateMap`(`java.lang.String` key @kind object, `java.lang.String` value @kind object) @signature `Lcom/hugo/test/MultiFunction;.updateMap:(Ljava/lang/String;Ljava/lang/String;)V` @AccessFlag STATIC {
+    `java.util.Map` Map_v0;
+
+  #L1. Map_v0:= `@@com.hugo.test.MultiFunction.map` @type ^`java.util.Map` @kind object;
+  #L2. call `put`(Map_v0, key, value) @signature `Ljava/util/Map;.put:(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;` @kind virtual;
+  #L3. return @kind void;
+}
+procedure `void` `testGlobalMap`() @signature `Lcom/hugo/test/MultiFunction;.testGlobalMap:()V` @AccessFlag PUBLIC_STATIC {
+    `java.lang.String` key;
+    `java.lang.String` value;
+
+    #L1. key:= "key" @kind object;
+    #L2. value:= "value" @kind object;
+    #L3. call `updateMap`(key, value) @signature `Lcom/hugo/test/MultiFunction;.updateMap:(Ljava/lang/String;Ljava/lang/String;)V` @kind static;
+    #L4. return @kind void;
+}
