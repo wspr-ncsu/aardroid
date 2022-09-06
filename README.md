@@ -101,6 +101,8 @@ Full information on how AARDroid works can be found on our academic paper that w
 
 Samin Yaseer Mahmud, K. Virgil English, Seaver Thorne, William Enck, Adam Oest and Muhhamad Saad.  **Analysis of Payment Service Provider SDKs in Android.** In Proceedings of the 2022 Annual Computer Security Applications Conference (ACSAC) , December 2022, Austin, TX, USA. [\[PDF\]](https://saminmahmud.com/files/papers/acsac22-mahmud.pdf)
 
+If you use AARDroid in your research, consider citing our work using this Bibtex entry:
+
 ```
 @conference{aardroid-acsac22,
   title = {{Analysis of Payment Service Provider SDKs in Android}},
