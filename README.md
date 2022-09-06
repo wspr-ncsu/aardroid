@@ -99,7 +99,7 @@ the directory where Argus-SAF repository is and then import it as `SBT project`.
 
 Full information on how AARDroid works can be found on our academic paper that was accepted at 29th USENIX Security Symposium.   
 
-Samin Yaseer Mahmud, K. Virgil English, Seaver Thorne, William Enck, Adam Oest and Muhhamad Saad.  Analysis of Payment Service Provider SDKs in Android. In Proceedings of the 2022 Annual Computer Security Applications Conference (ACSAC) , December 2022, Austin, TX, USA. [\[PDF\]](https://saminmahmud.com/files/papers/acsac22-mahmud.pdf))
+Samin Yaseer Mahmud, K. Virgil English, Seaver Thorne, William Enck, Adam Oest and Muhhamad Saad.  Analysis of Payment Service Provider SDKs in Android. In Proceedings of the 2022 Annual Computer Security Applications Conference (ACSAC) , December 2022, Austin, TX, USA. [\[PDF\]](https://saminmahmud.com/files/papers/acsac22-mahmud.pdf)
 
 ## License
 
