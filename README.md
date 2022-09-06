@@ -44,10 +44,8 @@ python3 aardroid_runner.py
 
 final_out.txt contains the summary of different MSTG checks that are violated in different SDKs.
 For different MSTG checks refer to OWASP's Mobile Security Testing Guide.
-For the output:
-Y denotes the property is violated
-N denotes the property is not violated
-N/A denotes the property does not apply
+
+For the output: Y denotes the property is violated, N denotes the property is not violated, N/A denotes the property does not apply.
 
 For example,
 ```
