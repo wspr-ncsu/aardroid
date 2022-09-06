@@ -3,7 +3,7 @@
 
 This is official reporitory for [AARDroid](https://github.com/wspr-ncsu/aardroid).
 
-AARDroid is a static analysis tool to identify non compliances with industry regulations of payment SDKs in Android. This work is heavily motivated by Mobile Application Security Verification Standard [(MASVS)](https://owasp.org/www-pdf-archive/OWASP_Mobile_AppSec_Verification_Standard_v0.9.2.pdf) and Payment Card Industry's Data Security Standard [(PCI-DSS)] (https://docs-prv.pcisecuritystandards.org/PCI%20DSS/Standard/PCI-DSS-v4_0.pdf).
+AARDroid is a static analysis tool to identify non compliances with industry regulations of payment SDKs in Android. This work is heavily motivated by Mobile Application Security Verification Standard [(MASVS)](https://owasp.org/www-pdf-archive/OWASP_Mobile_AppSec_Verification_Standard_v0.9.2.pdf) and Payment Card Industry's Data Security Standard [(PCI-DSS)](https://docs-prv.pcisecuritystandards.org/PCI%20DSS/Standard/PCI-DSS-v4_0.pdf).
 
 ## Repository structure
 
