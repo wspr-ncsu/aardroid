@@ -16,17 +16,47 @@ aardroid/
 
 ```
 
-## Running AARDroid
+## Running AARDroid using the script
 
 Using the pre built binaries and scripts you can easily run AARDroid from the commandline.
 
-1. Go to SNAPSHOT-1.0 folder
+1. Make sure the requried SDK files are in AAR/Test folder
+
+2. Go to SNAPSHOT-1.0 folder
 
 ```
 cd SNAPSHOT-1.0
 ```
 
-2. Make sure the requried SDK files are
+3. Make sure build files from previous run are deleted
+
+
+4. Run the aardroid_runner.py script 
+
+```
+python3 aardroid_runner.py
+```
+
+5. The output should be generated in final_out.txt. 
+
+
+## Interpreting the output file
+
+final_out.txt contains the summary of different MSTG checks that are violated in different SDKs.
+For different MSTG checks refer to OWASP's Mobile Security Testing Guide.
+For the output:
+Y denotes the property is violated
+N denotes the property is not violated
+N/A denotes the property does not apply
+
+For example,
+```
+SDK, MSTG S1, MSTG S2
+test_SDK, Y, N
+```
+Denotes, in test_SDK the MSTG S1 (Data Storage 1) property is violated but S2 is not.
+
+A more detailed output for each SDK is available on output/<sdk_name>/AARDroid.txt file.
 
 Depend on Jawa
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.arguslab/jawa_2.12/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.arguslab/jawa_2.12)
