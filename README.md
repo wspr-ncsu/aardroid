@@ -3,6 +3,7 @@
 
 This is official reporitory for [AARDroid](https://github.com/wspr-ncsu/aardroid).
 
+AARDroid is a static analysis tool to identify non compliances with industry regulations of payment SDKs in Android. This work is heavily motivated by Mobile Application Security Verification Standard [(MASVS)](https://owasp.org/www-pdf-archive/OWASP_Mobile_AppSec_Verification_Standard_v0.9.2.pdf) and Payment Card Industry's Data Security Standard [(PCI-DSS)] (https://docs-prv.pcisecuritystandards.org/PCI%20DSS/Standard/PCI-DSS-v4_0.pdf).
 
 ## Repository structure
 
@@ -15,7 +16,7 @@ aardroid/
 
 ```
 
-## Obtaining Argus-SAF as library
+## Running AARDroid
 
 Depend on Jawa
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.arguslab/jawa_2.12/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.arguslab/jawa_2.12)
@@ -49,7 +50,7 @@ libraryDependencies += "com.github.arguslab" %% "amandroid" % VERSION
  $ java -jar argus-saf_***-version-assembly.jar
  ```
 
-## Developing Argus-SAF
+## Developing AARDroid
 
 In order to take part in Argus-SAF development, you need to:
 
@@ -92,55 +93,14 @@ the directory where Argus-SAF repository is and then import it as `SBT project`.
   $ tools/bin/sbt assembly
   ```
   
-## Install JN-Saf with NativeDroid
 
-Install `JN-Saf` and `NativeDroid`:
-  ```
-  $ tools/scripts/install.sh
-  ```
   
-You can install either one by:
-  ```
-  $ tools/scripts/install.sh jnsaf
-  $ tools/scripts/install.sh nativedroid
-  ```
+## Publication
 
-## Run BenchMark Test
-After install `JN-Saf` and `NativeDroid`. Run:
-  ```
-  $ tools/scripts/benchmark_cli.sh droidbench
-  $ tools/scripts/benchmark_cli.sh iccbench
-  $ tools/scripts/benchmark_cli.sh nativeflowbench
-  ```
-  
-## Launch JN-SAF for native analysis
+Full information on how AARDroid works can be found on our academic paper that was accepted at 29th USENIX Security Symposium.   
 
-1. Install nativedroid:
-  ```
-  $ tools/scripts/install.sh nativedroid
-  ```
-2. Start nativedroid server:
-  ```
-  $ python nativedroid/nativedroid/server/native_droid_server.py /tmp/binaries nativedroid/nativedroid/data/sourceAndSinks/NativeSourcesAndSinks.txt nativedroid/data/sourceAndSinks/TaintSourcesAndSinks.txt
-  ```
-3. Use [NativeDroidClient.scala](https://github.com/arguslab/Argus-SAF/blob/master/jnsaf/src/main/scala/org/argus/jnsaf/client/NativeDroidClient.scala) to communicate with the nativedroid server to perform native analysis.
+Samin Yaseer Mahmud, K. Virgil English, Seaver Thorne, William Enck, Adam Oest and Muhhamad Saad. Cardpliance: PCI DSS Compliance of Android Applications. In Proceedings of the 29th USENIX Security Symposium (SECURITY), August 2020, Boston, MA, USA. [\[PDF\]](https://saminmahmud.com/files/papers/acsac22-mahmud.pdf))
 
-### Troubleshooting:
+## License
 
-1. If python code in Intellij shows unresolved imports, you should manually import the nativedroid folder as a python module and set Python SDK.
-Recommend to use a python virtualenv to install nativedroid with it's required python packages.
-
-## Bazel build
-
-Bazel integration in progress. Ignore all the BUILD files for now.
-
-## How to contribute
-
-To contribute to the Argus-SAF, please send us a [pull request](https://help.github.com/articles/using-pull-requests/#fork--pull) from your fork of this repository!
-
-For more information on building and developing Argus-SAF, please also check out our [guidelines for contributing](CONTRIBUTING.md). People who provided excellent ideas are listed in [contributor](CONTRIBUTOR.md).
- 
-## What to contribute
-
-If you don't know what to contribute,
-you can checkout the [issue tracker](https://github.com/arguslab/Argus-SAF/issues) with `help wanted` label, and claim one to help yourself warm up with Argus-SAF.
+Details about the license can be found on LICENSE.txt
