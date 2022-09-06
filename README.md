@@ -18,6 +18,16 @@ aardroid/
 
 ## Running AARDroid
 
+Using the pre built binaries and scripts you can easily run AARDroid from the commandline.
+
+1. Go to SNAPSHOT-1.0 folder
+
+```
+cd SNAPSHOT-1.0
+```
+
+2. Make sure the requried SDK files are
+
 Depend on Jawa
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.arguslab/jawa_2.12/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.arguslab/jawa_2.12)
 by editing
@@ -38,21 +48,10 @@ libraryDependencies += "com.github.arguslab" %% "amandroid" % VERSION
 
 > Note that: Depend on Amandroid will automatically add Jawa as dependency. If you use Maven or Gradle, you should translate it to corresponding format.
 
-## Obtaining Argus-SAF CLI Tool
-
-**Requirement: Java 10**
-
-1. Click [![Download](https://api.bintray.com/packages/arguslab/maven/argus-saf/images/download.svg)](https://bintray.com/arguslab/maven/argus-saf/_latestVersion)
-2. Download argus-saf_***-version-assembly.jar
-3. Get usage by:
-  
- ```
- $ java -jar argus-saf_***-version-assembly.jar
- ```
 
 ## Developing AARDroid
 
-In order to take part in Argus-SAF development, you need to:
+In order to take part in AARDroid development, you need to:
 
 1. Install the following software:
     - IntelliJ IDEA 14 or higher with compatible version of Scala plugin
@@ -60,14 +59,14 @@ In order to take part in Argus-SAF development, you need to:
 2. Fork this repository and clone it to your computer
 
   ```
-  $ git clone https://github.com/arguslab/Argus-SAF.git
+  $ git clone https://github.com/wspr-ncsu/aardroid.git
   ```
 
 3. Open IntelliJ IDEA, select `File -> New -> Project from existing sources`
 (if from initial window: `Import Project`), point to
-the directory where Argus-SAF repository is and then import it as `SBT project`.
+the directory where AARdroid repository is and then import it as `SBT project`.
 
-4. When importing is finished, go to Argus-SAF repo directory and run
+4. When importing is finished, go to Code/Aardroid repo directory and run
 
   ```
   $ git checkout .idea
@@ -75,22 +74,17 @@ the directory where Argus-SAF repository is and then import it as `SBT project`.
 
   in order to get artifacts and run configurations for IDEA project.
 
-5. [Optional] To build Argus-SAF more smooth you should give 2GB of the heap size to the compiler process.
+5. [Optional] To build AARDroid more smooth you should give 2GB of the heap size to the compiler process.
    - if you use Scala Compile Server (default):
    `Settings > Languages & Frameworks > Scala Compile Server > JVM maximum heap size`
 
    - if Scala Compile Server is disabled:
    `Settings > Build, Execution, Deployment > Compiler > Build process heap size`
    
-6. Build Argus-SAF from command line: go to Argus-SAF repo directory and run
+6. Build AARDroid from command line: go to Aardroid repo directory and run
 
   ```
   $ tools/bin/sbt clean compile test
-  ```
-
-7. Generate fat jar: go to Argus-SAF repo directory and run
-  ```
-  $ tools/bin/sbt assembly
   ```
   
 
