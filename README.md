@@ -56,26 +56,6 @@ Denotes, in test_SDK the MSTG S1 (Data Storage 1) property is violated but S2 is
 
 A more detailed output for each SDK is available on output/<sdk_name>/AARDroid.txt file.
 
-Depend on Jawa
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.arguslab/jawa_2.12/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.arguslab/jawa_2.12)
-by editing
-`build.sbt`:
-
-```
-libraryDependencies += "com.github.arguslab" %% "jawa" % VERSION
-```
-
-Depend on Amandroid
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.arguslab/amandroid_2.12/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.arguslab/amandroid_2.12)
-by editing
-`build.sbt`:
-
-```
-libraryDependencies += "com.github.arguslab" %% "amandroid" % VERSION
-```
-
-> Note that: Depend on Amandroid will automatically add Jawa as dependency. If you use Maven or Gradle, you should translate it to corresponding format.
-
 
 ## Developing AARDroid
 
