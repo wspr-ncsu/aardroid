@@ -65,6 +65,12 @@ Denotes, in test_SDK the MSTG S1 (Data Storage 1) property is violated but S2 is
 
 A more detailed output for each SDK is available on output/<sdk_name>/AARDroid.txt file.
 
+## Running AARDroid without using the script
+
+In case there are errors while running using the scripts, we can run the entire pipeline step by step 
+
+(TODO: Complete this)
+
 
 ## Developing AARDroid
 
