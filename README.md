@@ -30,6 +30,15 @@ cd SNAPSHOT-1.0
 
 3. Make sure build files from previous run are deleted
 
+```
+rm -r temp
+rm -r build
+rm -r output
+rm dfg.dot
+rm ddg.dot
+rm final_out.txt
+```
+
 
 4. Run the aardroid_runner.py script 
 
