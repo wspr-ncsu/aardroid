@@ -27,7 +27,7 @@ sdk.dir=<directory_to_android_sdk>
 
 Using the pre built binaries and scripts you can easily run AARDroid from the commandline.
 
-1. Make sure the requried SDK files are in AAR/Test folder
+1. Make sure the requried SDK file is in AAR/Test folder
 
 2. Go to SNAPSHOT-1.0 folder
 
