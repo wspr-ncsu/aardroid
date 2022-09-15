@@ -16,6 +16,13 @@ aardroid/
 
 ```
 
+## Requirement
+1. JAVA (JDK 8 and JRE 1.8)
+2. Android SDK (can be downloaded from [here](https://drive.google.com/drive/u/1/folders/1o3QO19ZXF3uwwZEkHtMeieQ8oxKyx6iI)). Unzip the tar in a folder, then create a file SNAPSHOT-1.0/local.properties and paste this following code there to set the Android SDK directory.
+```
+sdk.dir=<directory_to_android_sdk>
+```
+
 ## Running AARDroid using the script
 
 Using the pre built binaries and scripts you can easily run AARDroid from the commandline.
