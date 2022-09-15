@@ -12,7 +12,7 @@ apk_directory ="app/build/outputs/apk/debug/app-debug.apk"
 source_sink_directory = "temp/SS.txt"
 library_directory = "app/libs/library.aar"
 #timing_info = "SDK, preprocessing time, DF analysis time, Crypto analysis time, Elapsed time\n"
-output_string_header = "SDK, MSTG S1,MSTG S2,MSTG S3,MSTG S4,MSTG S5,MSTG S6,MSTG S7,MSTG S8,MSTG S9,MSTG S11,MSTG S13,MSTG S14,MSTG C1,MSTG C3,MSTG C4,MSTG C6,MSTG T1,MSTG T2,MSTG T3,MSTG T4,MSTG P1,MSTG P2,MSTG P3,MSTG P4,MSTG P5,MSTG P6,MSTG P7,MSTG P10,MSTG P11, MSTG P9\n"
+output_string_header = "SDK, DS1,DS2,DS3,DS4,DS5,DS6,DS7,DS8,DS9,DS10,DS11,DS12,CRYPTO1,CRYPTO2,CRYPTO3,CRYPTO4,TLS1,TLS2,TLS3,TLS4,PLAT1,PLAT2,PLAT3,PLAT4,PLAT5,PLAT6,PLAT8,PLAT7\n"
 output_file = "final_out.txt"
 
 
@@ -116,6 +116,7 @@ def generate_output(sdkname):
         cryptoguard_res = parse_cryptoguard_output(sdkname)
         amandroid_out: str = open("output/" + sdkname + "/AARDroid.txt").read()
         output = ""
+        no_ui = False
 
         '''
         if (amandroid_out.__contains__("WBV:  \n")):
@@ -171,6 +172,7 @@ def generate_output(sdkname):
             output += "N,"
         else:
             output += "N/A,"
+            no_ui = True
 
         #MSTG S6 Data leakage through IPC
         if (amandroid_out.__contains__("DF6 violated")):
@@ -201,13 +203,18 @@ def generate_output(sdkname):
             output += "N,"
 
         #MSTG S9 Screenshot possible
-        if (amandroid_out.__contains__("S2 violated")):
+        if(no_ui==True):
+            output += "N/A,"
+        elif (amandroid_out.__contains__("S2 violated")):
             output += "Y,"
         else:
             output += "N,"
 
+
         #MSTG S11 Screenlock presence test skipped
-        if (amandroid_out.__contains__("S3 violated")):
+        if(no_ui==True):
+            output += "N/A,"
+        elif (amandroid_out.__contains__("S3 violated")):
             output += "Y,"
         else:
             output += "N,"
@@ -302,20 +309,6 @@ def generate_output(sdkname):
         else:
             output += "N,"
 
-        #MSTG P2 Unvalidated input
-        if (amandroid_out.__contains__("DF3 violated")):
-            sens = "("
-            if (amandroid_out.__contains__("DF3 violated. Persistence of sensitive data without input validation in local storage found Sensitivity: HIGH")):
-                sens = sens + "H"
-            if (amandroid_out.__contains__("DF3 violated. Persistence of sensitive data without input validation in local storage found Sensitivity: MEDIUM")):
-                sens = sens + "M"
-            if (amandroid_out.__contains__("DF3 violated. Persistence of sensitive data without input validation in local storage found Sensitivity: LOW")):
-                sens = sens + "L"
-            sens = sens + ")"
-            output += "Y" + sens + ","
-        else:
-            output += "N,"
-
         #MSTG P3 Export functionality via Custom URL scheme
         if (amandroid_out.__contains__("M5 violated")):
             output += "Y,"
@@ -360,14 +353,10 @@ def generate_output(sdkname):
         else:
             output += "N/A,"
 
-        # MSTG  P11 Custom keyboard used
-        if (amandroid_out.__contains__("7 violated")):
-            output += "Y,"
-        else:
-            output += "N,"
-
         # MSTG  P9 Screen overlay
-        if (amandroid_out.__contains__("S7 violated")):
+        if(no_ui==True):
+            output += "N/A,"
+        elif (amandroid_out.__contains__("S7 violated")):
             output += "Y"
         else:
             output += "N"
