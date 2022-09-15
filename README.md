@@ -23,6 +23,7 @@ aardroid/
 sdk.dir=<directory_to_android_sdk>
 ```
 3. Make a copy SNAPSHOT-1.0/resource/.amandroid_stash into your Home directory
+4. Setup prerequisites for [Cryptoguard](https://github.com/CryptoGuardOSS/cryptoguard#prerequisites-environment-variables)
 
 ## Running AARDroid using the script
 
