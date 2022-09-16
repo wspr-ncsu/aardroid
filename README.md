@@ -18,7 +18,7 @@ aardroid/
 
 ## Prequisite
 1. [JAVA](https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html#CJAGAACB) (JDK 8 and JRE 1.8)
-2. Android SDK (can be downloaded from [here](https://drive.google.com/drive/u/1/folders/1o3QO19ZXF3uwwZEkHtMeieQ8oxKyx6iI)). Unzip the tar in a folder, then create a file SNAPSHOT-1.0/local.properties and paste this following code there to set the Android SDK directory.
+2. Android SDK (can be downloaded from [here](https://drive.google.com/drive/folders/1G10pKXB0qYlIUfpx4WxlQVQ6d3b36Bj6?usp=sharing)). Unzip the tar in a folder, then create a file SNAPSHOT-1.0/local.properties and paste this following code there to set the Android SDK directory.
 ```
 sdk.dir=<directory_to_android_sdk>
 ```
