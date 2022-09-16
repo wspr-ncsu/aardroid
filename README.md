@@ -18,7 +18,13 @@ aardroid/
 
 ## Prequisite
 1. [JAVA](https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html#CJAGAACB) (JDK 8 and JRE 1.8)
-2. Android SDK (can be downloaded from [here](https://drive.google.com/drive/folders/1G10pKXB0qYlIUfpx4WxlQVQ6d3b36Bj6?usp=sharing)). Unzip the tar in a folder, then create a file SNAPSHOT-1.0/local.properties and paste this following code there to set the Android SDK directory.
+2. Android SDK (can be downloaded from [here](https://drive.google.com/drive/folders/1G10pKXB0qYlIUfpx4WxlQVQ6d3b36Bj6?usp=sharing)). Unzip the tar in a folder. 
+You might be required to accept some license agreement
+```
+sudo yes | <android_sdk_directory>/tools/bin/sdkmanager --licenses
+```
+This android-sdk folder would require write permission.
+Create a file SNAPSHOT-1.0/local.properties and paste this following code there to set the Android SDK directory.
 ```
 sdk.dir=<directory_to_android_sdk>
 ```
@@ -27,11 +33,16 @@ e.g.,
 ```
 cp -r SNAPSHOT-1.0/resource/.amandroid_stash ~/
 ```
+P.S If you run using sudo you might need to copy this in root/ directory
 4. Setup environment variables (i.e., JAVA_HOME, ANDROID_HOME)for [Cryptoguard](https://github.com/CryptoGuardOSS/cryptoguard#prerequisites-environment-variables)
 e.g.,
 ```
 export JAVA_HOME=<java_home_directory>
 export ANDROID_HOME=<directory_to_android_sdk>
+```
+Make sure the environment variables are set using
+```
+printenv
 ```
 
 ## Running AARDroid using the script
