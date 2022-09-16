@@ -76,10 +76,10 @@ For the output: Y denotes the property is violated, N denotes the property is no
 
 For example,
 ```
-SDK, MSTG S1, MSTG S2
+SDK, DS1, DS2
 test_SDK, Y, N
 ```
-Denotes, in test_SDK the MSTG S1 (Data Storage 1) property is violated but S2 is not.
+Denotes, in test_SDK the DS1 (Data Storage 1) property is violated but DS2 is not.
 
 A more detailed output for each SDK is available on output/<sdk_name>/AARDroid.txt file.
 
