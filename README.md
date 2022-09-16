@@ -24,6 +24,7 @@ You might be required to accept some license agreement
 sudo yes | <android_sdk_directory>/tools/bin/sdkmanager --licenses
 ```
 This android-sdk folder would require write permission.
+
 Create a file SNAPSHOT-1.0/local.properties and paste this following code there to set the Android SDK directory.
 ```
 sdk.dir=<directory_to_android_sdk>
@@ -34,6 +35,7 @@ e.g.,
 cp -r SNAPSHOT-1.0/resource/.amandroid_stash ~/
 ```
 P.S If you run using sudo you might need to copy this in root/ directory
+
 4. Setup environment variables (i.e., JAVA_HOME, ANDROID_HOME)for [Cryptoguard](https://github.com/CryptoGuardOSS/cryptoguard#prerequisites-environment-variables)
 e.g.,
 ```
